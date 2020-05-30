@@ -1,5 +1,3 @@
-import pathlib
-import os
 import googletrans
 from CODES import *
 main_path = pathlib.Path().absolute()
@@ -24,10 +22,10 @@ What is your purpose?
 while True:
     key = input("What is your answer?: ")
 
-    if (key == "q"):
+    if key == "q":
         print("Program closing.....")
         break
-    elif (key == "1"):
+    elif key == "1":
         print("""
 ---------AVAILABLE LANGUAGES---------
 cs-Czech    en-English  et-Estonian
@@ -64,7 +62,7 @@ tr-Turkish  uk-Ukrainian
         object1.to_database()
         object1.create_new_file(destination_language, file_list[int(selected_file)])
 
-    elif (key == "2"):
+    elif key == "2":
         google_language_list = googletrans.LANGUAGES
         print("""
 ---------TRANSLATABLE LANGUAGES---------
@@ -130,5 +128,6 @@ tr-Turkish  uk-Ukrainian
         object1.translate_them_all(source_language, destination_language)
         object1.to_database()
         object1.create_new_file(destination_language, file_list[int(selected_file)])
+
     else:
         print("Invalid Operation...")
