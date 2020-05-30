@@ -1,0 +1,133 @@
+<Table>
+<Row><Cell>ui_nh_add_alchemy</Cell><Cell>Alchemy Bench</Cell><Cell>Алхимический стол</Cell></Row>
+<Row><Cell>ui_nh_add_altar</Cell><Cell>Altar</Cell><Cell>Алтарь</Cell></Row>
+<Row><Cell>ui_nh_add_archery_range</Cell><Cell>Archery Range</Cell><Cell>Стрельбище</Cell></Row>
+<Row><Cell>ui_nh_add_armorsmith</Cell><Cell>Armoursmith's Tools</Cell><Cell>Инстр. бронника</Cell></Row>
+<Row><Cell>ui_nh_add_brewery</Cell><Cell>Brewery</Cell><Cell>Пивоварня</Cell></Row>
+<Row><Cell>ui_nh_add_dryfood</Cell><Cell>Drying Shed</Cell><Cell>Сушильня</Cell></Row>
+<Row><Cell>ui_nh_add_gamblers</Cell><Cell>Dice Games</Cell><Cell>Игра в кости</Cell></Row>
+<Row><Cell>ui_nh_add_garden</Cell><Cell>Herb Garden</Cell><Cell>Садик с травами</Cell></Row>
+<Row><Cell>ui_nh_add_painting</Cell><Cell>Frescoes</Cell><Cell>Фрески</Cell></Row>
+<Row><Cell>ui_nh_add_saddles</Cell><Cell>Saddler's Equipment</Cell><Cell>Инстр. седельника</Cell></Row>
+<Row><Cell>ui_nh_add_smokehouse</Cell><Cell>Smoke House</Cell><Cell>Коптильня</Cell></Row>
+<Row><Cell>ui_nh_add_weaponsmith</Cell><Cell>Swordsmith's Tools</Cell><Cell>Инстр. мечника</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_baker</Cell><Cell>Honey for baker</Cell><Cell>Мед для пекаря</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_pub</Cell><Cell>Honey for tavern</Cell><Cell>Мед для корчмы</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_baker_pub</Cell><Cell>Cakes for tavern</Cell><Cell>Выпечка для корчмы</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_garrison</Cell><Cell>Weapons for garrison</Cell><Cell>Оружие для гарнизона</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_stables</Cell><Cell>Horseshoes for stables</Cell><Cell>Подковы для конюшни</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_butcher_pub</Cell><Cell>Meat for tavern</Cell><Cell>Мясо для корчмы</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_garrison_pub</Cell><Cell>Tavern customers</Cell><Cell>Завсегдатаи кормы</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_stables_merchant</Cell><Cell>Horses for merchant</Cell><Cell>Лошади для купца</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_adam</Cell><Cell>Innkeeper Adam</Cell><Cell>Корчмарь Адам</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_alchemy</Cell><Cell>Alchemists' bench</Cell><Cell>Алхимический стол</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_altar</Cell><Cell>Altar</Cell><Cell>Алтарь</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_baker</Cell><Cell>Honey cakes</Cell><Cell>Выпечка с медом</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_pub</Cell><Cell>Mead</Cell><Cell>Мед</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_archeryRange</Cell><Cell>Archery range</Cell><Cell>Стрельбище</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_armorsmith</Cell><Cell>Armoursmith's equipment</Cell><Cell>Инструменты бронника</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_bigBread</Cell><Cell>Full stomachs</Cell><Cell>Сытые желудки</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_blackBread</Cell><Cell>Black bread</Cell><Cell>Черный хлеб</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_pub</Cell><Cell>Excellent cakes</Cell><Cell>Прекрасная выпечка</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_scale</Cell><Cell>Municipal scales</Cell><Cell>Общие весы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_garrison</Cell><Cell>Weapons from forge</Cell><Cell>Оружие из кузницы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_stables</Cell><Cell>Horseshoes from forge</Cell><Cell>Подковы из кузницы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_bread_hungry</Cell><Cell>Hungry village</Cell><Cell>Голодная деревня</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_brewery</Cell><Cell>Brewery</Cell><Cell>Пивоварня</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_butcher_pub</Cell><Cell>Meat banquet</Cell><Cell>Мясной пир</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal</Cell><Cell>Charcoal </Cell><Cell>Уголь</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal_ginger</Cell><Cell>Charcoal from Ginger's friends</Cell><Cell>Уголь от друзей Рыжего</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_dryfood</Cell><Cell>Drying shed</Cell><Cell>Сушильня</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_anywhere</Cell><Cell>Stinking stream</Cell><Cell>Вонючий ручей</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_compromise</Cell><Cell>Fairly clean stream</Cell><Cell>Милый красивый ручей</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_far</Cell><Cell>Clean stream</Cell><Cell>Чистый ручей</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_export_wood</Cell><Cell>Selling wood </Cell><Cell>Продажа древесины</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_fricek</Cell><Cell>Fritz</Cell><Cell>Фрицек</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_fricekProductive</Cell><Cell>Fritz is peaceful</Cell><Cell>Фрицек умиротворен</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_matusProductive</Cell><Cell>Matthew works a bit</Cell><Cell>Матуш немного работает</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_gamblers</Cell><Cell>Dice games</Cell><Cell>Игра в кости</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garden</Cell><Cell>Herb garden</Cell><Cell>Садик с травами</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garrison_pub</Cell><Cell>Thirsty soldiers</Cell><Cell>Воины с жаждой</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_auschitz</Cell><Cell>Grain from Uzhitz</Cell><Cell>Зерно из Ужице</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_confiscate</Cell><Cell>Disgruntled labourers</Cell><Cell>Раздраженные работники</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_samopesh</Cell><Cell>Grain from Samopesh</Cell><Cell>Зерно из Самопеши</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_sasau</Cell><Cell>Grain from Sasau</Cell><Cell>Зерно из Сазавы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krkovicka</Cell><Cell>Butcher Kochwurst</Cell><Cell>Мясник Сарделька</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krojchanzl</Cell><Cell>Merchant Kornelius</Cell><Cell>Купец Корнелиус</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_kunes</Cell><Cell>Woodcutter Kunesh</Cell><Cell>Лесоруб Кунеш</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina</Cell><Cell>Woodcutter Raspberry</Cell><Cell>Дровосек Малина</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_banish</Cell><Cell>Raspberry is free</Cell><Cell>Малина бесплатна</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_payoff</Cell><Cell>Dowry paid</Cell><Cell>Выплаченное приданое</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_marek</Cell><Cell>Groom Mark</Cell><Cell>Конюх Марк</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_matus</Cell><Cell>Matthew</Cell><Cell>Матуш</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_ledecko</Cell><Cell>Livestock from Ledetchko</Cell><Cell>Скот из Ледечко</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_rataje</Cell><Cell>Livestock from Rattay</Cell><Cell>Скот из Ратайе</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_sazava</Cell><Cell>Livestock from Sasau</Cell><Cell>Скот из Сазавы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_mirka</Cell><Cell>Tavern maid Mirka</Cell><Cell>Служанка Мирка</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_ota</Cell><Cell>Armoursmith Ota</Cell><Cell>Бронник Ота</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_oxen</Cell><Cell>Beasts of burden</Cell><Cell>Вьючные животные</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_painting</Cell><Cell>Frescoes</Cell><Cell>Фрески</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_petr</Cell><Cell>Baker Silvester</Cell><Cell>Пекарь Сильвестр</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_confiscate</Cell><Cell>Poaching ban</Cell><Cell>Запрет браконьерства</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_denounce</Cell><Cell>Tough punishments</Cell><Cell>Наказание непокорных</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_keep</Cell><Cell>Poachers' paradise</Cell><Cell>Браконьерский рай</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_banishWife</Cell><Cell>Harridan banished</Cell><Cell>Старая карга изгнана</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_punishHusband</Cell><Cell>Malis must be sober</Cell><Cell>Поганец должен быть протрезвлен</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_lumberjacks</Cell><Cell>Woodcutter soldiers</Cell><Cell>Воины-лесорубы</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_none</Cell><Cell>No sentries</Cell><Cell>Часовых нет</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_varlets</Cell><Cell>Labourer soldiers</Cell><Cell>Воины-работники</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_saddles</Cell><Cell>Saddler's equipment</Cell><Cell>Инструменты седельника</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_high</Cell><Cell>Overpaid Locator</Cell><Cell>Переплата землемеру</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_low</Cell><Cell>Underpaid Locator</Cell><Cell>Долг землемеру</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_medium</Cell><Cell>Locator's wages</Cell><Cell>Плата землемеру</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_smokehouse</Cell><Cell>Smoke house</Cell><Cell>Коптильня</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_spejlik</Cell><Cell>Butcher Brisket</Cell><Cell>Мясник Грудинка</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stables_merchant</Cell><Cell>Cart horses</Cell><Cell>Тягловые лошади</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stone_talmberk</Cell><Cell>Stone from Talmberg</Cell><Cell>Камень из Тальмберга</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_vasek</Cell><Cell>Groom Vashek</Cell><Cell>Конюх Вашек</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_weaponsmith</Cell><Cell>Swordsmith's equipment</Cell><Cell>Инструменты мечника</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_banish</Cell><Cell>Firm faith</Cell><Cell>Крепкая вера</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_protect</Cell><Cell>Village herbalist</Cell><Cell>Деревенская травница</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_wood_banish</Cell><Cell>Woodcutters banished</Cell><Cell>Лесорубы изгнаны</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zach</Cell><Cell>Armoursmith Zach</Cell><Cell>Бронник Зах</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zvest</Cell><Cell>Swordsmith Fink</Cell><Cell>Оружейник Ябеда</Cell></Row>
+<Row><Cell>ui_nh_objective_church</Cell><Cell>Church repairs</Cell><Cell>Ремонт костела</Cell></Row>
+<Row><Cell>ui_nh_objective_income</Cell><Cell>Village income</Cell><Cell>Доход деревни</Cell></Row>
+<Row><Cell>ui_nh_objective_people</Cell><Cell>Village capacity</Cell><Cell>Жилье (чел.)</Cell></Row>
+<Row><Cell>ui_nh_res_coal</Cell><Cell>Charcoal</Cell><Cell>Уголь</Cell></Row>
+<Row><Cell>ui_nh_res_grain</Cell><Cell>Grain</Cell><Cell>Зерно</Cell></Row>
+<Row><Cell>ui_nh_res_meat</Cell><Cell>Livestock</Cell><Cell>Скот</Cell></Row>
+<Row><Cell>ui_nh_res_stone</Cell><Cell>Stone</Cell><Cell>Камень</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_apiary1</Cell><Cell>Beehives demand little labour, but are well worth having. Forest honey is healthy, tasty and can be used to improve many dishes.</Cell><Cell>Ульи требуют немного внимания, но ими стоит заниматься. Лесной мед полезный, вкусный и может быть использован для улучшения множества блюд.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_baker1</Cell><Cell>Bread is the main staple of the common folk, but the baker also bakes other goods that add variety to the everyday diet.</Cell><Cell>Хлеб - основной продукт для обычного народа, однако пекарь также делает и иную выпечку, добавляя разнообразие в ежедневную диету.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_blacksmith1</Cell><Cell>A decent settlement must have a blacksmith who will fashion tools, nails, horseshoes and, in times of need, requisites for men-at-arms. With the necessary equipment, he can double either as a swordsmith or an armoursmith.                                    </Cell><Cell>Приличное поселение обязано иметь кузницу, ибо ее работа приносит пользу всем. Она производит инструменты, гвозди, подковы, а в тяжелые времена и оружие. С соответствующими инструментами она может работать в качестве кузницы оружейника или бронника.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_bridge1</Cell><Cell>A stone bridge that will stand up to the comings and goings of all the locals and wagons carrying goods in and out, and one that will not disgrace the village.</Cell><Cell>Каменный мост, благодаря которому повозки с товарами будут проезжать в поселение и из него, и который не будет позорить деревню.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_butcher1</Cell><Cell>It is the task of the butcher to slaughter livestock and provide the village with meat, naturally only from domesticated animals, since poaching in the nobles' forests is a serious crime.</Cell><Cell>Задача мясника - убивать скот и снабжать деревню мясом, естественно, одомашненного скота, так как охота в благородных лесах - это серьезное преступление.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_camp1</Cell><Cell>A camp for labourers engaged in all sorts of tasks. Many of them are refugees from Skalitz, but there are also some who heard of Pribyslavitz by chance and came to seek their fortune.</Cell><Cell>Лагерь работников, берущихся за любую работу. Многие из них беженцы из Скалицы, но есть и те, кто случайно услышал о Прибыславице и пришел испытать удачу.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_garrison1</Cell><Cell>In times of peace, the guardhouse is home to the forces of law and order. In times of war, it serves as the town armoury and military barracks. Naturally, it also has a combat arena where the men can train.</Cell><Cell>В мирное время это дом защитников закона и порядка. Во время войны он также служит местным арсеналом и казармами для воинов. Естественно, там есть ристалище, где люди могут учиться сражаться.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church1</Cell><Cell>Essential repairs to the church should begin with fixing the roof to protect the building from the rain and prevent further decay.</Cell><Cell>Жизненно необходимый ремонт костела должен начаться с ремонта крыши, чтобы защитить здание от дождя и предотвратить дальнейшее обветшание.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church2</Cell><Cell>The beautiful repaired church is the pride of the whole settlement.</Cell><Cell>Прекрасно отремонтированный костел - гордость всей деревни.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_lumberjacks1</Cell><Cell>Woodcutters fell and process the trees in the surrounding woods, ensuring a permanent supply of timber for construction of new buildings, repairs and basic fortifications.</Cell><Cell>Лесорубы валят и обрабатывают деревья в окружающих лесах, постоянно поставляя древесину для сооружения и ремонта новых зданий и фортификаций.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_merchant1</Cell><Cell>Trade is always an essential element of life in towns as well as villages, allowing you to bring in the goods that are lacking, as well as selling the products your tradesmen create. </Cell><Cell>Торговля всегда являлась важным элементом как в городах, так и в деревнях, позволяя завозить отсутствующие товары и продавать те, что произвели ваши ремесленники.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_pub1</Cell><Cell>The tavern is always busy. After all, what could be better after a hard day's work than to take a breather with friends over a tankard of good ale?</Cell><Cell>В таверне всегда тесно. В конце концов, что может быть лучше, чем после тяжелой дневной работы отдохнуть с друзьями за кружкой доброго эля?</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_stables1</Cell><Cell>Owning stables is a privilege enjoyed by very few. The head grooms manage them for their liege lords and have a great responsibility in handling their valuable mounts, for which they deserve recognition.</Cell><Cell>Владение конюшнями - это привилегия, доступная не каждому. Главный конюх управляет ими для своего лорда и несет всю тяжесть ответственности за их ценными скакунами, что заслуживает признания.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall1</Cell><Cell>The tent will serve at the start instead of a real Rathaus. At least you'll have a place to lay your head before you get a proper Bailiff's residence built.</Cell><Cell>На первых порах вместо настоящий ратуши будет тент. Но хотя бы у тебя будет место где прикорнуть, пока не построится настоящая ратуша.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall2</Cell><Cell>Every sizeable village should have a Rathaus, the seat of law and order embodied by the Bailiff.</Cell><Cell>Любая более-менее большая деревня обязана иметь ратушу - место закона и порядка, воплощаемых рихтаржем.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall3</Cell><Cell>The extended Rathaus is much bigger than the original one, affording possibilities of further improvement into a comfortable Bailiff's residence.</Cell><Cell>Расширенная ратуша гораздо больше обычной, что дает возможность и дальше превращать ее в уютную резиденцию рихтаржа.</Cell></Row>
+<Row><Cell>ui_nh_structure_name_apiary1</Cell><Cell>Beehives</Cell><Cell>Ульи</Cell></Row>
+<Row><Cell>ui_nh_structure_name_baker1</Cell><Cell>Bakery</Cell><Cell>Пекарня</Cell></Row>
+<Row><Cell>ui_nh_structure_name_blacksmith1</Cell><Cell>Forge</Cell><Cell>Кузница</Cell></Row>
+<Row><Cell>ui_nh_structure_name_bridge1</Cell><Cell>Bridge and Road</Cell><Cell>Мост и дорога</Cell></Row>
+<Row><Cell>ui_nh_structure_name_butcher1</Cell><Cell>Butcher's</Cell><Cell>Лавка мясника</Cell></Row>
+<Row><Cell>ui_nh_structure_name_camp1</Cell><Cell>Labourers' Camp</Cell><Cell>Лагерь рабочих</Cell></Row>
+<Row><Cell>ui_nh_structure_name_garrison1</Cell><Cell>Guardhouse</Cell><Cell>Караулка</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church1</Cell><Cell>Church Basic Repairs</Cell><Cell>Костел (нач. ремонт)</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church2</Cell><Cell>Church</Cell><Cell>Костел</Cell></Row>
+<Row><Cell>ui_nh_structure_name_lumberjacks1</Cell><Cell>Woodcutters' Camp</Cell><Cell>Лагерь лесорубов</Cell></Row>
+<Row><Cell>ui_nh_structure_name_merchant1</Cell><Cell>Trader's </Cell><Cell>Лавка купца</Cell></Row>
+<Row><Cell>ui_nh_structure_name_pub1</Cell><Cell>Tavern</Cell><Cell>Корчма</Cell></Row>
+<Row><Cell>ui_nh_structure_name_stables1</Cell><Cell>Stables</Cell><Cell>Конюшни</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall1</Cell><Cell>Temporary Rathaus</Cell><Cell>Ратуша (вр.)</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall2</Cell><Cell>Rathaus</Cell><Cell>Ратуша</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall3</Cell><Cell>Extended Rathaus</Cell><Cell>Ратуша (расш.)</Cell></Row>
+</Table>

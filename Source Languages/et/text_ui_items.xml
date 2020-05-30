@@ -1,0 +1,303 @@
+<Table>
+<Row><Cell>herb_eyewort_occur</Cell><Cell>Grows on pastures and heaths and in all places where there is light enough, as well as wet ground.</Cell><Cell>Kasvab karjamaal, nõmmel ja kõikides kohtades, kus on piisavalt valgust ja märga maad.</Cell></Row>
+<Row><Cell>herb_poppy_occur</Cell><Cell>It is found abundantly in fields and furrows as a bothersome weed.</Cell><Cell>Seda leidub rohkelt põldudelt ja vagudest, tüütu umbrohi.</Cell></Row>
+<Row><Cell>recipe_potion_poison_usage</Cell><Cell>Whoever wants to poison rats and stray dogs or set bait for prey, let him try this potion. Do not drink it, though, and mark the bottle well, lest anyone else should drink from it!</Cell><Cell>Kes iganes tahab mürgitada rotte ja hulkuvaid koeri või panna söödaks saagile, las proovib seda mürki. Ära joo seda ja märgi pudel ära, et keegi teine sellest ei jooks!</Cell></Row>
+<Row><Cell>skillBook_alchemy2_name</Cell><Cell>The Alchemist's Dream II</Cell><Cell>Alkeemiku Unistus II</Cell></Row>
+<Row><Cell>skillBook_drinking0_name</Cell><Cell>Tavern Life</Cell><Cell>Kõrtsi Elu</Cell></Row>
+<Row><Cell>skillBook_herbalism0_name</Cell><Cell>Grasses and Herbs</Cell><Cell>Rohud ja Maitsetaimed</Cell></Row>
+<Row><Cell>skillBook_hunter0_name</Cell><Cell>The Joy of Gutting</Cell><Cell>Rappimise Mõnu</Cell></Row>
+<Row><Cell>skillBook_hunter3_name</Cell><Cell>The Joy of Gutting III</Cell><Cell>Rappimise Mõnu III</Cell></Row>
+<Row><Cell>skillBook_pickpocketing2_name</Cell><Cell>The Rule of St. Nicholas II</Cell><Cell>Püha Nikolause Reegel II</Cell></Row>
+<Row><Cell>skillBook_sharpening2_desc_small</Cell><Cell>A skill book on maintenance.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can only be read after achieving Level 5</Cell><Cell>Oskuste raamat hoius.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Saab lugeda, kui on saavutatud Tase 5</Cell></Row>
+<Row><Cell>skillBook_sharpening2_name</Cell><Cell>Sharp as a Knife II</Cell><Cell>Terav nagu Nuga II</Cell></Row>
+<Row><Cell>skillBook_speech2_name</Cell><Cell>Silence is Golden and Other Myths II</Cell><Cell>Vaikus on Kuldne ja Muud Müüdid II</Cell></Row>
+<Row><Cell>skillBook_speech3_name</Cell><Cell>Silence is Golden and Other Myths III</Cell><Cell>Vaikus on Kuldne ja Muud Müüdid III</Cell></Row>
+<Row><Cell>skillBook_strength2_name</Cell><Cell>Hercules and His Diet II</Cell><Cell>Hercules ja Tema Dieet II</Cell></Row>
+<Row><Cell>skillBook_vitality2_name</Cell><Cell>Marathon II</Cell><Cell>Maraton II</Cell></Row>
+<Row><Cell>skillBook_vitality3_name</Cell><Cell>Marathon III</Cell><Cell>Maraton III</Cell></Row>
+<Row><Cell>skillBook_vitality4_name</Cell><Cell>Marathon IV</Cell><Cell>Maraton IV</Cell></Row>
+<Row><Cell>ui_desc_the_ambroz_die</Cell><Cell>Dice that belonged to Ambrose, the Sasau tailor, and now maybe to me?</Cell><Cell>Täring, mis kuulus Ambrose'ile, Sasau rätsepale, ja nüüd võibolla mulle?</Cell></Row>
+<Row><Cell>ui_desc_the_die_f</Cell><Cell>A playing die someone tried to load to their advantage, but they didn't do a very good job.</Cell><Cell>Mängutäring, mida keegi on proovinud oma kasuks ära kasutada, kuid selle jaoks pole hea töö tehtud.</Cell></Row>
+<Row><Cell>ui_in_apple_dried</Cell><Cell>Tart and chewy, it won't fill you much, but it'll take the fur off your tongue when you're hungover.</Cell><Cell>Hapu ja nätske, ei täida palju su kõhtu, kuid võtab halva maitse suust, kui sul on pohmakas.</Cell></Row>
+<Row><Cell>ui_in_bandit_ear</Cell><Cell>A hacked-off bandit's ear. The ear is hacked off, that is - the bandit is probably dead.</Cell><Cell>Maha raiutud bandiidi kõrv. Kõrv on maha raiutud, see tähendab - bandiit on arvatavasti surnud.</Cell></Row>
+<Row><Cell>ui_in_bandits_jacket</Cell><Cell>Dead bandit's coat.</Cell><Cell>Surnud röövli kuub.</Cell></Row>
+<Row><Cell>ui_in_book</Cell><Cell>Book</Cell><Cell>Raamat</Cell></Row>
+<Row><Cell>ui_in_boots_002</Cell><Cell>Old well-worn boots.</Cell><Cell>Vanad hästi kantud saapad</Cell></Row>
+<Row><Cell>ui_in_bow_village</Cell><Cell>An ordinary bow made by someone handy at whittling and with the right kind of wood at hand. Don't be fooled - even a home-made bow can be deadly in the hands of an experienced archer.</Cell><Cell>Tavaline vibu, tehtud kellegi hea nikerdaja poolt, kellel oli õiget puitu võtta. Ära alahinda seda - isegi kodus tehtud vibu võibolla kogenenud vibulaskija kätes surmav.</Cell></Row>
+<Row><Cell>ui_in_cap_001</Cell><Cell>The coif is a small cap, usually worn under a helmet or hat, but can also be worn alone.</Cell><Cell>Alismüts on väike müts, tavaliselt kantakse kiivri või kübara all, vahel kantakse ka ilma nendeta.</Cell></Row>
+<Row><Cell>ui_in_ceremonial_mace</Cell><Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A ceremonial mace is a symbol of military status, which is not to say that it's a mere fashion accessory - it serves just as well as a weapon and the heavy head can put serious dents in an opponent's armour... or head.</Cell><Cell>&amp;lt;font color='#512D00'&amp;gt;Relva tüüp: &amp;lt;/font&amp;gt;Sõjanui&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Tseremoniaalne nui on sõjalise staatuse sümbol, mis ei tähenda, et see on lihtsalt moe aksessuaar - see töötab ka relvana ja raske pea võib tõsist kahju teha vastase rüüle...või peale.</Cell></Row>
+<Row><Cell>ui_in_cream</Cell><Cell>Cream has always been a luxurious additive to sauces, whether sweet or savoury.</Cell><Cell>Kreem on alati olnud luksuslik lisa kastmetele, kas magus või soolane.</Cell></Row>
+<Row><Cell>ui_in_dieBlueprints</Cell><Cell>Engraver's documents.</Cell><Cell>Graveerija dokumendid</Cell></Row>
+<Row><Cell>ui_in_doeMeat_smoked</Cell><Cell>That deer has been smoked. Twice.</Cell><Cell>See hirv on suitsutatud. Kaks korda.</Cell></Row>
+<Row><Cell>ui_in_dog_lard</Cell><Cell>Dog lard, suitable for frying horse sausages. Or for rubbing on your chest when you've got a cough.</Cell><Cell>Koera rasv, sobiv hobusevorstide praadimiseks. Või rinna peale hõõrumiseks kui sul on köha.</Cell></Row>
+<Row><Cell>ui_in_dog_meat_dried</Cell><Cell>Some dogs are more useful in this form.</Cell><Cell>Mõned koerad on kasulikumad sellisel kujul</Cell></Row>
+<Row><Cell>ui_in_footwraps</Cell><Cell>The most primitive form of medieval footwear - a piece of leather fastened around the foot with a strap over cloth wraps, which were the precursor to socks.</Cell><Cell>Kõige primitiivsem vorm keskaegsetest jalanõudest - tükk nahka kinnitatud ümber jala, millel on rihm üle riidest mähisest, need olid eelkäijad sokkidele.</Cell></Row>
+<Row><Cell>ui_in_guisarme</Cell><Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon type: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A hooked polearm. No mounted combatant - armour or no armour - can stay in the saddle after being struck by a guisarme.</Cell><Cell>&amp;lt;font color='#512D00'&amp;gt;Relva tüüp: &amp;lt;/font&amp;gt;Odakirves&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Konksudega teivas. Ükski võitleja - rüüga või rüüta - ei suuda sadulasse jääda, kui on hellebardiga löögi saanud.</Cell></Row>
+<Row><Cell>ui_in_hare_meat_smoked</Cell><Cell>Hare meat is delicate, lean and healthy. When smoked, it makes a good snack to take on your travels.</Cell><Cell>Jäneseliha on maitsev, rasvatu ja tervislik. Kui suitsutatud, on see hea suupiste, mida reisidele kaasa võtta.</Cell></Row>
+<Row><Cell>ui_in_hat_001</Cell><Cell>A hat keeps off the sun and rain, but gives little protection against anything more forceful.</Cell><Cell>Müts, mis hoiab ära päikse ja vihma, kuid ei kaitse millegi tugevama eest.</Cell></Row>
+<Row><Cell>ui_in_herring</Cell><Cell>Herring can be smoked, roasted, pickled or boiled. It's very tasty, but one of the boniest fish there are.</Cell><Cell>Heeringat võib suitsutada, rüstida, marineerida või keeta. See on väga maitsev, kuid üks luisemaid kalu.</Cell></Row>
+<Row><Cell>ui_in_hood</Cell><Cell>The hood is a simple head covering that covers the head and also the shoulders and upper body with a short cape or mantle. </Cell><Cell>Kapuuts on lihtne peakate, mis katab pea, õlad ning ka ülakeha koos lühikese mantliga.</Cell></Row>
+<Row><Cell>ui_in_horse_shoe_002</Cell><Cell>Horseshoes suited to long journeys as well as quick flights from ambushes in the woods.</Cell><Cell>Hobuserauad, mis sobivad nii pikkadele teekondadele kui ka metsas varitsuste eest kiireks põgenemiseks.</Cell></Row>
+<Row><Cell>ui_in_cheese_quarter_smoked</Cell><Cell>Whether from cow or sheep cheese, always good.</Cell><Cell>Lehma-või lambajuust, alati hea.</Cell></Row>
+<Row><Cell>ui_in_ChickenHeart</Cell><Cell>There's not a lot of eating in a chicken heart, but it'll keep you chewing for a while.</Cell><Cell>Kana südamest pole palju süüa, kuid seda saab tükk aega nätsutada.</Cell></Row>
+<Row><Cell>ui_in_incendiary_bones3</Cell><Cell>The thorax or rib cage, consisting of the sternum, or breastplate, the ribs and vertebral column. Maybe could be used as a basket for carrying the other bones?</Cell><Cell>Rindkere või rinnakorv, koosneb rinnakust, rinnalauast, ribidest ja selgroost. Võibolla saab seda kasutada korvina, et tassida teisi luid?</Cell></Row>
+<Row><Cell>ui_in_incendiary_bones4</Cell><Cell>The femur or thigh bone. The longest bone in the human body.</Cell><Cell>Reieluu. Pikim luu inimkehas.</Cell></Row>
+<Row><Cell>ui_in_keyname_doors</Cell><Cell>Keys to all the doors in the building.</Cell><Cell>Võtmed kõikidele hoone ustele.</Cell></Row>
+<Row><Cell>ui_in_keyname_chests</Cell><Cell>Keys to all trunks in the building.</Cell><Cell>Võtmed kõikide selle maja laegaste jaoks.</Cell></Row>
+<Row><Cell>ui_in_kralovstvi_ceske</Cell><Cell>A brief history of the Kingdom of Bohemia.</Cell><Cell>Lühike ajalugu Boheemia Kuningriigist.</Cell></Row>
+<Row><Cell>ui_in_kytlice_001</Cell><Cell>The tunic is a favourite outer garment of poorer folk.</Cell><Cell>Tuunika on vaese rahva lemmik väljas kantav rõivas.</Cell></Row>
+<Row><Cell>ui_in_longbow</Cell><Cell>The longbow is the best and deadliest weapon medieval bowmakers came up with. But not just anyone is able to handle one. Most of all it needs a strong, steady arm. </Cell><Cell>Lihtvibu on parim ja surmavaim relv keskajal, millega vibutegijad hakkama said. Kui mitte igaüks ei suuda seda käsitleda. Kõige rohkem on vaja tugevat, kindlat kätt.</Cell></Row>
+<Row><Cell>ui_in_meat_piece_dried</Cell><Cell>If you've got more meat than you know what to do with, why not dry it and save it for later?</Cell><Cell>Kui sul on rohkem liha kui seda vaja on, siis miks mite seda kuivatada ja hilisemaks jätta?</Cell></Row>
+<Row><Cell>ui_in_nahrdelnik</Cell><Cell>Necklaces, chains and other ornaments are an integral part of 15th century men and women's fashion. Just like today, their main purpose is to flaunt the wearer's wealth and social status.</Cell><Cell>Kaelakeed, ketid ja teised ehted on lahutamatu osa 15. sajandi meeste ja naiste moest. Nagu täna, nende põhimõte on uhkustada ja kandija jõukust ja sotsiaalset staatust näidata.</Cell></Row>
+<Row><Cell>ui_in_ondrejs_tankard</Cell><Cell>Designed for real men, so better return it, or else...!</Cell><Cell>Mõeldud tõelistele meestele, niiet parem anna see tagasi, või muidu...!</Cell></Row>
+<Row><Cell>ui_in_pa_helmet_002_talmberk</Cell><Cell>The kettle hat was a popular medieval helmet of simple construction, therefore commonly worn by less well-equipped men-at-arms.</Cell><Cell>Selline kiiver oli lihtsa ehitusega populaarne keskaja kiiver, seetõttu tihtipeale kantud halvemini varustatud sõjameeste poolt.</Cell></Row>
+<Row><Cell>ui_in_pants_004</Cell><Cell>Hose are the medieval precursor of trousers. A standard item of clothing for burghers and nobility alike.</Cell><Cell>Sukad on keskaegsed pükste eelkäijad. Tavaline riidejupp linnaelanike ja aadlike jaoks.</Cell></Row>
+<Row><Cell>ui_in_pickpocket_vagabund_ring</Cell><Cell>The family ring I was supposed to steal for the widow who sold it to a usurer.</Cell><Cell>Pere sõrmus, mille ma pidin varastama lese jaoks, kes müüs selle sõrmusest huvitatule.</Cell></Row>
+<Row><Cell>ui_in_potion_diarrhoea</Cell><Cell>Will make you weak and speed up your bowel movements.</Cell><Cell>Teeb sind nõrgaks ja kiirendab su soolestiku liikumisi.</Cell></Row>
+<Row><Cell>ui_in_potion_generic</Cell><Cell>An unknown potion. God alone knows what good - or bad - it can do.</Cell><Cell>Tundmatu jook. Jumal üksi teab, mis head - või halba - see võib teha.</Cell></Row>
+<Row><Cell>ui_in_potion_hooch</Cell><Cell>Strong alcoholic drink. Watch out for the hangover!</Cell><Cell>Tugev alkohoolne jook. Olge ettevaatlik pohmelliga!</Cell></Row>
+<Row><Cell>ui_in_prsten_tereza</Cell><Cell>God knows how the magpie came by the ring, but it's not going to fit on the bird's claw, so you might as well take it.</Cell><Cell>Jumal teab, kuidas harakas selle sõrmuse leidis, kuid see ei sobi linnu küünistele, niiet sa võid selle kaasa võtta.</Cell></Row>
+<Row><Cell>ui_in_sazava_Church_Key</Cell><Cell>A useful item for locking and unlocking doors.</Cell><Cell>Kasulik asi uste lukku panemiseks ja lahti tegemiseks.</Cell></Row>
+<Row><Cell>ui_in_shield</Cell><Cell>A shield is especially suited for use with short weapons. There are countless shapes and sizes of shields, but the heater ('shield-shaped') shield is one of the most common. In addition to its defensive function, it also carries the owner's colours, revealing whether the bearer is a nobleman or a member of a lord's garrison or town militia.</Cell><Cell>Kilp on eriti sobilik kasutuseks koos väikeste mõõkadega. On lugematu arv erinevates kujudes ja suurustes kilpe, kuid kolmnurkkilp on üks tavalisemaid. Lisaks selle kaitsefunktsioonidele, kannab see kasutaja värve, mis näitab, kas kandja on aadlik või isanda armeest või linna kaitseväest.</Cell></Row>
+<Row><Cell>ui_in_shirt_001</Cell><Cell>The linen shirt is a basic garment worn by rich and poor alike.</Cell><Cell>Linane särk on tavaline rõivas, kantud nii rikaste kui vaeste poolt.</Cell></Row>
+<Row><Cell>ui_in_sword1</Cell><Cell>The bastard sword is a staple of medieval warfare. It can be used both as a one-handed sword (especially when fighting on horseback) as well as a two-handed one. For this reason it is sometimes also called a 'hand-and-a-half' sword.</Cell><Cell>Värdmõõk on tähtis keskaegses sõjas. Seda saab kasutada nii ühekäemõõgana (eriti võideldes hobuse seljas) kui ka kahekäemõõgana. Seetõttu on seda vahel kutsutud ka 'ühe- ja poolekäeliseks' mõõgaks.</Cell></Row>
+<Row><Cell>ui_in_tereza_voda</Cell><Cell>Water</Cell><Cell>Vesi</Cell></Row>
+<Row><Cell>ui_in_unknown_key_b2</Cell><Cell>Unknown key. Looks very used.</Cell><Cell>Tundmatu võti. Tundub kasutatud.</Cell></Row>
+<Row><Cell>ui_in_water</Cell><Cell>Drinking water in a skin.</Cell><Cell>Joogivesi anumas</Cell></Row>
+<Row><Cell>ui_mn_adams_necklace</Cell><Cell>Adam's family cross</Cell><Cell>Adami pere rist</Cell></Row>
+<Row><Cell>ui_mn_bag_of_money_TT</Cell><Cell>My share</Cell><Cell>Minu jaotis</Cell></Row>
+<Row><Cell>ui_mn_cat_talisman</Cell><Cell>Cat's paw</Cell><Cell>Kassi käpp</Cell></Row>
+<Row><Cell>ui_mn_ear</Cell><Cell>Human ear</Cell><Cell>Inimese kõrv</Cell></Row>
+<Row><Cell>ui_mn_kterak_medovinu_variti</Cell><Cell>How Good Mead is Brewed</Cell><Cell>Kuidas Keeta Head Liha</Cell></Row>
+<Row><Cell>ui_mn_manfreds_purse</Cell><Cell>Manfred's purse</Cell><Cell>Manfredi rahakott</Cell></Row>
+<Row><Cell>ui_mn_meluzina_2</Cell><Cell>The Legend of Melusine II</Cell><Cell>Melusiini Legend II</Cell></Row>
+<Row><Cell>ui_mn_ondrejs_tankard</Cell><Cell>Andrew's tankard</Cell><Cell>Andrew tanker</Cell></Row>
+<Row><Cell>ui_mn_ptackuv_milostny_dopis_quest</Cell><Cell>Sealed love letter </Cell><Cell>Avamata armastuskiri</Cell></Row>
+<Row><Cell>ui_mn_quill</Cell><Cell>Quill</Cell><Cell>Sulg</Cell></Row>
+<Row><Cell>ui_mn_rehole_I</Cell><Cell>The Rule of St. Benedict I </Cell><Cell>Püha Benedictuse Reegel I</Cell></Row>
+<Row><Cell>ui_mn_rosesForKlara</Cell><Cell>Roses for Klara</Cell><Cell>Roosid Klarale</Cell></Row>
+<Row><Cell>ui_mn_survivors_money_bag</Cell><Cell>Stanislav's purse</Cell><Cell>Stanislavi rahakott</Cell></Row>
+<Row><Cell>ui_mn_unknown_key</Cell><Cell>Key</Cell><Cell>Võti</Cell></Row>
+<Row><Cell>ui_nm_a_camp_proof_bandit</Cell><Cell>Bandit leader's spurs</Cell><Cell>Röövlite pealiku kannused</Cell></Row>
+<Row><Cell>ui_nm_alchemyOil</Cell><Cell>Oleum</Cell><Cell>Õli</Cell></Row>
+<Row><Cell>ui_nm_alchemySpiritus</Cell><Cell>Spiritus</Cell><Cell>Naps</Cell></Row>
+<Row><Cell>ui_nm_alchemyWater</Cell><Cell>Aqua</Cell><Cell>Vesi</Cell></Row>
+<Row><Cell>ui_nm_alchemyWine</Cell><Cell>Vinum</Cell><Cell>Vein</Cell></Row>
+<Row><Cell>ui_nm_apple</Cell><Cell>Apple</Cell><Cell>Õun</Cell></Row>
+<Row><Cell>ui_nm_apple_cooked</Cell><Cell>Cooked apple</Cell><Cell>Ahjuõun</Cell></Row>
+<Row><Cell>ui_nm_apple_dried</Cell><Cell>Dried apple</Cell><Cell>Kuivatatud õun</Cell></Row>
+<Row><Cell>ui_nm_apron_001</Cell><Cell>Apron</Cell><Cell>Põll</Cell></Row>
+<Row><Cell>ui_nm_apron_002</Cell><Cell>Blacksmith's apron</Cell><Cell>Sepa põll</Cell></Row>
+<Row><Cell>ui_nm_arrow_bad</Cell><Cell>Poor quality arrow</Cell><Cell>Halva kvaliteediga nool</Cell></Row>
+<Row><Cell>ui_nm_arrow_broken</Cell><Cell>Broken arrow</Cell><Cell>Katkine nool</Cell></Row>
+<Row><Cell>ui_nm_auspurk_ruka</Cell><Cell>Augsburg gauntlets</Cell><Cell>Augsburgi kindad</Cell></Row>
+<Row><Cell>ui_nm_axe</Cell><Cell>Axe</Cell><Cell>Kirves</Cell></Row>
+<Row><Cell>ui_nm_bacon</Cell><Cell>Bacon</Cell><Cell>Peekon</Cell></Row>
+<Row><Cell>ui_nm_bandage</Cell><Cell>Bandage</Cell><Cell>Side</Cell></Row>
+<Row><Cell>ui_nm_bandit_ear</Cell><Cell>Bandit's ear</Cell><Cell>Bandiidi kõrv</Cell></Row>
+<Row><Cell>ui_nm_battle_axe</Cell><Cell>Axe</Cell><Cell>Kirves</Cell></Row>
+<Row><Cell>ui_nm_beefMeat_cooked</Cell><Cell>Cooked beef</Cell><Cell>Keedetud piff</Cell></Row>
+<Row><Cell>ui_nm_beefMeat_smoked</Cell><Cell>Smoked beef</Cell><Cell>Suitsutatud piff</Cell></Row>
+<Row><Cell>ui_nm_beer_for_henry</Cell><Cell>Beer for Henry</Cell><Cell>Õlu Henryle</Cell></Row>
+<Row><Cell>ui_nm_beer_jug2</Cell><Cell>Beer</Cell><Cell>Õlu</Cell></Row>
+<Row><Cell>ui_nm_beet</Cell><Cell>Beet  </Cell><Cell>Peet</Cell></Row>
+<Row><Cell>ui_nm_bird_trap_full</Cell><Cell>Bird trap</Cell><Cell>Linnulõks</Cell></Row>
+<Row><Cell>ui_nm_boletus</Cell><Cell>Boletus edulis</Cell><Cell>Harilik kivipuravik</Cell></Row>
+<Row><Cell>ui_nm_boletus_cooked</Cell><Cell>Cooked boletus</Cell><Cell>Keedetud puravik</Cell></Row>
+<Row><Cell>ui_nm_boletus_dried</Cell><Cell>Dried boletus</Cell><Cell>Kuivatatud puravik</Cell></Row>
+<Row><Cell>ui_nm_bone</Cell><Cell>Bone</Cell><Cell>Luu</Cell></Row>
+<Row><Cell>ui_nm_boots_001</Cell><Cell>Footwraps and soles</Cell><Cell>Jalanartsud ja tallad</Cell></Row>
+<Row><Cell>ui_nm_boots_002</Cell><Cell>Old boots</Cell><Cell>Vanad saapad</Cell></Row>
+<Row><Cell>ui_nm_boots_003</Cell><Cell>Slippers</Cell><Cell>Sussid</Cell></Row>
+<Row><Cell>ui_nm_boots_008</Cell><Cell>Boots</Cell><Cell>Saapad</Cell></Row>
+<Row><Cell>ui_nm_boots_011</Cell><Cell>Noble's shoes</Cell><Cell>Aadliku jalatsid</Cell></Row>
+<Row><Cell>ui_nm_bow_cuman_2</Cell><Cell>Cuman bow</Cell><Cell>Türgi vibu</Cell></Row>
+<Row><Cell>ui_nm_bow_expensive2</Cell><Cell>Elm longbow</Cell><Cell>Jalakast lihtvibu</Cell></Row>
+<Row><Cell>ui_nm_bow_cheap4</Cell><Cell>Villager's elm bow</Cell><Cell>Külaelaniku jalakast vibu</Cell></Row>
+<Row><Cell>ui_nm_bow_test</Cell><Cell>Trial bow</Cell><Cell>Katsevibu</Cell></Row>
+<Row><Cell>ui_nm_bow_testing</Cell><Cell>Ordinary bow</Cell><Cell>Tavaline vibu</Cell></Row>
+<Row><Cell>ui_nm_breadQuarter</Cell><Cell>Bread</Cell><Cell>Leib</Cell></Row>
+<Row><Cell>ui_nm_breadroll</Cell><Cell>Bread roll</Cell><Cell>Leivarull</Cell></Row>
+<Row><Cell>ui_nm_cabbage</Cell><Cell>Cabbage</Cell><Cell>Kapsas</Cell></Row>
+<Row><Cell>ui_nm_cap</Cell><Cell>Coif</Cell><Cell>Alusmüts</Cell></Row>
+<Row><Cell>ui_nm_carrot</Cell><Cell>Carrot</Cell><Cell>Porgand</Cell></Row>
+<Row><Cell>ui_nm_ceremonial_mace</Cell><Cell>Ceremonial mace</Cell><Cell>Tseremoniaalne sõjanui</Cell></Row>
+<Row><Cell>ui_nm_club</Cell><Cell>Bludgeon</Cell><Cell>Nui</Cell></Row>
+<Row><Cell>ui_nm_coffee</Cell><Cell>Coffee</Cell><Cell>Kohv</Cell></Row>
+<Row><Cell>ui_nm_cotte_004_c1_apron</Cell><Cell>Dress and apron</Cell><Cell>Kleit ja põll</Cell></Row>
+<Row><Cell>ui_nm_cream</Cell><Cell>Cream</Cell><Cell>Kreem</Cell></Row>
+<Row><Cell>ui_nm_crystal_meth</Cell><Cell>Crystal meth</Cell><Cell>Metamfetamiin</Cell></Row>
+<Row><Cell>ui_nm_deer_meat</Cell><Cell>Venison</Cell><Cell>Hirveliha</Cell></Row>
+<Row><Cell>ui_nm_deerMeat_dried</Cell><Cell>Dried venison</Cell><Cell>Kuivatatud hirveliha</Cell></Row>
+<Row><Cell>ui_nm_dieBlueprints</Cell><Cell>Engraver's documents</Cell><Cell>Graveerija dokumendid</Cell></Row>
+<Row><Cell>ui_nm_divisLetter</Cell><Cell>Letters for Sir Divish</Cell><Cell>Kirjad Söör Divishile</Cell></Row>
+<Row><Cell>ui_nm_doeMeat</Cell><Cell>Roe-deer venison</Cell><Cell>Hirveliha</Cell></Row>
+<Row><Cell>ui_nm_doeMeat_smoked</Cell><Cell>Smoked roe venison</Cell><Cell>Suitsutatud hirveliha</Cell></Row>
+<Row><Cell>ui_nm_dog_lard</Cell><Cell>Dog lard  </Cell><Cell>Koera rasv</Cell></Row>
+<Row><Cell>ui_nm_dog_meat_dried</Cell><Cell>Dried dog meat</Cell><Cell>Kuivatatud koeraliha</Cell></Row>
+<Row><Cell>ui_nm_dried_mushroom</Cell><Cell>Dried mushrooms</Cell><Cell>Kuivatatud seened</Cell></Row>
+<Row><Cell>ui_nm_egg</Cell><Cell>Egg</Cell><Cell>Muna</Cell></Row>
+<Row><Cell>ui_nm_female_shoes</Cell><Cell>Lady's slippers</Cell><Cell>Daami sussid</Cell></Row>
+<Row><Cell>ui_nm_flute</Cell><Cell>Flute</Cell><Cell>Flööt</Cell></Row>
+<Row><Cell>ui_nm_garlic</Cell><Cell>Garlic</Cell><Cell>Küüslauk</Cell></Row>
+<Row><Cell>ui_nm_gold_cross</Cell><Cell>Gold cross</Cell><Cell>Kuldrist</Cell></Row>
+<Row><Cell>ui_nm_golden_egg</Cell><Cell>Golden egg</Cell><Cell>Kuldmuna</Cell></Row>
+<Row><Cell>ui_nm_guisarme</Cell><Cell>Guisarme</Cell><Cell>Hellebard</Cell></Row>
+<Row><Cell>ui_nm_halberd</Cell><Cell>Halberd</Cell><Cell>Hellebard</Cell></Row>
+<Row><Cell>ui_nm_hare_meat_dried</Cell><Cell>Dried hare meat</Cell><Cell>Kuivatatud jäneseliha</Cell></Row>
+<Row><Cell>ui_nm_hare_meat_smoked</Cell><Cell>Smoked hare meat</Cell><Cell>Suitsutatud jäneseliha</Cell></Row>
+<Row><Cell>ui_nm_hat_001</Cell><Cell>Brown felt hat</Cell><Cell>Pruun viltmüts</Cell></Row>
+<Row><Cell>ui_nm_hat_001_green</Cell><Cell>Green felt hat</Cell><Cell>Roheline viltmüts</Cell></Row>
+<Row><Cell>ui_nm_hat_001_red</Cell><Cell>Red felt hat</Cell><Cell>Punane viltmüts</Cell></Row>
+<Row><Cell>ui_nm_hat_001_yellow</Cell><Cell>Yellow felt hat</Cell><Cell>Kollane viltmüts</Cell></Row>
+<Row><Cell>ui_nm_hat_006_colorVar_A</Cell><Cell>Brown felt hat</Cell><Cell>Pruun viltmüts</Cell></Row>
+<Row><Cell>ui_nm_head_scarf</Cell><Cell>Head scarf</Cell><Cell>Pearätik</Cell></Row>
+<Row><Cell>ui_nm_head_scarf_004</Cell><Cell>Scarf</Cell><Cell>Sall</Cell></Row>
+<Row><Cell>ui_nm_hen_dead</Cell><Cell>Chicken</Cell><Cell>Kana</Cell></Row>
+<Row><Cell>ui_nm_hen_dead_dried</Cell><Cell>Dried chicken</Cell><Cell>Kuivatatud kana</Cell></Row>
+<Row><Cell>ui_nm_herb_eyewort</Cell><Cell>Eyebright</Cell><Cell>Silmarohi</Cell></Row>
+<Row><Cell>ui_nm_herb_poppy</Cell><Cell>Poppy</Cell><Cell>Moon</Cell></Row>
+<Row><Cell>ui_nm_herb_weed</Cell><Cell>Weed</Cell><Cell>Umbrohi</Cell></Row>
+<Row><Cell>ui_nm_herring</Cell><Cell>Herring</Cell><Cell>Heeringas</Cell></Row>
+<Row><Cell>ui_nm_honey</Cell><Cell>Honey</Cell><Cell>Mesi</Cell></Row>
+<Row><Cell>ui_nm_hood_red</Cell><Cell>Red hood</Cell><Cell>Punane kapuuts</Cell></Row>
+<Row><Cell>ui_nm_horse_shoe_002</Cell><Cell>Travel horseshoes</Cell><Cell>Reisimiseks hobuserauad</Cell></Row>
+<Row><Cell>ui_nm_hunting_sword_5</Cell><Cell>Butcher's blade</Cell><Cell>Lihuniku terariist</Cell></Row>
+<Row><Cell>ui_nm_charl_frenchcandle</Cell><Cell>French altar candle</Cell><Cell>Prantsuse altari küünal</Cell></Row>
+<Row><Cell>ui_nm_charl_urim_thumim</Cell><Cell>Urim and Thummim</Cell><Cell>Urim ja Tummim</Cell></Row>
+<Row><Cell>ui_nm_cheese_quarter</Cell><Cell>Cheese</Cell><Cell>Juust</Cell></Row>
+<Row><Cell>ui_nm_cheese_quarter_smoked</Cell><Cell>Smoked cheese</Cell><Cell>Suitsutatud juust</Cell></Row>
+<Row><Cell>ui_nm_ChickenHeart</Cell><Cell>Chicken heart</Cell><Cell>Kana süda</Cell></Row>
+<Row><Cell>ui_nm_incendiary_bones3</Cell><Cell>Thorax</Cell><Cell>Rindkere</Cell></Row>
+<Row><Cell>ui_nm_incendiary_bones4</Cell><Cell>Femur</Cell><Cell>Reieluu</Cell></Row>
+<Row><Cell>ui_nm_jacket_003</Cell><Cell>Red vest</Cell><Cell>Punane vest</Cell></Row>
+<Row><Cell>ui_nm_jerky</Cell><Cell>Dried meat</Cell><Cell>Kuivatatud liha</Cell></Row>
+<Row><Cell>ui_nm_karolinas_scarf</Cell><Cell>Karolina's shawl</Cell><Cell>Karolina rätik</Cell></Row>
+<Row><Cell>ui_nm_keyname_doors</Cell><Cell>Door key</Cell><Cell>Ukse võti</Cell></Row>
+<Row><Cell>ui_nm_keyname_chests</Cell><Cell>Trunk key</Cell><Cell>Laeka võti</Cell></Row>
+<Row><Cell>ui_nm_keyname_vk_rat_guard_secret_key</Cell><Cell>Rattay secret door key</Cell><Cell>Rattaje salajane uksevõti</Cell></Row>
+<Row><Cell>ui_nm_keyring_doors</Cell><Cell>Door keys</Cell><Cell>Ukse võtmed</Cell></Row>
+<Row><Cell>ui_nm_keyring_stashes</Cell><Cell>Trunk keys</Cell><Cell>Kirstu võtmed</Cell></Row>
+<Row><Cell>ui_nm_kielbasas_smoked</Cell><Cell>Smoked sausage</Cell><Cell>Suitutatud viiner</Cell></Row>
+<Row><Cell>ui_nm_kozene_ruka</Cell><Cell>Leather gloves</Cell><Cell>Nahkkindad</Cell></Row>
+<Row><Cell>ui_nm_kralovstvi_ceske</Cell><Cell>The Kingdom of Bohemia</Cell><Cell>Boheemia Kuningriik</Cell></Row>
+<Row><Cell>ui_nm_kraslice_b</Cell><Cell>Easter egg blue</Cell><Cell>Lihavõttemuna sinine</Cell></Row>
+<Row><Cell>ui_nm_kumani</Cell><Cell>The Cumans</Cell><Cell>Türklased</Cell></Row>
+<Row><Cell>ui_nm_kytlice_001</Cell><Cell>Red tunic</Cell><Cell>Punane tuunika</Cell></Row>
+<Row><Cell>ui_nm_kytlice_001_green_fejfar</Cell><Cell>Green tunic</Cell><Cell>Roheline tuunika</Cell></Row>
+<Row><Cell>ui_nm_kytlice_001_miparty_03</Cell><Cell>Grey tunic</Cell><Cell>Hall tuunika</Cell></Row>
+<Row><Cell>ui_nm_kytlice_001_skalitz</Cell><Cell>Red tunic</Cell><Cell>Punane tuunika</Cell></Row>
+<Row><Cell>ui_nm_kytlice_001_talmberg</Cell><Cell>Red tunic</Cell><Cell>Punane tuunika</Cell></Row>
+<Row><Cell>ui_nm_leather_boots_HI_001</Cell><Cell>Leather boots </Cell><Cell>Nahksaapad</Cell></Row>
+<Row><Cell>ui_nm_lentil_soup</Cell><Cell>Lentil soup</Cell><Cell>Läätsesupp</Cell></Row>
+<Row><Cell>ui_nm_libri_prohibiti_key</Cell><Cell>Key to forbidden books</Cell><Cell>Keelatud raamatute võti</Cell></Row>
+<Row><Cell>ui_nm_live_chicken</Cell><Cell>Live chicken</Cell><Cell>Eluskana</Cell></Row>
+<Row><Cell>ui_nm_long_sword_expensive_02</Cell><Cell>Herod's Sword</Cell><Cell>Herodi mõõk</Cell></Row>
+<Row><Cell>ui_nm_long_sword_cheap_01</Cell><Cell>Robber's sword</Cell><Cell>Röövli mõõk</Cell></Row>
+<Row><Cell>ui_nm_long_sword_medium_03</Cell><Cell>Piercer</Cell><Cell>Läbilõikaja</Cell></Row>
+<Row><Cell>ui_nm_mace</Cell><Cell>Mace</Cell><Cell>Sõjanui</Cell></Row>
+<Row><Cell>ui_nm_map_klaster_west</Cell><Cell>Treasure map II</Cell><Cell>Aarete kaart II</Cell></Row>
+<Row><Cell>ui_nm_map_neuhof_southeast2</Cell><Cell>Treasure map XIV</Cell><Cell>Aarete kaart XIV</Cell></Row>
+<Row><Cell>ui_nm_meat_piece</Cell><Cell>Piece of meat</Cell><Cell>Lihatükk</Cell></Row>
+<Row><Cell>ui_nm_meat_piece_dried</Cell><Cell>Dried meat</Cell><Cell>Kuivatatud liha</Cell></Row>
+<Row><Cell>ui_nm_nahrdelnik_2</Cell><Cell>Silver neck chain</Cell><Cell>Hõbedast kaelakett</Cell></Row>
+<Row><Cell>ui_nm_nahrdelnik_5</Cell><Cell>Gold chain</Cell><Cell>Kuldkett</Cell></Row>
+<Row><Cell>ui_nm_necklace_001</Cell><Cell>Necklace</Cell><Cell>Kaelakee</Cell></Row>
+<Row><Cell>ui_nm_onion</Cell><Cell>Onion</Cell><Cell>Sibul</Cell></Row>
+<Row><Cell>ui_nm_pa_helmet_002_talmberk</Cell><Cell>Kettle hat</Cell><Cell>Kiiver</Cell></Row>
+<Row><Cell>ui_nm_pa_helmet_023_bonus</Cell><Cell>Warhorse helmet</Cell><Cell>Sõjaratsu kiiver</Cell></Row>
+<Row><Cell>ui_nm_pants_001</Cell><Cell>Red hose</Cell><Cell>Punased sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_001_dirty_brown</Cell><Cell>Brown hose</Cell><Cell>Pruunid sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_001_dirty_green</Cell><Cell>Green hose</Cell><Cell>Rohelised sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_001_skalitz</Cell><Cell>Red-yellow hose</Cell><Cell>Punakollased sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_005</Cell><Cell>Tight olive hose</Cell><Cell>Kitsad oliivi värvi sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_005_arrow</Cell><Cell>Tight hose</Cell><Cell>Kitsad sukad</Cell></Row>
+<Row><Cell>ui_nm_pants_005_greener</Cell><Cell>Tight green hose</Cell><Cell>Kitsad rohelised sukad</Cell></Row>
+<Row><Cell>ui_nm_pear</Cell><Cell>Pear</Cell><Cell>Pirn</Cell></Row>
+<Row><Cell>ui_nm_pickpocket_bag</Cell><Cell>Pouch with amulet</Cell><Cell>Amuletiga kott</Cell></Row>
+<Row><Cell>ui_nm_pickpocket_scarf</Cell><Cell>Farm girl's shawl</Cell><Cell>Maatüdruku rätik</Cell></Row>
+<Row><Cell>ui_nm_pickpocket_vagabund_ring</Cell><Cell>Family ring</Cell><Cell>Pere sõrmus</Cell></Row>
+<Row><Cell>ui_nm_pig_meat</Cell><Cell>Pork</Cell><Cell>Sealiha</Cell></Row>
+<Row><Cell>ui_nm_pitcher_07_milk</Cell><Cell>Milk</Cell><Cell>Piim</Cell></Row>
+<Row><Cell>ui_nm_potion_bane</Cell><Cell>Bane potion</Cell><Cell>Mürgine eliksiir</Cell></Row>
+<Row><Cell>ui_nm_potion_dementia</Cell><Cell>Mind enfeeblement potion</Cell><Cell>Meelekurnatuse eliksiir</Cell></Row>
+<Row><Cell>ui_nm_potion_diarrhoea</Cell><Cell>Diarrhoea potion</Cell><Cell>Kõhulahtisuse rohi</Cell></Row>
+<Row><Cell>ui_nm_potion_generic</Cell><Cell>Unknown potion</Cell><Cell>Tundmatu jook</Cell></Row>
+<Row><Cell>ui_nm_potion_health_strong</Cell><Cell>Lazarus potion</Cell><Cell>Lazaruse eliksiir</Cell></Row>
+<Row><Cell>ui_nm_potion_hooch</Cell><Cell>Moonshine</Cell><Cell>Puskar</Cell></Row>
+<Row><Cell>ui_nm_potion_lover</Cell><Cell>Amor potion</Cell><Cell>Amor'i eliksiir</Cell></Row>
+<Row><Cell>ui_nm_pretzel</Cell><Cell>Pretzel</Cell><Cell>Kringel</Cell></Row>
+<Row><Cell>ui_nm_prsten_tereza</Cell><Cell>Magpie's ring</Cell><Cell>Haraka sõrmus</Cell></Row>
+<Row><Cell>ui_nm_pvl_boots_leather</Cell><Cell>High boots</Cell><Cell>Kõrged saapad</Cell></Row>
+<Row><Cell>ui_nm_radish</Cell><Cell>Radish</Cell><Cell>Redis</Cell></Row>
+<Row><Cell>ui_nm_ratayPrisonCell_key</Cell><Cell>Key</Cell><Cell>Võti</Cell></Row>
+<Row><Cell>ui_nm_raven_feather</Cell><Cell>Raven feathers</Cell><Cell>Ronga suled</Cell></Row>
+<Row><Cell>ui_nm_recipe_archerPotion</Cell><Cell>Recipe for Bowman's Brew</Cell><Cell>Vibumehe õlu retsept</Cell></Row>
+<Row><Cell>ui_nm_recipe_healthStrongPotion</Cell><Cell>Recipe for Lazarus potion</Cell><Cell>Lazaruse eliksiiri retsept</Cell></Row>
+<Row><Cell>ui_nm_recipe_hooch</Cell><Cell>Recipe for Moonshine</Cell><Cell>Puskari retsept</Cell></Row>
+<Row><Cell>ui_nm_recipe_loverPotion</Cell><Cell>Recipe for Amor potion</Cell><Cell>Amor'i eliksiiri retsept</Cell></Row>
+<Row><Cell>ui_nm_recipe_poisonPotion</Cell><Cell>Recipe for Poison</Cell><Cell>Mürgi retsept</Cell></Row>
+<Row><Cell>ui_nm_repairkit_shoes</Cell><Cell>Cobbler's kit</Cell><Cell>Kingsepa komplekt</Cell></Row>
+<Row><Cell>ui_nm_ring_test</Cell><Cell>Ring</Cell><Cell>Sõrmus</Cell></Row>
+<Row><Cell>ui_nm_roe_meat</Cell><Cell>Roe deer meat</Cell><Cell>Hirveliha</Cell></Row>
+<Row><Cell>ui_nm_roe_meat_smoked</Cell><Cell>Smoked roe venison</Cell><Cell>Suitsutatud hirveliha</Cell></Row>
+<Row><Cell>ui_nm_salami</Cell><Cell>Salami</Cell><Cell>Salaami</Cell></Row>
+<Row><Cell>ui_nm_salami_smoked</Cell><Cell>Smoked salami</Cell><Cell>Suitsutatud salaami</Cell></Row>
+<Row><Cell>ui_nm_salmo_trutta_dried</Cell><Cell>Dried trout</Cell><Cell>Kuivatatud forell</Cell></Row>
+<Row><Cell>ui_nm_sazava_Church_Key</Cell><Cell>Key to Sasau Church</Cell><Cell>Võti Sasau Kirikusse</Cell></Row>
+<Row><Cell>ui_nm_scarf_beige</Cell><Cell>Beige scarf</Cell><Cell>Beež rätik</Cell></Row>
+<Row><Cell>ui_nm_scarf_blue</Cell><Cell>Blue scarf</Cell><Cell>Sinine rätik</Cell></Row>
+<Row><Cell>ui_nm_scarf_red</Cell><Cell>Red scarf</Cell><Cell>Punane sall</Cell></Row>
+<Row><Cell>ui_nm_sheep_kidney</Cell><Cell>Sheep kidneys</Cell><Cell>Lamba neerud</Cell></Row>
+<Row><Cell>ui_nm_shield_gothic_01</Cell><Cell>Shield with crest</Cell><Cell>Kilp ristiga</Cell></Row>
+<Row><Cell>ui_nm_shield_heavy</Cell><Cell>Heavy shield</Cell><Cell>Raske kilp</Cell></Row>
+<Row><Cell>ui_nm_shield_round_metal</Cell><Cell>Cuman metal shield</Cell><Cell>Türklaste raudkilp</Cell></Row>
+<Row><Cell>ui_nm_shield_skalice</Cell><Cell>Skalitz shield</Cell><Cell>Skalitz'i kilp</Cell></Row>
+<Row><Cell>ui_nm_shield_talmberk</Cell><Cell>Shield with Talmberg crest</Cell><Cell>Kilp Talmbergi ristiga</Cell></Row>
+<Row><Cell>ui_nm_shield_theresa_reward</Cell><Cell>Skalitz shield</Cell><Cell>Skalitz'i kilp</Cell></Row>
+<Row><Cell>ui_nm_shield_tournament</Cell><Cell>Bouche shield</Cell><Cell>Bouche kilp</Cell></Row>
+<Row><Cell>ui_nm_shirt_001</Cell><Cell>Long linen shirt</Cell><Cell>Pikk linane särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_blue</Cell><Cell>Blue tunic</Cell><Cell>Sinine tuunika</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_brown</Cell><Cell>Brown tunic</Cell><Cell>Pruun tuunika</Cell></Row>
+<Row><Cell>ui_nm_shirt_001_green</Cell><Cell>Green tunic</Cell><Cell>Roheline tuunika</Cell></Row>
+<Row><Cell>ui_nm_shirt_002</Cell><Cell>Linen shirt</Cell><Cell>Linane särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_brown</Cell><Cell>Old shirt</Cell><Cell>Vana särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_green</Cell><Cell>Green shirt</Cell><Cell>Roheline särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_red</Cell><Cell>Grey shirt</Cell><Cell>Hall särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_002_yellow</Cell><Cell>Yellow shirt</Cell><Cell>Kollane särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_003_colorVar_A</Cell><Cell>Dirty work shirt</Cell><Cell>Räpane töösärk</Cell></Row>
+<Row><Cell>ui_nm_shirt_003_colorVar_B</Cell><Cell>Old working shirt</Cell><Cell>Vana töösärk</Cell></Row>
+<Row><Cell>ui_nm_shirt_005_color_var_C</Cell><Cell>Orange shirt</Cell><Cell>Oranž särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_005_color_var_D</Cell><Cell>Brown shirt</Cell><Cell>Pruun särk</Cell></Row>
+<Row><Cell>ui_nm_shirt_006</Cell><Cell>Fancy shirt</Cell><Cell>Kaunis särk</Cell></Row>
+<Row><Cell>ui_nm_shoes</Cell><Cell>Shoes</Cell><Cell>Kingad</Cell></Row>
+<Row><Cell>ui_nm_skull_of_the_devil</Cell><Cell>Devil's skull</Cell><Cell>Pagana kolju</Cell></Row>
+<Row><Cell>ui_nm_smrepairkit_armour</Cell><Cell>Small armourer's kit</Cell><Cell>Rüü sepameistri komplekt</Cell></Row>
+<Row><Cell>ui_nm_spear</Cell><Cell>Spear</Cell><Cell>Oda</Cell></Row>
+<Row><Cell>ui_nm_special_honey</Cell><Cell>Honey</Cell><Cell>Mesi</Cell></Row>
+<Row><Cell>ui_nm_special_salt</Cell><Cell>Salt</Cell><Cell>Sool</Cell></Row>
+<Row><Cell>ui_nm_spur_002</Cell><Cell>Cuman spurs</Cell><Cell>Türklaste kannused</Cell></Row>
+<Row><Cell>ui_nm_spur_003</Cell><Cell>Knight's spurs</Cell><Cell>Rüütli kannused</Cell></Row>
+<Row><Cell>ui_nm_spur_004</Cell><Cell>Silver spurs</Cell><Cell>Hõbedased kannused</Cell></Row>
+<Row><Cell>ui_nm_starosta</Cell><Cell>Saint Wilgefortis</Cell><Cell>Püha Wilgefortis</Cell></Row>
+<Row><Cell>ui_nm_sword_short_c</Cell><Cell>Needle</Cell><Cell>Nõel</Cell></Row>
+<Row><Cell>ui_nm_sword_short_expensive_03</Cell><Cell>Stinger</Cell><Cell>Nõelaja</Cell></Row>
+<Row><Cell>ui_nm_sword1</Cell><Cell>Bastard sword</Cell><Cell>Värdmõõk</Cell></Row>
+<Row><Cell>ui_nm_sword1_quest</Cell><Cell>Old Bastard Sword</Cell><Cell>Vana Värdmõõk</Cell></Row>
+<Row><Cell>ui_nm_tereza_voda</Cell><Cell>Water</Cell><Cell>Vesi</Cell></Row>
+<Row><Cell>ui_nm_test_recept</Cell><Cell>Recipe</Cell><Cell>Retsept</Cell></Row>
+<Row><Cell>ui_nm_test_shirt</Cell><Cell>Servant's shirt</Cell><Cell>Sulase särk</Cell></Row>
+<Row><Cell>ui_nm_the_ambroz_die</Cell><Cell>Ambrose's dice</Cell><Cell>Ambrose'i täring</Cell></Row>
+<Row><Cell>ui_nm_the_devil_die_gold</Cell><Cell>Alfonse's devil die</Cell><Cell>Alfonse kuradi täring</Cell></Row>
+<Row><Cell>ui_nm_the_die_b</Cell><Cell>Lucky die</Cell><Cell>Õnnetäring</Cell></Row>
+<Row><Cell>ui_nm_the_die_f</Cell><Cell>Biased die</Cell><Cell>Mõjutatud täring</Cell></Row>
+<Row><Cell>ui_nm_the_die_k</Cell><Cell>Odd die</Cell><Cell>Imelik täring</Cell></Row>
+<Row><Cell>ui_nm_torch</Cell><Cell>Torch</Cell><Cell>Tõrvik</Cell></Row>
+<Row><Cell>ui_nm_tournament_arrow_broken</Cell><Cell>Broken tournament arrow</Cell><Cell>Katkine nool võistlustelt</Cell></Row>
+<Row><Cell>ui_nm_warhammer</Cell><Cell>Warhammer</Cell><Cell>Sõjahaamer</Cell></Row>
+<Row><Cell>ui_nm_water</Cell><Cell>Drinking water</Cell><Cell>Joogivesi</Cell></Row>
+<Row><Cell>ui_nm_watermelon</Cell><Cell>Watermelon</Cell><Cell>Arbuus</Cell></Row>
+<Row><Cell>ui_nm_white_feather</Cell><Cell>White feathers</Cell><Cell>Valged suled </Cell></Row>
+<Row><Cell>ui_nm_wine</Cell><Cell>Wine</Cell><Cell>Vein</Cell></Row>
+<Row><Cell>ui_nm_wound_enh_arrow</Cell><Cell>Better wounding arrow</Cell><Cell>Paremini haavav nool</Cell></Row>
+</Table>

@@ -1,0 +1,14 @@
+<Table>
+<Row><Cell>hero_stat_kills</Cell><Cell>Enemies killed</Cell><Cell>Ennemis tués</Cell></Row>
+<Row><Cell>hero_stat_max_level</Cell><Cell>Level reached</Cell><Cell>Niveau atteint</Cell></Row>
+<Row><Cell>hero_stat_money</Cell><Cell>Money collected</Cell><Cell>Argent récolté</Cell></Row>
+<Row><Cell>hero_stat_playtime</Cell><Cell>Total playtime</Cell><Cell>Temps de jeu total</Cell></Row>
+<Row><Cell>rich_presence_initial</Cell><Cell>Initial rich presence</Cell><Cell>Présence enrichie initiale</Cell></Row>
+<Row><Cell>rich_presence_main_quest_started</Cell><Cell>Playing the quest %s</Cell><Cell>Joue à la quête %s</Cell></Row>
+<Row><Cell>rich_presence_skill_level_up</Cell><Cell>New skill level (%s)</Cell><Cell>Nouveau niveau de compétence (%s)</Cell></Row>
+<Row><Cell>rich_presence_stat_level_up</Cell><Cell>New stat level (%s)</Cell><Cell>Nouveau niveau de stat (%s)</Cell></Row>
+<Row><Cell>xbox_rp_level_up_skill</Cell><Cell>Skill level up - ( {0} )</Cell><Cell>Compétence améliorée - ( {0} ) - non utilisé</Cell></Row>
+<Row><Cell>xbox_rp_level_up_stat</Cell><Cell>Stat level up - ({0}) - not used now</Cell><Cell>Stat améliorée - ({0}) - non utilisé</Cell></Row>
+<Row><Cell>xbox_rp_playing_game</Cell><Cell>I'm playing the game</Cell><Cell>Je suis en train de jouer</Cell></Row>
+<Row><Cell>xbox_rp_playing_quest</Cell><Cell>Playing the quest {0}</Cell><Cell>Joue à la quête {0}</Cell></Row>
+</Table>

@@ -1,0 +1,495 @@
+<Table>
+<Row><Cell>chapter1a_sch11_yNYA_e1014_nKH7</Cell><Cell>Climb the bell tower.</Cell><Cell>Mine kellatorni.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e107_QOHi</Cell><Cell>Find out more about Limpy Lubosh.</Cell><Cell>Uuri rohkem Lonkava Luboshit kohta.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1076_XD5X</Cell><Cell>Look through the Rattay Black Chronicle for any record of Lubosh.</Cell><Cell>Otsi Rattaje Mustast Kroonikast ülestähendusi Luboshist.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e11_MBcX</Cell><Cell>Find out where the limping bandit lives.</Cell><Cell>Otsi üles lonkava mehikese elukoht.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1159_Mtxp</Cell><Cell>Get embrocation for the Rattay scribe's aching joints.</Cell><Cell>Leia määret Rattaje kirjatundja valulike liigeste jaoks.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1176_AOM6</Cell><Cell>Give the sermon in church instead of Father Godwin.</Cell><Cell>Jutlusta kirikus Isa Godwini asemel.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e12_rc9L</Cell><Cell>Visit Lubosh.</Cell><Cell>Külasta Luboshit.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1229_1XEO</Cell><Cell>Drinking binge</Cell><Cell>Jooming</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1231_Ru5P</Cell><Cell>Sermon</Cell><Cell>Jutlus</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1502_PuYW</Cell><Cell>Find out if anyone knows anything about Limpy Lubosh.</Cell><Cell>Uuri, kas keegi teab midagi Lonkava Luboshi kohta.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1658_5bDW</Cell><Cell>Talk to the Rattay scribe.</Cell><Cell>Räägi Rattaje kirjatundjaga.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e1659_6eO5</Cell><Cell>Get the scribe to help you.</Cell><Cell>Sunni kirjatundjat sind aitama.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e172_iFj4</Cell><Cell>Log: the player knows about Lubosh visiting father Godwin.</Cell><Cell>Logi: mängija teab, et Lubosh külastas isa Godwinit.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e2044_HHuT</Cell><Cell>Morning</Cell><Cell>Hommik</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e2410_qWGC</Cell><Cell>Continue according to the clues in the Black Chronicle.</Cell><Cell>Jätka, toetudes Musta Kroonika vihjetele.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e351_rFWm</Cell><Cell>Talk to the priest.</Cell><Cell>Räägi preestriga.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e384_U0bo</Cell><Cell>The Confessional Seal  </Cell><Cell>Pihisaladus</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e385_T36V</Cell><Cell>Meet the parish priest in the tavern in the evening</Cell><Cell>Kohtu koguduse preestriga õhtul kõrtsis.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e588_Ddzg</Cell><Cell>Sit down with the priest.</Cell><Cell>Võta istet preestriga.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e664_RF12</Cell><Cell>Earn the priest's trust.</Cell><Cell>Teeni ära preestri usaldus.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e719_3Lwd</Cell><Cell>Sit down with the priest.</Cell><Cell>Võta istet preestriga.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e721_TY6A</Cell><Cell>Apologize to the priest.</Cell><Cell>Vabanda preestri ees.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e8_OteH</Cell><Cell>Start Save</Cell><Cell>Alusta salvestamist</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e9_w0XE</Cell><Cell>Find the Neuhof bandit in Uzhitz.</Cell><Cell>Otsi üles Neuhofi röövel Uzhitzis.</Cell></Row>
+<Row><Cell>chapter1a_sch11_yNYA_e987_cgom</Cell><Cell>Help Godwin.</Cell><Cell>Aita Godwinit.</Cell></Row>
+<Row><Cell>chapter1a_sch12_Po3h_e191_U3Fk</Cell><Cell>Track down Reeky</Cell><Cell>Otsi üles Reku</Cell></Row>
+<Row><Cell>chapter1a_sch12_Po3h_e194_KRKO</Cell><Cell>Talk to Reeky's father</Cell><Cell>Räägi Reku isaga</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e122_1S20</Cell><Cell>Buy a bag of charcoal at the market.</Cell><Cell>Osta turult üks kotitäis sütt.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e123_qR2C</Cell><Cell>Collect the debt from Kunesh.</Cell><Cell>Nõua Kuneshi võlga.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e124_A03Y</Cell><Cell>Pick up the cross-guard at the castle.</Cell><Cell>Mine käepidemele lossi järgi.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e125_tPl_</Cell><Cell>Buy ale at the tavern.</Cell><Cell>Osta kõrtsist õlu.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e274_QSPJ</Cell><Cell>autosave</Cell><Cell>automaatne salvestus</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e276_YE9x</Cell><Cell>Try to get the axe, hammer and nails back another way.</Cell><Cell>Proovi saada kirves, haamer ning naelad tagasi muul viisil.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e286_nrzN</Cell><Cell>autosave father</Cell><Cell>automaatne salvestus isa</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e287_SKHt</Cell><Cell>autosave Deutsch</Cell><Cell>automaatne salvestus sakslane</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e288_cm95</Cell><Cell>Go to Mother - she'll patch you up.</Cell><Cell>Mine ema juurde - ta puhastab su haavad.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e427_Bg57</Cell><Cell>Robbing a thief…</Cell><Cell>Varaga röövimine...</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e428_3vXC</Cell><Cell>Money from father.</Cell><Cell>Raha isalt.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e437_HxE2</Cell><Cell>Get a lockpick from Fritz to open Kunesh's chest.</Cell><Cell>Hangi muukraud Fritsult, et avada Kuneshi kirst.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e45_Ywh6</Cell><Cell>Go to your father</Cell><Cell>Mine oma isa juurde</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e551_pCeo</Cell><Cell>Find something at Kunesh's worth selling.</Cell><Cell>Leia Kuneshi juurest midagi, mida saaks müüa.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e566_0uUc</Cell><Cell>Lure Deutsch's wife away</Cell><Cell>Meelita Sakslase naine eemale</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e70_kemB</Cell><Cell>Go to the sword-fighting lesson.</Cell><Cell>Mine mõõgavõitluse tundi.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e751_YP0p</Cell><Cell>Go with your friends to Deutsch's house.</Cell><Cell>Mine sõpradega Sakslase maja juurde.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e841_lmXf</Cell><Cell>Discuss the plan of attack with your friends.</Cell><Cell>Aruta sõpradega rünnaku plaani.</Cell></Row>
+<Row><Cell>chapter1a_sch2_iRf2_e851_mMs8</Cell><Cell>I refused to go dung throwing with my friends.</Cell><Cell>Ma keeldusis sõpradega minna sitta viskama.</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e105_qi5q</Cell><Cell>Undertake Bernard's training</Cell><Cell>Läbi Bernardi treening.</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e107_ymgZ</Cell><Cell>Slashing</Cell><Cell>Salvamine</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e108_uwH8</Cell><Cell>Stabbing</Cell><Cell>Torkamine</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e109_DVJO</Cell><Cell>Chain strikes</Cell><Cell>Ahellöögid</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e110_Uu3K</Cell><Cell>Block</Cell><Cell>Kaitse</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e111_3ueC</Cell><Cell>Zone change</Cell><Cell>Tsooni vahetus</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e112_YDFC</Cell><Cell>Attack the teacher</Cell><Cell>Ründa õpetajat</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e113_Z3vF</Cell><Cell>Perform the perfect block</Cell><Cell>Soorita täiuslik kaitse</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e114_jkme</Cell><Cell>Attack the teacher</Cell><Cell>Ründa õpetajat</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e115_zvMK</Cell><Cell>Dodge the attack</Cell><Cell>Põikle löögi eest</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e116_aT28</Cell><Cell>Feint</Cell><Cell>Teeskle</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e158_9F0B</Cell><Cell>Autosave</Cell><Cell>Automaatselt salvesta</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e3_DCrW</Cell><Cell>Go to the training ground and talk to Captain Bernard.</Cell><Cell>Mine treeningväljakule ja räägi Kapten Bernardiga.</Cell></Row>
+<Row><Cell>chapter1a_sch39_RQYJ_e4_KqPb</Cell><Cell>Wait for Bernard at the training ground.</Cell><Cell>Oota Bernardit treeningväljakul.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e11_Q5Va</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e12_zRBy</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e13_bPPm</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e13_Wnf9</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e13_xkty</Cell><Cell>Autosave at start of chase</Cell><Cell>Salvesta automaatselt jälituse alguses.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e15_pERt</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e3_922e</Cell><Cell>Ride to Talmberg.</Cell><Cell>Ratsuta Talmbergi.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e8_mx90</Cell><Cell>Get a horse.</Cell><Cell>Leia hobune.</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e8_ZHrr</Cell><Cell>Start Save</Cell><Cell>Alusta salvestust</Cell></Row>
+<Row><Cell>chapter1a_sch7_9t19_e9_HyBy</Cell><Cell>Help Theresa get away from her attackers.</Cell><Cell>Aita Theresal pääseda vägistajate käest.</Cell></Row>
+<Row><Cell>location_ANYWHERE</Cell><Cell>God knows where</Cell><Cell>Jumal teab kus</Cell></Row>
+<Row><Cell>location_Bazina_u_Sazavy</Cell><Cell>Swamp by Sasau</Cell><Cell>Sasau Soo</Cell></Row>
+<Row><Cell>location_bejbalej_vysl_CmjPN8rW</Cell><Cell>Old Whore's Former Husband</Cell><Cell>Vana Hoora Endine Abikaasa</Cell></Row>
+<Row><Cell>location_blouznicuv_dum</Cell><Cell>Delirious Man's House</Cell><Cell>Häbiväärse Mehe Maja</Cell></Row>
+<Row><Cell>location_Bocni_vchod</Cell><Cell>Side Entrance</Cell><Cell>Kõrval sissepääs</Cell></Row>
+<Row><Cell>location_Branka</Cell><Cell>Gate</Cell><Cell>Värav</Cell></Row>
+<Row><Cell>location_brod_u_sazavy</Cell><Cell>Sasau ford</Cell><Cell>Sasau koolmekoht</Cell></Row>
+<Row><Cell>location_Broda</Cell><Cell>Broda</Cell><Cell>Brooda</Cell></Row>
+<Row><Cell>location_budinsky_mlyn</Cell><Cell>Budin Mill</Cell><Cell>Budiini Veski</Cell></Row>
+<Row><Cell>location_Butcher</Cell><Cell>Butcher</Cell><Cell>Lihunik</Cell></Row>
+<Row><Cell>location_Carodejny_palouk</Cell><Cell>Witches' Lea</Cell><Cell>Nõdidade Aas</Cell></Row>
+<Row><Cell>location_Certova_brazda</Cell><Cell>Devil's Furrow</Cell><Cell>Kuradi Kurd</Cell></Row>
+<Row><Cell>location_Cesta_kolem_reky</Cell><Cell>Road by river</Cell><Cell>Tee jõe kaldal</Cell></Row>
+<Row><Cell>location_Cesta_mezi_Ra_BWM53FXj</Cell><Cell>Rattay-Neuhof road</Cell><Cell>Rottlinna-Uusaia tee</Cell></Row>
+<Row><Cell>location_Cesta_z_Talmb_hvh8iues</Cell><Cell>Talmberg Skalitz Road</Cell><Cell>Tallmäe Skalitsa Tee</Cell></Row>
+<Row><Cell>location_dilna_penezokazcu</Cell><Cell>Counterfeiter's Workshop</Cell><Cell>Võltsijate Töökoda</Cell></Row>
+<Row><Cell>location_Dolni_brana_Rataje</Cell><Cell>Rattay Lower Gate</Cell><Cell>Rottlinna Alumine Värav</Cell></Row>
+<Row><Cell>location_Dreverubecky_kemp</Cell><Cell>Talmberg Woodcutters' Camp</Cell><Cell>Tallmäe Puuraidurite Laager</Cell></Row>
+<Row><Cell>location_Dum_krejciho</Cell><Cell>Tailor's House</Cell><Cell>Rätsepa Maja</Cell></Row>
+<Row><Cell>location_dum_mrtveho</Cell><Cell>Widow's House</Cell><Cell>Lese maja</Cell></Row>
+<Row><Cell>location_dum_posledni_vule</Cell><Cell>Last Will house</Cell><Cell>Viimase Testamendi maja</Cell></Row>
+<Row><Cell>location_Fara_Rataje</Cell><Cell>Rattay Presbytery</Cell><Cell>Rottlinna Pühakoda</Cell></Row>
+<Row><Cell>location_Fara_Uzice</Cell><Cell>Uzhitz Presbytery</Cell><Cell>Ussiotsa Pühakoda</Cell></Row>
+<Row><Cell>location_Florianuv_dum</Cell><Cell>Florian's House</Cell><Cell>Floriani Maja</Cell></Row>
+<Row><Cell>location_Foodshop</Cell><Cell>Victual shop</Cell><Cell>Toiduainete kauplus</Cell></Row>
+<Row><Cell>location_forest_aus</Cell><Cell>Uzhitz Forest</Cell><Cell>Ussiotsa Mets</Cell></Row>
+<Row><Cell>location_forest_mrh</Cell><Cell>Merhojed Woods</Cell><Cell>Määrahoovi Mets</Cell></Row>
+<Row><Cell>location_forest_prib_n</Cell><Cell>Pribyslavitz Forest</Cell><Cell>Lähislaavitsa Mets</Cell></Row>
+<Row><Cell>location_forest_prib_w</Cell><Cell>Skalitz Woods</Cell><Cell>Skalitsa Mets</Cell></Row>
+<Row><Cell>location_forest_rat_n</Cell><Cell>Rattay Woods</Cell><Cell>Rottlinna Mets</Cell></Row>
+<Row><Cell>location_forest_rat_s</Cell><Cell>Rattay Woods</Cell><Cell>Rottlinna Mets</Cell></Row>
+<Row><Cell>location_forest_sam_n</Cell><Cell>Samopesh Woods</Cell><Cell>Samopše Mets</Cell></Row>
+<Row><Cell>location_forest_sam_s</Cell><Cell>Samopesh Woods</Cell><Cell>Samopše Mets</Cell></Row>
+<Row><Cell>location_forest_sas_e</Cell><Cell>Sasau Woods</Cell><Cell>Sasau Mets</Cell></Row>
+<Row><Cell>location_forest_sas_n</Cell><Cell>Sasau Woods</Cell><Cell>Sasau Mets</Cell></Row>
+<Row><Cell>location_forest_sas_w</Cell><Cell>Sasau Woods</Cell><Cell>Sasau Mets</Cell></Row>
+<Row><Cell>location_forest_tal_n</Cell><Cell>Talmberg Woods</Cell><Cell>Tallmäe Mets</Cell></Row>
+<Row><Cell>location_forest_vranik_e</Cell><Cell>Vranik Forest</Cell><Cell>Vraniku Mets</Cell></Row>
+<Row><Cell>location_forest_vranik_w</Cell><Cell>Vranik Woods</Cell><Cell>Vraniku mets</Cell></Row>
+<Row><Cell>location_Grunwald</Cell><Cell>Grunwald</Cell><Cell>Rohemets</Cell></Row>
+<Row><Cell>location_hageonovo_pole</Cell><Cell>Hagen's field</Cell><Cell>Hageni Põld</Cell></Row>
+<Row><Cell>location_Hajenka_Talmberk</Cell><Cell>Talmberg Hunting Lodge</Cell><Cell>Tallmäe Jahimaja</Cell></Row>
+<Row><Cell>location_herbalist</Cell><Cell>Herbalist</Cell><Cell>Ravitseja</Cell></Row>
+<Row><Cell>location_honici_pole</Cell><Cell>Chase field</Cell><Cell>Tagaajamise väljak</Cell></Row>
+<Row><Cell>location_Horni_brana_Rataje</Cell><Cell>Rattay Upper Gate</Cell><Cell>Rottlinna Ülemine Värav</Cell></Row>
+<Row><Cell>location_Horni_hrad_Ra_0RJMVd6G</Cell><Cell>Upper Castle Rattay bailey</Cell><Cell>Rottlinna ülalossi hoov</Cell></Row>
+<Row><Cell>location_horni_hrad_ra_NBBojMQc</Cell><Cell>Upper Castle in Rattay, the Great Hall</Cell><Cell>Rottlinna Ülalossi Suur Saal</Cell></Row>
+<Row><Cell>location_Horni_hrad_Rataje</Cell><Cell>Rattay Upper Castle</Cell><Cell>Rottlinna Ülaloss</Cell></Row>
+<Row><Cell>location_Hospoda_Ledecko</Cell><Cell>Ledetchko Tavern</Cell><Cell>Ledeško Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_na_Mytince</Cell><Cell>Inn in the Glade</Cell><Cell>Metsalagendiku Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Rataje_(dolni)</Cell><Cell>Traders' Tavern</Cell><Cell>Kauplejate Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Rataje_(horni)</Cell><Cell>Tavern by the Gate</Cell><Cell>Kõrts Värava juures</Cell></Row>
+<Row><Cell>location_Hospoda_Samopse</Cell><Cell>Samopesh Tavern</Cell><Cell>Samopše Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Sazava</Cell><Cell>Tavern on the Green</Cell><Cell>Roheline Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Skalice</Cell><Cell>Skalitz Tavern</Cell><Cell>Skalitsa Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Talmberk</Cell><Cell>Talmberg Tavern</Cell><Cell>Tallmäe Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_Uzice</Cell><Cell>Uzhitz Tavern</Cell><Cell>Ussiotsa Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_zajezdni_rataje</Cell><Cell>Broken Wheel Inn</Cell><Cell>Katkise Ratta Kõrts</Cell></Row>
+<Row><Cell>location_Hospoda_zajezdni_sazava</Cell><Cell>Sasau Wagoners' Inn</Cell><Cell>Sasau Vankrite Kõrts</Cell></Row>
+<Row><Cell>location_hospodarsky_d_KDsQJepR</Cell><Cell>Craftsmen's Yard Forge</Cell><Cell>Käsitööliste Õue Sepikoda</Cell></Row>
+<Row><Cell>location_Hospodarstvi_u_rybnika</Cell><Cell>Farm By The Fishpond</Cell><Cell>Kalatiigi Talu</Cell></Row>
+<Row><Cell>location_Hracova_komor_u2fGOcKZ</Cell><Cell>Henry's Chamber - Pirkstein</Cell><Cell>Henri kamber - Teravkivi</Cell></Row>
+<Row><Cell>location_Hrebcin_Neuhof</Cell><Cell>Neuhof Stud Farm</Cell><Cell>Uusaia Hobusekasvandus</Cell></Row>
+<Row><Cell>location_Hynkova_skrys_exterior</Cell><Cell>Hynek's Hideout</Cell><Cell>Hintsu pelgupaik</Cell></Row>
+<Row><Cell>location_charcoalburners</Cell><Cell>Charcoal burners</Cell><Cell>Söepõletajad</Cell></Row>
+<Row><Cell>location_Jeskyne_Sv__Prokopa</Cell><Cell>St. Procopius' Cave</Cell><Cell>Püha Prokopiuse Koobas</Cell></Row>
+<Row><Cell>location_Johancin_prabytek</Cell><Cell>Johanka's shelter</Cell><Cell>Johanna varjupaik</Cell></Row>
+<Row><Cell>location_Karluv_dum</Cell><Cell>Karel's House</Cell><Cell>Kaarli maja</Cell></Row>
+<Row><Cell>location_Katova_samota</Cell><Cell>Executioner's Cabin</Cell><Cell>Timuka Majake</Cell></Row>
+<Row><Cell>location_Kazani_v_lese</Cell><Cell>Preaching in the woods</Cell><Cell>Jutlustamise koht metsas</Cell></Row>
+<Row><Cell>location_Kemp_loupezniku</Cell><Cell>Robbers' camp</Cell><Cell>Varaste laager</Cell></Row>
+<Row><Cell>location_Klaster</Cell><Cell>Monastery</Cell><Cell>Klooster</Cell></Row>
+<Row><Cell>location_Klaster___hos_wfslgNCN</Cell><Cell>Monastery - Craftsmen's Courtyard</Cell><Cell>Klooster - Käsitööliste Õu</Cell></Row>
+<Row><Cell>location_Klaster_dormitar</Cell><Cell>Monastery Dormitory</Cell><Cell>Kloostri Ühiselamu</Cell></Row>
+<Row><Cell>location_Klaster_fortna</Cell><Cell>Monastery Portal</Cell><Cell>Kloostri Portaal</Cell></Row>
+<Row><Cell>location_Klaster_infirmarium</Cell><Cell>Monastery Infirmary</Cell><Cell>Kloostri Laatsaret</Cell></Row>
+<Row><Cell>location_Klaster_jidel_wJ3SUbnk</Cell><Cell>Monastery Refectory</Cell><Cell>Kloostri Refektrooium</Cell></Row>
+<Row><Cell>location_Klaster_knihovna</Cell><Cell>Library in Monastery </Cell><Cell>Kloostri raamatukogu</Cell></Row>
+<Row><Cell>location_Klaster_kostel</Cell><Cell>Monastery Church</Cell><Cell>Kloostri Kirik</Cell></Row>
+<Row><Cell>location_Klaster_praco_2cmmV2Gv</Cell><Cell>Monastery work areas</Cell><Cell>Kloostri tööala</Cell></Row>
+<Row><Cell>location_klaster_safar_DiPpjhEc</Cell><Cell>Monastery Overseer's study</Cell><Cell>Kloostri Hooldaja kabinet</Cell></Row>
+<Row><Cell>location_Klaster_sklepeni</Cell><Cell>Monastery Cellars</Cell><Cell>Kloostri Keldrid</Cell></Row>
+<Row><Cell>location_Klaster_stavba</Cell><Cell>Monastery Construction</Cell><Cell>Kloostri Ehitus</Cell></Row>
+<Row><Cell>location_Klasterni_dvur</Cell><Cell>Monastery Courtyard</Cell><Cell>Kloostri Hoov</Cell></Row>
+<Row><Cell>location_kolbenuv_statek_</Cell><Cell>Kolbens' Farm</Cell><Cell>Kolbeni Talu</Cell></Row>
+<Row><Cell>location_kolbiste_rataje</Cell><Cell>Rattay Arena</Cell><Cell>Rottlinna Areen</Cell></Row>
+<Row><Cell>location_Korenarka_Ledecko</Cell><Cell>Ledetchko Herb Woman</Cell><Cell>Ledeško Soolapuhuja</Cell></Row>
+<Row><Cell>location_Korenarka_Neuhof</Cell><Cell>Neuhof Herb Woman</Cell><Cell>Uusaia Soolapuhuja</Cell></Row>
+<Row><Cell>location_korenarka_samopse</Cell><Cell>Samopesh Herb Woman</Cell><Cell>Samopše Soolapuhuja</Cell></Row>
+<Row><Cell>location_Korenarka_Uzice</Cell><Cell>Uzhitz Herb Woman</Cell><Cell>Ussiotsa Soolapuhuja</Cell></Row>
+<Row><Cell>location_Kostel_Rataje_horni</Cell><Cell>Rattay Upper Church</Cell><Cell>Rottlinna Ülemine Kirik</Cell></Row>
+<Row><Cell>location_kostel_sv__Matouse</Cell><Cell>St. Matthew's Church</Cell><Cell>Püha Matteuse Kirik</Cell></Row>
+<Row><Cell>location_Kovar_Rataje</Cell><Cell>Rattay Blacksmith</Cell><Cell>Rottlinna Sepp</Cell></Row>
+<Row><Cell>location_Kovar_Samopse</Cell><Cell>Sasau Blacksmith</Cell><Cell>Sasau Sepp</Cell></Row>
+<Row><Cell>location_Kozeluh_Ledecko</Cell><Cell>Ledetchko Tannery</Cell><Cell>Ledeško parkalitöökoda</Cell></Row>
+<Row><Cell>location_Kozeluh_Sazava</Cell><Cell>Sasau Tanner</Cell><Cell>Sasau Parkal</Cell></Row>
+<Row><Cell>location_Kozeluh_Talmberk</Cell><Cell>Talmberg Tanner</Cell><Cell>Tallmäe Parkal</Cell></Row>
+<Row><Cell>location_Krejci_Ledecko</Cell><Cell>Ledetchko Tailor</Cell><Cell>Ledeško Rätsep</Cell></Row>
+<Row><Cell>location_Krejci_Rataje</Cell><Cell>Rattay Tailor</Cell><Cell>Rottlinna Rätsep</Cell></Row>
+<Row><Cell>location_Krizovatka</Cell><Cell>Crossroads</Cell><Cell>Ristteed</Cell></Row>
+<Row><Cell>location_Krkavci_skala</Cell><Cell>Raven Rock</Cell><Cell>Ronga Kivi</Cell></Row>
+<Row><Cell>location_kumanova_skrys</Cell><Cell>Cuman hideaway</Cell><Cell>Tatarlaste Varjupaik</Cell></Row>
+<Row><Cell>location_Kumansky_tabor_1</Cell><Cell>Cuman Camp 1</Cell><Cell>Tatarlaste Laager 1</Cell></Row>
+<Row><Cell>location_Kumansky_tabor_2</Cell><Cell>Cuman Camp 2</Cell><Cell>Tatarlaste Laager 2</Cell></Row>
+<Row><Cell>location_Kumansky_tabor_3</Cell><Cell>Cuman Camp 3</Cell><Cell>Tatarlaste Laager 3</Cell></Row>
+<Row><Cell>location_Kunesuv_dum</Cell><Cell>Kunesh's House</Cell><Cell>Kuldari Maja</Cell></Row>
+<Row><Cell>location_Kunuv_tabor</Cell><Cell>Kuno's camp</Cell><Cell>Uuno laager</Cell></Row>
+<Row><Cell>location_Kupec_Ledecko</Cell><Cell>Ledetchko Merchant</Cell><Cell>Ledeško kaupmees</Cell></Row>
+<Row><Cell>location_Kupec_Rataje</Cell><Cell>Rattay Merchant</Cell><Cell>Rottlinna Kaupmees</Cell></Row>
+<Row><Cell>location_Kupec_Samopse</Cell><Cell>Samopesh Merchant</Cell><Cell>Samopše Kaupmees</Cell></Row>
+<Row><Cell>location_Kupec_Sazava</Cell><Cell>Sasau Merchant</Cell><Cell>Sasau Kaupmees</Cell></Row>
+<Row><Cell>location_Kupec_Skalice</Cell><Cell>Skalitz Merchant</Cell><Cell>Skalitsa Kaupmees</Cell></Row>
+<Row><Cell>location_Kupec_Uzice</Cell><Cell>Uzhitz Merchant</Cell><Cell>Ussiotsa Kaupmees</Cell></Row>
+<Row><Cell>location_Ledecko</Cell><Cell>Ledetchko</Cell><Cell>Ledeško</Cell></Row>
+<Row><Cell>location_Ledecko_jeskyne</Cell><Cell>Ledetchko Cave</Cell><Cell>Ledeško Koobas</Cell></Row>
+<Row><Cell>location_Ledecko_Kovar</Cell><Cell>Ledetchko Blacksmith</Cell><Cell>Ledeško Sepp</Cell></Row>
+<Row><Cell>location_ledecko_lazne</Cell><Cell>Ledetchko Bathhouse</Cell><Cell>Ledeško Saun</Cell></Row>
+<Row><Cell>location_ledecko_les</Cell><Cell>Ledetchko Woods</Cell><Cell>Ledeško Mets</Cell></Row>
+<Row><Cell>location_Ledecko_opustena_stola</Cell><Cell>Deserted barn - Ledetchko</Cell><Cell>Hüljatud küün - Ledeško</Cell></Row>
+<Row><Cell>location_Ledecko_vypal_s0xT7AHY</Cell><Cell>Burned-out farm - Hagen's letter</Cell><Cell>Maha põlenud talu - Hauka kiri</Cell></Row>
+<Row><Cell>location_les_pribyslavice</Cell><Cell>Pribyslavitz Woods</Cell><Cell>Lähislaavitsa Mets</Cell></Row>
+<Row><Cell>location_Les_u_Neuhofu</Cell><Cell>Woods by Neuhof</Cell><Cell>Uusaia Mets</Cell></Row>
+<Row><Cell>location_Lom_Sazava</Cell><Cell>Sasau Quarry</Cell><Cell>Sasau karjäär</Cell></Row>
+<Row><Cell>location_Lom_Talmberk</Cell><Cell>Talmberg Quarry</Cell><Cell>Tallmäe karjäär</Cell></Row>
+<Row><Cell>location_Loukotuv_dum</Cell><Cell>Loukota's House</Cell><Cell>Lotte Maja</Cell></Row>
+<Row><Cell>location_Lukesuv_dum</Cell><Cell>Lukesh's House</Cell><Cell>Lukase Maja</Cell></Row>
+<Row><Cell>location_Madlin_kriz</Cell><Cell>Mary's Cross</Cell><Cell>Maarja Rist</Cell></Row>
+<Row><Cell>location_Mecir_Rataje</Cell><Cell>Rattay Swordsmith</Cell><Cell>Rottlinna Mõõga sepp</Cell></Row>
+<Row><Cell>location_melicharuv_statek</Cell><Cell>Melichar's Farm</Cell><Cell>Manfredi Talu</Cell></Row>
+<Row><Cell>location_mill</Cell><Cell>Mill</Cell><Cell>Veski</Cell></Row>
+<Row><Cell>location_Misto_bitvy_Posily</Cell><Cell>Site Of Reinforcements Battle</Cell><Cell>Lahingu Abivägede Asukoht</Cell></Row>
+<Row><Cell>location_Misto_bitvy_v_tR8GwJja</Cell><Cell>Battle Site</Cell><Cell>Lahinguväli</Cell></Row>
+<Row><Cell>location_Misto_predani_falsu</Cell><Cell>Counterfeit Handover Site</Cell><Cell>Võltsijate Üleandmise Koht</Cell></Row>
+<Row><Cell>location_Mlyn_Kacek</Cell><Cell>Katsek Mill </Cell><Cell>Kassi Veski</Cell></Row>
+<Row><Cell>location_Mlyn_Korecnik</Cell><Cell>Koretchnik Mill </Cell><Cell>Koretšniku Veski</Cell></Row>
+<Row><Cell>location_Mlyn_Kuchelnik</Cell><Cell>Kohelnitz Mill</Cell><Cell>Kohelnitsa Veski</Cell></Row>
+<Row><Cell>location_Mlyn_Ledecko</Cell><Cell>Ledetchko Mill</Cell><Cell>Ledeško Veski</Cell></Row>
+<Row><Cell>location_Mlyn_Rataje</Cell><Cell>Rattay Mill</Cell><Cell>Rottlinna Veski Küüs</Cell></Row>
+<Row><Cell>location_Mlyn_Skalice</Cell><Cell>Skalitz Mill</Cell><Cell>Skalitsa Veski</Cell></Row>
+<Row><Cell>location_Mlyny</Cell><Cell>Mill</Cell><Cell>Veski</Cell></Row>
+<Row><Cell>location_Mrchojedy</Cell><Cell>Merhojed</Cell><Cell>Määrahoov</Cell></Row>
+<Row><Cell>location_mrchojedy_hrebcin</Cell><Cell>Merhojed Stud Farm</Cell><Cell>Määrahoovi Hobusekasvandus</Cell></Row>
+<Row><Cell>location_mytina_valdenskych</Cell><Cell>Waldensians' Clearing</Cell><Cell>Valdenside Lagendik</Cell></Row>
+<Row><Cell>location_Mytinka_u_reky</Cell><Cell>Clearing By The River</Cell><Cell>Jõeäärne välu</Cell></Row>
+<Row><Cell>location_Mytinka_u_Rovneho</Cell><Cell>Glade by Rovna</Cell><Cell>Ronga Välu</Cell></Row>
+<Row><Cell>location_Mytinka_v_les_GWO7TKCN</Cell><Cell>Glade in woods by Neuhof</Cell><Cell>Uusaia metsalagendik</Cell></Row>
+<Row><Cell>location_Napravnikuv_dum</Cell><Cell>Custodian's House</Cell><Cell>Haldaja Maja</Cell></Row>
+<Row><Cell>location_Nemcuv_dum_Skalice</Cell><Cell>Deutsch's house - Skalitz</Cell><Cell>Sakslase maja - Skalits</Cell></Row>
+<Row><Cell>location_Neuhof</Cell><Cell>Neuhof</Cell><Cell>Uusaed</Cell></Row>
+<Row><Cell>location_Neuhof_uhliri_zapad</Cell><Cell>Charcoal Burners Neuhof West</Cell><Cell>Söepõletajad Uusaiast Läänes</Cell></Row>
+<Row><Cell>location_Neuhof_vnejsi_nadvori</Cell><Cell>Neuhof Outer Courtyard</Cell><Cell>Uusaia Välimine Hoov</Cell></Row>
+<Row><Cell>location_Neuhof_vnitrni_nadvori</Cell><Cell>Neuhof Inner Bailey</Cell><Cell>Uusaia Sisemine Hoov</Cell></Row>
+<Row><Cell>location_Neuhofsky_les</Cell><Cell>Neuhof Woods </Cell><Cell>Uusaia Mets</Cell></Row>
+<Row><Cell>location_Oblehaci_Tabor_Lom</Cell><Cell>Quarry Siege Encampment</Cell><Cell>Karjääri Piiramisrõnga Baaslaager</Cell></Row>
+<Row><Cell>location_Oblehaci_Tabor_Prak</Cell><Cell>Trebuchet Siege Camp</Cell><Cell>Trebucheti Piiramisrõnga Laager</Cell></Row>
+<Row><Cell>location_Oblehaci_Tabor_Vesnice</Cell><Cell>Siege Camp Village</Cell><Cell>Küla Piiramise Laager</Cell></Row>
+<Row><Cell>location_okoli_rataji</Cell><Cell>Rattay Vicinity</Cell><Cell>Rottlinna Naabruskond</Cell></Row>
+<Row><Cell>location_Opatovy_komnaty</Cell><Cell>Abbot's Chambers</Cell><Cell>Abti kambrid</Cell></Row>
+<Row><Cell>location_Pekar_Ledecko</Cell><Cell>Ledetchko Baker</Cell><Cell>Ledeško Pagar</Cell></Row>
+<Row><Cell>location_Pekar_Rataje</Cell><Cell>Rattay Baker</Cell><Cell>Rottlinna Pagar</Cell></Row>
+<Row><Cell>location_Pekar_Sazava</Cell><Cell>Sasau Baker</Cell><Cell>Sasau Pagar</Cell></Row>
+<Row><Cell>location_Pekar_Uzice</Cell><Cell>Uzhitz Baker</Cell><Cell>Ussiotsa Pagar</Cell></Row>
+<Row><Cell>location_Pila_Sazava</Cell><Cell>Sasau Sawmill</Cell><Cell>Sasau Saekaater</Cell></Row>
+<Row><Cell>location_Pirkstejn</Cell><Cell>Pirkstein</Cell><Cell>Teravkivi</Cell></Row>
+<Row><Cell>location_Pirkstejn_brana</Cell><Cell>Pirkstein Gate</Cell><Cell>Teravkivi Värav</Cell></Row>
+<Row><Cell>location_Pivovar</Cell><Cell>Brewery</Cell><Cell>Pruulikoda</Cell></Row>
+<Row><Cell>location_Popravci_vrsek</Cell><Cell>Gallows Hill</Cell><Cell>Võllamägi</Cell></Row>
+<Row><Cell>location_Posledni_sedk_PybqqjwW</Cell><Cell>Last farmer in Rovna</Cell><Cell>Ronga viimane Talupoeg</Cell></Row>
+<Row><Cell>location_Poustevna</Cell><Cell>Hermitage</Cell><Cell>Erakla</Cell></Row>
+<Row><Cell>location_Poustevnik</Cell><Cell>Hermitage</Cell><Cell>Erakla</Cell></Row>
+<Row><Cell>location_Praha</Cell><Cell>Prague</Cell><Cell>Praha</Cell></Row>
+<Row><Cell>location_Prepadeni_Adela</Cell><Cell>Adela ambush  </Cell><Cell>Adele varitsus</Cell></Row>
+<Row><Cell>location_Prepadeni_Adela_II</Cell><Cell>Adela ambush II</Cell><Cell>Adele varitsus II</Cell></Row>
+<Row><Cell>location_Prepadeni_Tomase</Cell><Cell>Thomas' Attack Site</Cell><Cell>Toomase Rünnaku koht</Cell></Row>
+<Row><Cell>location_Pribyslavice</Cell><Cell>Pribyslavitz</Cell><Cell>Lähislaavits</Cell></Row>
+<Row><Cell>location_Pribyslavice__Wd6Wv2Tx</Cell><Cell>Morcock's Pribyslavitz camp</Cell><Cell>Suurmunni Lähislaavitsa laager</Cell></Row>
+<Row><Cell>location_pribyslavice_newHomes</Cell><Cell>Pribyslavitz</Cell><Cell>Lähislaavits</Cell></Row>
+<Row><Cell>location_Pytlacka_mytina</Cell><Cell>Poachers' Glade</Cell><Cell>Salaküttide Lagendik</Cell></Row>
+<Row><Cell>location_Rapotuv_tabor</Cell><Cell>Rapota's House</Cell><Cell>Raputaja Maja</Cell></Row>
+<Row><Cell>location_Rataje</Cell><Cell>Rattay</Cell><Cell>Rottlinn</Cell></Row>
+<Row><Cell>location_Rataje_apatyka</Cell><Cell>Rattay Apothecary</Cell><Cell>Rottlinna Apteek</Cell></Row>
+<Row><Cell>location_Rataje_Konrad_Hagen</Cell><Cell>Rattay Konrad Hagen</Cell><Cell>Rottlinna Konrad Hagen</Cell></Row>
+<Row><Cell>location_Rataje_Kozeluh</Cell><Cell>Rattay Tanner</Cell><Cell>Rottlinna Parkal</Cell></Row>
+<Row><Cell>location_Rataje_Lazne</Cell><Cell>Rattay Bathhouse</Cell><Cell>Rottlinna Saun</Cell></Row>
+<Row><Cell>location_Rataje_lovci</Cell><Cell>Rattay Huntsman</Cell><Cell>Rottlinna Jahimees</Cell></Row>
+<Row><Cell>location_Rataje_Namesti</Cell><Cell>Rattay Square</Cell><Cell>Rottlinna Väljak</Cell></Row>
+<Row><Cell>location_Rataje_rycht</Cell><Cell>Rattay Rathaus</Cell><Cell>Rottlinna Raekoda</Cell></Row>
+<Row><Cell>location_Rataje_rychta</Cell><Cell>Rattay Rathaus</Cell><Cell>Rottlinna Raekoda</Cell></Row>
+<Row><Cell>location_rataje_stodola_u_mlyna</Cell><Cell>Rattay Barn By The Mill</Cell><Cell>Rottlinna Veski Küüs</Cell></Row>
+<Row><Cell>location_Rataje_uprchl_blvDw55d</Cell><Cell>Rattay Refugee Camp</Cell><Cell>Rottlinna Põgenike Laager</Cell></Row>
+<Row><Cell>location_Rataje_venkov</Cell><Cell>Rattay Countryside</Cell><Cell>Rottlinna Maa-Alad</Cell></Row>
+<Row><Cell>location_rataje_zbrojir</Cell><Cell>Rattay Armourer</Cell><Cell>Rottlinna Rüümeister</Cell></Row>
+<Row><Cell>location_rataje_zbrojnice</Cell><Cell>Rattay Armoury</Cell><Cell>Rottlinna Relvistu</Cell></Row>
+<Row><Cell>location_Ratajska_hrad_JbVXQKao</Cell><Cell>Rattay Town Gate</Cell><Cell>Rottlinna Värav</Cell></Row>
+<Row><Cell>location_Ratajska_hrad_LPgR3W7F</Cell><Cell>Rattay Western Tower</Cell><Cell>Rottlinna Läänetorn</Cell></Row>
+<Row><Cell>location_Reka_Sazava</Cell><Cell>Sasau River</Cell><Cell>Sasau Jõgi</Cell></Row>
+<Row><Cell>location_Reznik_klaster</Cell><Cell>Monastery Butcher</Cell><Cell>Kloostri Lihunik</Cell></Row>
+<Row><Cell>location_Reznik_Ledecko</Cell><Cell>Ledetchko Butcher</Cell><Cell>Ledeško Lihunik</Cell></Row>
+<Row><Cell>location_Reznik_Rataje</Cell><Cell>Rattay Butcher</Cell><Cell>Rottlinna Lihunik</Cell></Row>
+<Row><Cell>location_Reznik_Sazava</Cell><Cell>Sasau Butcher</Cell><Cell>Sasau Lihunik</Cell></Row>
+<Row><Cell>location_Rovna_uhliri</Cell><Cell>Rovna Charcoal-burners</Cell><Cell>Ronga Söepõletajad</Cell></Row>
+<Row><Cell>location_Rovne</Cell><Cell>Rovna</Cell><Cell>Ronga</Cell></Row>
+<Row><Cell>location_Rvacka_s_Tomasem</Cell><Cell>Fight with Thomas</Cell><Cell>Kaklus Toomasega</Cell></Row>
+<Row><Cell>location_Rybar_Rataje</Cell><Cell>Rattay Fisherman</Cell><Cell>Rottlinna Kalamees</Cell></Row>
+<Row><Cell>location_Rybar_uzice</Cell><Cell>Uzhitz Fisherman</Cell><Cell>Ussiotsa Kalamees</Cell></Row>
+<Row><Cell>location_Rychta_Ledecko</Cell><Cell>Ledetchko Bailiff's House</Cell><Cell>Ledeško Külavanema Maja</Cell></Row>
+<Row><Cell>location_Rychta_Samopse</Cell><Cell>Samopesh Bailiff's House</Cell><Cell>Samopše Külavanema Maja</Cell></Row>
+<Row><Cell>location_Rychta_Skalice</Cell><Cell>Skalitz Rathaus</Cell><Cell>Skalitsa Raekoda</Cell></Row>
+<Row><Cell>location_Samopse</Cell><Cell>Samopesh</Cell><Cell>Samopše</Cell></Row>
+<Row><Cell>location_Samota_pod_Uzicemi</Cell><Cell>Smallholding by Uzhitz</Cell><Cell>Ussiotsa Väikemaaomand</Cell></Row>
+<Row><Cell>location_Sazava</Cell><Cell>Sasau</Cell><Cell>Sasau</Cell></Row>
+<Row><Cell>location_Sazava_hrbitov</Cell><Cell>Sasau Cemetery</Cell><Cell>Sasau Kalmistu</Cell></Row>
+<Row><Cell>location_Sazava_kostel</Cell><Cell>Sasau Church</Cell><Cell>Sasau Kirik</Cell></Row>
+<Row><Cell>location_Sazava_kovar</Cell><Cell>Sasau Blacksmith</Cell><Cell>Sasau Sepp</Cell></Row>
+<Row><Cell>location_Sazava_krejci</Cell><Cell>Sasau Tailor</Cell><Cell>Sasau Rätsep</Cell></Row>
+<Row><Cell>location_Sazava_lazne</Cell><Cell>Sasau Bathhouse</Cell><Cell>Sasau Saun</Cell></Row>
+<Row><Cell>location_sazava_prepad_Hfrl2sQK</Cell><Cell>Sasau Johanka ambush 1</Cell><Cell>Sasau Johanna varitsus 1</Cell></Row>
+<Row><Cell>location_Sazava_rychta</Cell><Cell>Sasau Rathaus</Cell><Cell>Sasau Raekoda</Cell></Row>
+<Row><Cell>location_Sazava_rynek</Cell><Cell>Sasau Green</Cell><Cell>Sasau Roheline</Cell></Row>
+<Row><Cell>location_Sazava_rytecka_dilna</Cell><Cell>Sasau Engraver's Workshop</Cell><Cell>Sasau Graveerijate Töökoda</Cell></Row>
+<Row><Cell>location_Sazava_svec</Cell><Cell>Sasau Cobbler</Cell><Cell>Ssau Kingsepp</Cell></Row>
+<Row><Cell>location_Sazava_zbrojir</Cell><Cell>Sasau Armourer</Cell><Cell>Sasau Rüümeister</Cell></Row>
+<Row><Cell>location_Sazavsky_mlyn</Cell><Cell>Sasau Mill</Cell><Cell>Sasau Veski</Cell></Row>
+<Row><Cell>location_Sazavsky_most</Cell><Cell>Sasau Bridge</Cell><Cell>Sasau Sild</Cell></Row>
+<Row><Cell>location_Sazavy_rybnik</Cell><Cell>Sasau Fishpond</Cell><Cell>Sasau kalatiik</Cell></Row>
+<Row><Cell>location_Setkani_se_Zbyskem</Cell><Cell>Meeting with Zbyshek</Cell><Cell>Kohtumine Vessega</Cell></Row>
+<Row><Cell>location_Schovka_nad_bitvou</Cell><Cell>Hiding Place Over Battle</Cell><Cell>Lahingu Pelgupaik</Cell></Row>
+<Row><Cell>location_Sibenicni_vrch</Cell><Cell>Gallows Hill</Cell><Cell>Võllamägi</Cell></Row>
+<Row><Cell>location_Skalice</Cell><Cell>Skalitz</Cell><Cell>Skalits</Cell></Row>
+<Row><Cell>location_Skalice_Doly</Cell><Cell>Skalitz Mines</Cell><Cell>Skalitsa Kaevandused</Cell></Row>
+<Row><Cell>location_Skalice_hutni_komplex</Cell><Cell>Skalitz Mining Works</Cell><Cell>Skalitsa Kaevandustööd</Cell></Row>
+<Row><Cell>location_Skalice_mlyn</Cell><Cell>Skalitz Mill</Cell><Cell>Skalitsa Veski</Cell></Row>
+<Row><Cell>location_Skalice_naves</Cell><Cell>Skalitz Square</Cell><Cell>Skalitsa Väljak</Cell></Row>
+<Row><Cell>location_Skalice_sermi_dbaqHB4X</Cell><Cell>Skalitz Training Arena </Cell><Cell>Skalitsa Treeningu Väljak</Cell></Row>
+<Row><Cell>location_Skalicka_kovarna</Cell><Cell>Skalitz Forge</Cell><Cell>Skalitsa Sepikoda</Cell></Row>
+<Row><Cell>location_Skalicky_hrad</Cell><Cell>Skalitz Castle</Cell><Cell>Skalitsa Loss</Cell></Row>
+<Row><Cell>location_Skalicky_les</Cell><Cell>Skalitz Woods</Cell><Cell>Skalitsa Mets</Cell></Row>
+<Row><Cell>location_Slamuv_dum</Cell><Cell>Straw's House</Cell><Cell>Lõnga Maja</Cell></Row>
+<Row><Cell>location_Slavik_1</Cell><Cell>Nightingale 1</Cell><Cell>Ööbik 1</Cell></Row>
+<Row><Cell>location_Slavik_2</Cell><Cell>Nightingale 2</Cell><Cell>Ööbik 2</Cell></Row>
+<Row><Cell>location_Slavik_3</Cell><Cell>Nightingale 3</Cell><Cell>Ööbik 3</Cell></Row>
+<Row><Cell>location_Staje_Uzice</Cell><Cell>Uzhitz Stables</Cell><Cell>Ussiotsa Tallid</Cell></Row>
+<Row><Cell>location_Stankari</Cell><Cell>Stall Traders</Cell><Cell>Müügilaua Kauplejad</Cell></Row>
+<Row><Cell>location_Statek_Doroty</Cell><Cell>Dorota's Farm</Cell><Cell>Doora Talu</Cell></Row>
+<Row><Cell>location_Statek_felcarky</Cell><Cell>Nurse's Farm</Cell><Cell>Õe Talu</Cell></Row>
+<Row><Cell>location_Statek_Madly</Cell><Cell>Mary's Farm</Cell><Cell>Marje Talu</Cell></Row>
+<Row><Cell>location_Statek_pod_Skalici</Cell><Cell>Farm by Skalitz</Cell><Cell>Talu Skalitsa Talu</Cell></Row>
+<Row><Cell>location_Statek_Valdenskych</Cell><Cell>Waldensian Farm</Cell><Cell>Valdese Talu</Cell></Row>
+<Row><Cell>location_Stribrna_hut</Cell><Cell>Silver works</Cell><Cell>Hõbeda töötluskoht</Cell></Row>
+<Row><Cell>location_Strom_s_obesenci</Cell><Cell>Tree With Hanging Man</Cell><Cell>Puu Ülespootud Mehega</Cell></Row>
+<Row><Cell>location_Sv__Jakub</Cell><Cell>St. James</Cell><Cell>Püha Jaakobus</Cell></Row>
+<Row><Cell>location_Svec_rataje</Cell><Cell>Rattay Cobbler</Cell><Cell>Rottlinna Kingsepp</Cell></Row>
+<Row><Cell>location_Swordmaker</Cell><Cell>Swordsmith's</Cell><Cell>Mõõga sepp</Cell></Row>
+<Row><Cell>location_Tabor_banditu_XbfqAJUp</Cell><Cell>Sasau West Bandits' Camp</Cell><Cell>Sasau Lääne Röövlite Laager</Cell></Row>
+<Row><Cell>location_Tabor_horniku_Skalice</Cell><Cell>Skalitz Miners' Camp</Cell><Cell>Skalitsa Kaevurite Laager</Cell></Row>
+<Row><Cell>location_Tabor_kata_z_KH</Cell><Cell>Kuttenberg executioner's Camp</Cell><Cell>Kleidimäe timuka laager</Cell></Row>
+<Row><Cell>location_Tabor_lapku_Neuhof</Cell><Cell>Neuhof Bandits' Encampment</Cell><Cell>Uusaia Röövlite Laager</Cell></Row>
+<Row><Cell>location_tabor_penezokazcu</Cell><Cell>Counterfeiter's camp</Cell><Cell>Võltsijate laager</Cell></Row>
+<Row><Cell>location_tabor_vojaku_mrchojedy</Cell><Cell>Merhojed Soldiers' Camp</Cell><Cell>Määrahoovi Sõdurite Laager</Cell></Row>
+<Row><Cell>location_Tabor_vojaku_poklad</Cell><Cell>Soldiers' treasure camp</Cell><Cell>Sõdurite varanduse laager</Cell></Row>
+<Row><Cell>location_Taboriste_Neuhof_sever</Cell><Cell>Neuhof North Camp</Cell><Cell>Uusaia Ülemine Laager</Cell></Row>
+<Row><Cell>location_Taboriste_u_Neuhofu</Cell><Cell>Encampment by Neuhof</Cell><Cell>Laager Uusaia lähistel</Cell></Row>
+<Row><Cell>location_Talmberk</Cell><Cell>Talmberg</Cell><Cell>Tallmägi</Cell></Row>
+<Row><Cell>location_Talmberk_dome_ZMvnw4B6</Cell><Cell>Talmberg Courtyard Lodge</Cell><Cell>Tallmäe Hoovi Puitmaja</Cell></Row>
+<Row><Cell>location_Talmberk_hrac_nu6B2RGr</Cell><Cell>Player's chamber in Talmberg</Cell><Cell>Mängija kamber Tallmäel</Cell></Row>
+<Row><Cell>location_Talmberk_hrad</Cell><Cell>Talmberg Castle</Cell><Cell>Tallmäe Loss</Cell></Row>
+<Row><Cell>location_talmberk_lazne</Cell><Cell>Talmberg Bathhouse</Cell><Cell>Tallmäe Saun</Cell></Row>
+<Row><Cell>location_Talmberk_nadvori</Cell><Cell>Talmberg Bailey</Cell><Cell>Tallmäe hoov</Cell></Row>
+<Row><Cell>location_Talmberk_oble_baBSDsAG</Cell><Cell>Talmberg Siege Encampment</Cell><Cell>Tallmäe Piiramisrõnga Baaslaager</Cell></Row>
+<Row><Cell>location_Talmberk_palac</Cell><Cell>Talmberg Palace</Cell><Cell>Tallmäe Loss</Cell></Row>
+<Row><Cell>location_Talmberk_predhradi</Cell><Cell>Talmberg Outer Bailey</Cell><Cell>Tallmäe Välimine Hoov</Cell></Row>
+<Row><Cell>location_Talmberk_rybarna</Cell><Cell>Talmberg Fishery</Cell><Cell>Tallmäe Kalapüügikoht</Cell></Row>
+<Row><Cell>location_Talmberk_seve_7jVieaxc</Cell><Cell>Talmberg Northwestern Tower</Cell><Cell>Tallmäe Loodetorn</Cell></Row>
+<Row><Cell>location_Talmberk_seve_NrciQGp3</Cell><Cell>Talmberg Northeastern Tower</Cell><Cell>Tallmäe Kirdetord</Cell></Row>
+<Row><Cell>location_Talmberk_utok_5FQdXGEV</Cell><Cell>Talmberg Attack On Battlements</Cell><Cell>Tallmäe Rünnak Hoovis</Cell></Row>
+<Row><Cell>location_Talmberk_vnejsi_hradby</Cell><Cell>Talmberg Outer Battlements</Cell><Cell>Tallmäe välimine hoov</Cell></Row>
+<Row><Cell>location_Talmberk_vnitrni_brana</Cell><Cell>Talmberg inner gate</Cell><Cell>Tallmäe sisemine värav</Cell></Row>
+<Row><Cell>location_Talmberk_zapa_WrixqT19</Cell><Cell>Talmberg Western Battlements</Cell><Cell>Tallmäe Lääne Hoov</Cell></Row>
+<Row><Cell>location_Talmberk_zbrojnice</Cell><Cell>Talmberg Armoury</Cell><Cell>Tallmäe Relvistu</Cell></Row>
+<Row><Cell>location_Trener_sermu_Rataje</Cell><Cell>Rattay master swordsman</Cell><Cell>Rottlinna meister mõõgamees</Cell></Row>
+<Row><Cell>location_Trunni_sal</Cell><Cell>Throne Room</Cell><Cell>Trooni Ruum</Cell></Row>
+<Row><Cell>location_u_dana__v_obejvaku</Cell><Cell>Dan's room</Cell><Cell>Tanni tuba</Cell></Row>
+<Row><Cell>location_Uhliri_Neuhof_Jih</Cell><Cell>Charcoal Burners Neuhof South </Cell><Cell>Söepõletajad Uusaiast Lõunas</Cell></Row>
+<Row><Cell>location_Uhliri_Neuhof_Sever</Cell><Cell>Charcoal Burners Neuhof North</Cell><Cell>Söepõletajad Uusaiast Põhjas</Cell></Row>
+<Row><Cell>location_Uhliri_Neuhof_Talmberk</Cell><Cell>Charcoal Burners Neuhof Talmberg</Cell><Cell>Söepõletajad Uusaed Tallmägi</Cell></Row>
+<Row><Cell>location_Uhliri_Rovna</Cell><Cell>Rovna Charcoal-Burners</Cell><Cell>Ronga Söepõletajad</Cell></Row>
+<Row><Cell>location_Ukryt_unoscu</Cell><Cell>Kidnappers' hideout</Cell><Cell>Inimröövijate varjupaik</Cell></Row>
+<Row><Cell>location_Uzice</Cell><Cell>Uzhitz</Cell><Cell>Ussiots</Cell></Row>
+<Row><Cell>location_Uzice_drevorubci</Cell><Cell>Uzhitz Woodcutters</Cell><Cell>Ussiotsa Puuraidurid</Cell></Row>
+<Row><Cell>location_Uzice_dum_Kuby</Cell><Cell>Uzhitz - Lubosh's House</Cell><Cell>Ussiots - Luboši Maja</Cell></Row>
+<Row><Cell>location_Uzice_hrebcin</Cell><Cell>Uzhitz Stud Farm</Cell><Cell>Ussiotsa Hobusekasvandus</Cell></Row>
+<Row><Cell>location_UZICE_RYCHTA</Cell><Cell>Uzhitz Bailiff's House</Cell><Cell>Ussiotsa Külavanema Maja</Cell></Row>
+<Row><Cell>location_Uzicky_kostel</Cell><Cell>Uzhitz Church</Cell><Cell>Ussiotsa Kirik</Cell></Row>
+<Row><Cell>location_Vetrny_mlyn_Mrchojedy</Cell><Cell>Merhojed Windmill</Cell><Cell>Määrahoovi Tuuleveski</Cell></Row>
+<Row><Cell>location_Vetrny_mlyn_Uzice</Cell><Cell>Uzhitz Windmill</Cell><Cell>Ussiotsa Tuuleveski</Cell></Row>
+<Row><Cell>location_Vezeni_Sazava</Cell><Cell>Sasau Jail</Cell><Cell>Sasau Vangla</Cell></Row>
+<Row><Cell>location_Vranik</Cell><Cell>Vranik</Cell><Cell>Vranik</Cell></Row>
+<Row><Cell>location_Vranik_cesticka</Cell><Cell>Vranik path</Cell><Cell>Vraniku teerada</Cell></Row>
+<Row><Cell>location_Vranik_lezeni</Cell><Cell>Vranik Fortress</Cell><Cell>Vraniku Kindlus</Cell></Row>
+<Row><Cell>location_Vrsiny</Cell><Cell>Highlands</Cell><Cell>Mägismaad</Cell></Row>
+<Row><Cell>location_Vrsiny_tabor_kumanu</Cell><Cell>Cuman's Hill Camp</Cell><Cell>Tatarlaste Künka Laager</Cell></Row>
+<Row><Cell>location_Vyhlidka_milencu</Cell><Cell>Lovers' Lookout</Cell><Cell>Armastajapaari Vaatluskoht</Cell></Row>
+<Row><Cell>location_Vyhlidka_na_lom</Cell><Cell>Viewpoint Of Quarry</Cell><Cell>Karjääri vaatepunkt</Cell></Row>
+<Row><Cell>location_Vyhlidka_na_Talmberk</Cell><Cell>Lookout Point over Talmberg</Cell><Cell>Tallmäe vaatluskoht</Cell></Row>
+<Row><Cell>location_Vypaleny_statek</Cell><Cell>Burned-out farm</Cell><Cell>Maha põlenud talu</Cell></Row>
+<Row><Cell>location_Wolflinuv_tabor</Cell><Cell>Wolflin's Encampment</Cell><Cell>Hundipea baaslaager</Cell></Row>
+<Row><Cell>location_zajaty_kubajs</Cell><Cell>Captive Jakey</Cell><Cell>Vang Janno</Cell></Row>
+<Row><Cell>location_Zajicuv_ukryt</Cell><Cell>Hare's Hideout</Cell><Cell>Jänese Pelgupaik</Cell></Row>
+<Row><Cell>location_Zelinar_Ledecko</Cell><Cell>Ledetchko Greengrocer</Cell><Cell>Ledeško Aedviljamüüja</Cell></Row>
+<Row><Cell>location_Zelinar_Sazava</Cell><Cell>Sasau Greengrocer</Cell><Cell>Sasau Aedviljamüüja</Cell></Row>
+<Row><Cell>location_Zricenina_na__J9aKLxvj</Cell><Cell>Ruin on Hill with view of Sasau</Cell><Cell>Varemed Künkal vaatega Sasaule</Cell></Row>
+<Row><Cell>location_Zrzkuv_ukryt</Cell><Cell>Ginger's Hideout</Cell><Cell>Punapea Pelgupaik</Cell></Row>
+<Row><Cell>objective_11403_LogCompleted</Cell><Cell>In the end the bright sunlight woke me, with a little help from my parents. I went to help Father in the forge, as I'd promised him the day before. But first he wanted me to run some errands for him.</Cell><Cell>Lõpuks ajas mind särav päikesevalgus väikse vanemate abiga üles.</Cell></Row>
+<Row><Cell>objective_11403_LogStarted</Cell><Cell>I have to go to Father - I promised I'd help him with his work. </Cell><Cell>Ma pean minema isa juurde - ma lubasin teda tööga aidata.</Cell></Row>
+<Row><Cell>objective_11643_LogCompleted</Cell><Cell>There was only Deutsch's wife to stop us from avenging the insult to our good King, with the aid of a big pile of manure. Getting her out of the way was no big problem though, so soon we could get down to redecorating Deutsch's house.</Cell><Cell>sõnnik. Tema eemale saamine polnud suur probleem ehk kohe saame hakata Sakslase maja renoveerimisega pihta.</Cell></Row>
+<Row><Cell>objective_11643_LogStarted</Cell><Cell>We can't get down to redecorating Deutsch's house as long as his wife's around. We'll have to lure her away somehow. And since my friends say I'm the cleverest one, of course the job falls to me.</Cell><Cell>Me ei saa hakkata Sakslase maja renoveerima, kuni ta naine on siin. Me peame ta kuidagimoodi eemale meelitama. Ning kuna mu sõbrad ütlesid, et ma olen nende seast kõige targem, siis loomulikult jääb see minu lahendada.</Cell></Row>
+<Row><Cell>objective_15051_LogStarted</Cell><Cell>Kunesh doesn't want to pay up and it seems he's got no coin anyway. Oh well, I'll just have to take back the things he didn't pay for, or find some other way to get the money he owes. I can't just let it go.</Cell><Cell>Kunesh ei taha maksta ning tundub, et tal ei ole raha niikuinii. Ohjah, ma pean lihtsalt võtma tagasi asjad, mille eest ta ei maksnud või leidma muu viisi, kuidas saada tagasi raha, mida ta võlgneb. Ma ei saa seda lihtsalt jätta.</Cell></Row>
+<Row><Cell>objective_16491_LogCompleted</Cell><Cell>I succeeded in the end, although it almost cost me my life. Those foreign mercenaries of Sigismund's are skilled at archery on horseback. They pursued me and I took an arrow in the leg. It's a wonder I didn't bleed to death.</Cell><Cell>Sain lõpuks hakkama, kuigi see peaaegu maksis mulle mu elu. Need Sigismundi palgasõdurid oskavad vibust lasta ka hobuse seljas. Nad jälitasid ja tabasid mind jalga. Ime, et ma surnuks ei veritsenud.</Cell></Row>
+<Row><Cell>objective_16491_LogStarted</Cell><Cell>Now I have to make it to Talmberg in one piece.</Cell><Cell>Nüüd pean saama Talmbergi ühes tükis.</Cell></Row>
+<Row><Cell>objective_19788_LogStarted</Cell><Cell>I'll have to ask around if anyone knows more about this Limpy Lubosh. Maybe I'll learn something useful.</Cell><Cell>Ma peaks teistelt küsima, ega keegi rohkem ei tea sellest Lonkavast Luboshist. Võib-olla õpin miskit vajalikku.</Cell></Row>
+<Row><Cell>objective_19944_LogCompleted</Cell><Cell>I couldn't get any coin out of Kunesh, but I did get some things from him I can sell to cover his debt.</Cell><Cell>Ma ei saanud Kuneshilt mingit raha, kuidsain tagasi asjad, mille eest ta võlgnes ning nende müümise eest peaks saama piisava summa.</Cell></Row>
+<Row><Cell>objective_19944_LogStarted</Cell><Cell>I got the key to Kunesh's trunk from him. Maybe he'll have something in it worth selling. And I should take back the axe he got from Father too. It's in front of his house.</Cell><Cell>Ma sain Kuneshilt tema kirstu võtme. Võib-olla on tal seal midagi, mis on väärt müümist. Samuti peaksin ma tagasi viima kirve, mille ta isalt sai, mis on tema maja ees paku peal.</Cell></Row>
+<Row><Cell>objective_20116_LogStarted</Cell><Cell>The priest told me to come and see him in the evening at the alehouse.</Cell><Cell>Preester kutsus mind õhtul kõrtsi temaga kokkusaamiseks.</Cell></Row>
+<Row><Cell>objective_20961_LogCompleted</Cell><Cell>I found out that Reeky was involved in poaching, which is no great surprise, considering the reputation he has among the locals. But the important thing is he has a poaching hideout in the woods and it's quite possible he's hiding out there. Of course the problem with hideouts is they're supposed to be hard to find. So it looks like I know where Reeky is, only I don't know where that "where" is. </Cell><Cell>Sain teada, et Reeky oli salaküttimisega seotud, mis polegi nii üllatav, arvestades tema mainet kohalike seas. Tähtis on see, et kuskil metsas on tal salaküttide peidupaik ja tõenäoliselt peidab ta end seal. Niisiis ma tean, kus Reeky on, ainult et ma ei tea, kus see ,,kus'' asub.</Cell></Row>
+<Row><Cell>objective_20961_LogStarted</Cell><Cell>Track down another member of the Neuhof gang, a fellow who goes by the nickname of Reeky.</Cell><Cell>Otsi üles veel üht Neuhofi jõugu liiget, kutti hüüdnimega Reeky.</Cell></Row>
+<Row><Cell>objective_20961_Name</Cell><Cell>Track down Reeky</Cell><Cell>Otsi Reeky üles</Cell></Row>
+<Row><Cell>objective_25645_LogFailed</Cell><Cell>The locals advised me to talk to Reeky's father. His reputation in Ledetchko isn't much better than his son's. Still, his worries are over now, since he died in mysterious circumstances.</Cell><Cell>Kohalikud soovitasid mul rääkida Reku isaga. Tema maine Ledetchkos pole küll parem poja omast. Aga tal pole enam põhjust muretsemiseks, kuna ta suri müstilistel asjaoludel.</Cell></Row>
+<Row><Cell>objective_25890_LogStarted</Cell><Cell>Reeky is probably hiding in his poachers' hideout. If I find the hideout, I'll find Reeky. </Cell><Cell>Arvatavasti peidab Reku end salaküttide peidupaigas. Kui leian peidupaiga, leian ka Rekut.</Cell></Row>
+<Row><Cell>objective_28560_LogCompleted</Cell><Cell>I met again with that mercenary who's been teaching me to swordfight. This time I didn't get cut like before. But I'm afraid when Father and Mother see my bruises, they might suspect I'm learning swordplay behind their backs.</Cell><Cell>Ma kohtusin jälle selle palgasõduriga, kes on mulle mõõgavõitlust õpetanud. Seekord ma ei saanud ühtegi haava. Kuid ma kardan, et kui isa ja ema näevad mu sinikaid, siis nad võivad kahtlustada, et õpin nende seljataga mõõgavõitlust.</Cell></Row>
+<Row><Cell>objective_28560_LogStarted</Cell><Cell>I started getting some training in sword-fighting from a mercenary who turned up in Skalitz recently. Father and Mother mustn't find out. For some reason they don't want me to learn to defend myself! I got a bit of a cut in yesterday's lesson, though. We're supposed to meet by the alehouse again today.</Cell><Cell>Ma hakkasin ühe palgasõduri juures saama mõõgavõitluse tunde, kes hiljuti saabus Skalitzisse. Isa ja ema ei tohi sellest teada saada. Millegipärast ei taha nad, et ma õpiksin ennast kaitsma! Kuigi eilse tunni ajal sain ma väikse haava. Me peaksime kohtuma täna jälle kõrtsi juures.</Cell></Row>
+<Row><Cell>objective_28740_LogCompleted</Cell><Cell>The Captain was already waiting at the training arena to try me out.</Cell><Cell>Kapten oli juba treeningareenil ootamas, et mind proovile panna.</Cell></Row>
+<Row><Cell>objective_28740_LogStarted</Cell><Cell>I'm supposed to go and see Captain Bernard at the training arena by the Upper Castle in Rattay. He's usually there from mid-morning until evening.</Cell><Cell>Ma peaksin minema ja kohtuma Kapten Bernardiga treeningareenil Ülemise Lossi kõrval, Rattajes. Ta on seal tavaliselt keskhommikust õhtuni.</Cell></Row>
+<Row><Cell>objective_29006_LogCompleted</Cell><Cell>I looked at the Rattay Black Chronicle. There was a record in it that could well be about Lubosh's cronies, but I didn't know if that was enough to help me find any of them.</Cell><Cell>Ma vaatasin Rattaje Musta Kroonikat. Seal oli ülestähendus, mis võis olla Luboshi semudega seotud, aga ma polnud kindel, kas sellest piisaks, et leida kasvõi üht nendest.</Cell></Row>
+<Row><Cell>objective_29006_LogStarted</Cell><Cell>There are records in the Rattay Black Chronicle about local reprobates, hopefully including Lubosh and his cronies.</Cell><Cell>Rattaje Must Kroonika sisaldab ülestähendusi kohalikest huligaanidest, loodetavasti on seal midagi Luboshist ja tema semudest.</Cell></Row>
+<Row><Cell>objective_29108_LogCompleted</Cell><Cell>Scribe Friedrich wanted me to get him some embrocation for his aching knees. That stuff costs an arm and a leg, but I managed to get some in the end.</Cell><Cell>Kirjatundja Friedrich tahtis, et ma leiaks määret tema valutavatele põlvedele. See küll maksab terve persetäis, aga ma suutsin seda lõpuks hankida.</Cell></Row>
+<Row><Cell>objective_29108_LogStarted</Cell><Cell>I have to go to the Apothecary Konyash in Rattay to get embrocation for the scribe so he'll let me look in the Black Chronicle.</Cell><Cell>Mul on vaja mina Rattaje apteekri Konyashi juurde, et saada määret kirjatundja jaoks, et ta mul Musta Kroonikat näha laseks.</Cell></Row>
+<Row><Cell>objective_30590_LogCompleted</Cell><Cell>I opened Kunesh's trunk and found there the hammer and nails he hadn't paid for, as well as a few other things. I also took back the axe he got from Father. I could get enough money to cover the costs by selling everything.</Cell><Cell>Ma avasin Kuneshi kirstu ning seal sees olid haamer ja naelad, mille eest ta maksnud polnud, samuti mõni muu ese. Ma võtsin tagasi ka kirve, mille ta isalt oli saanud. Nüüd saaksin ma piisavalt raha söe ostmiseks, kui need asjad maha müün.</Cell></Row>
+<Row><Cell>objective_30591_LogCompleted</Cell><Cell>I had to go and tell Father I couldn't get Kunesh to pay his debt. Father gave me coin and said he'd deal with Kunesh himself.</Cell><Cell>Ma pidin minema ning ütlema isale, et ma ei saanud Kuneshilt raha võla eest. Isa andis mulle raha ning ütles, et saab Kuneshiga ise hakkama.</Cell></Row>
+<Row><Cell>objective_30903_LogStarted</Cell><Cell>The priest told me to sit down.</Cell><Cell>Preester palus, et ma istuks.</Cell></Row>
+<Row><Cell>objective_30905_LogCompleted</Cell><Cell>Friedrich owed me a favour, so he helped me to interpret the records in the Black Chronicle. Apparently, one of Lubosh's accomplices was holed up in Ledetchko!</Cell><Cell>Friedrich oli mulle võlgu, seepärast aitas ta mul Musta Kroonika ülestähendusi tõlgendada. Nähtavasti peidab üks Luboshi semudest end Ledetchkos!</Cell></Row>
+<Row><Cell>objective_30905_LogStarted</Cell><Cell>Now I have to go to the scribe and he should show me the Black Chronicle. If I can't figure out the records for myself, I expect he can help me with that.</Cell><Cell>Nüüd pean ma kirjatundja juurde minema, et ta mulle Musta Kroonikat näitaks. Ma ei saa ise ülestähendustest aru, loodan, et ta aitab mind sellega.</Cell></Row>
+<Row><Cell>objective_30906_LogCompleted</Cell><Cell>I was back where I started. So I asked around again and found out there might be some record of Limpy Lubosh in the Rattay Black Chronicle and maybe I could find some clue there.</Cell><Cell>Olin tagasi seal, kus alustasin. Niisiis ma uurisin jälle edasi ja sain teada, et Luboshist võib olla ülestähendus Rattaje Mustas Kroonikas ja võib-olla annab see mulle vihje.</Cell></Row>
+<Row><Cell>objective_30906_LogStarted</Cell><Cell>So I'm right back where I started. I'll have to ask around if anyone else knows about Lubosh - maybe the town Bailiff? If not, perhaps Sir Radzig or Sir Hanush can advise me.</Cell><Cell>Olen siis tagasi seal, kus alustasin. Pean küsima teistelt, kas nad tundsid Luboshit - äkki küsiks külavanemalt? Kui mitte tema, siis äkki suudab Söör Ratas või Söör Hanush mulle nõu anda.</Cell></Row>
+<Row><Cell>objective_30907_LogCompleted</Cell><Cell>I figured Friedrich, the Rattay scribe, would help me out with the Black Chronicle. </Cell><Cell>Ma arvan, et Rattaje kirjatundja Friedrich saab mind aidata Musta Kroonikaga.</Cell></Row>
+<Row><Cell>objective_30907_LogStarted</Cell><Cell>Friedrich the Rattay scribe can surely help me. Only I've a feeling he'll expect something from me in return...</Cell><Cell>Rattaje kirjatundja Friedrich saab mind aidata. Aga mulle tundub, et ta võib soovida midagi vastutasuks…</Cell></Row>
+<Row><Cell>objective_34921_LogStarted</Cell><Cell>I've got to go to Uzhitz and track down that fellow with a limp.</Cell><Cell>Ma pean minema Uzhitzisse ja üles otsima seda mehikest, kes lonkab.</Cell></Row>
+<Row><Cell>objective_34923_LogStarted</Cell><Cell>I should ask the Uzhitz parish priest about Lubosh.</Cell><Cell>Ma peaks küsima Uzhitzi koguduse preestrilt Luboshi kohta.</Cell></Row>
+<Row><Cell>objective_34927_LogFailed</Cell><Cell>Father Godwin, who could hardly walk after his escapades of the previous night, came up with the insane idea that I should preach from the pulpit for him!  He says if I give a sermon about the teachings of the famed preacher Master Jan Hus, he'll tell me what he knows about Lubosh. Only I was in no fit state to give any sermon.</Cell><Cell>Isa Godwin, kellel oli raskusi jalul püsida pärast eilse õhtu seiklusi, mõtles välja hullu idee, et ma peaks tema asemel kantslist jutlustaks! Ta ütles, et kui ma kuulsa jutlustaja Magister Jani Husi õpetustest jutlustan, räägib ta mulle kõike, mida ta Luboshist teab. Ainult et ma polnud sobivas seisundis, et jutlustada.</Cell></Row>
+<Row><Cell>objective_34927_LogStarted</Cell><Cell>Father Godwin, who could hardly walk after his escapades of the previous night, came up with the insane idea that I should preach from the pulpit for him! He says if I give a sermon about the teachings of the famed preacher Master Jan Hus, he'll tell me what he knows about Lubosh. </Cell><Cell>Isa Godwin, kellel oli raskusi jalul püsida pärast eilse õhtu seiklusi, mõtles välja hullu idee, et ma peaks tema asemel kantslist jutlustaks! Ta ütles, et kui ma kuulsa jutlustaja Magister Jani Husi õpetustest jutlustan, räägib ta mulle kõike, mida ta Luboshist teab. </Cell></Row>
+<Row><Cell>objective_35714_LogCompleted</Cell><Cell>I've finished the training with Captain Bernard. During the session young Sir Capon turned up at the arena. I'm sorry to say this about a nobleman, but he seems to me to be a bit of a puffed up dandy. </Cell><Cell>Ma olen lõpetanud treeningu Kapten Bernardiga. Seansi ajal ilmus areenile Söör Capon. Mul on kahju seda aadliku kohta öelda, aga ta tundub mulle natuke nagu ülbe ilueedi.</Cell></Row>
+<Row><Cell>objective_35714_LogStarted</Cell><Cell>Captain Bernard will teach me about some close-up combat first.</Cell><Cell>Kapten Bernard õpetab mulle kõigepealt natuke lähivõitlust.</Cell></Row>
+<Row><Cell>objective_35731_LogCompleted</Cell><Cell>Kunesh had a locked chest at home that I couldn't get into easily. I needed a lockpick from Fritz. I figured stealing from a thief was no sin.</Cell><Cell>Kuneshil oli kodus lukustatud kirst, mida avada poleks kerge. Mul oli vaja muukrauda Fritsult. Ma arvasin, et vargalt varastamine ei oleks patt.</Cell></Row>
+<Row><Cell>objective_35731_LogStarted</Cell><Cell>Kunesh has a locked chest at home. There might be something in it I can take in lieu of his debt, but to get into it I'll need a lockpick. Maybe Fritz has one.</Cell><Cell>Kuneshil on kodus lukustatud kirst. Seal võib olla midagi, mis asendab tema võlga, kuid selle avamiseks läheb mul vaja muukrauda. Võib-olla on Fritsul üks olemas.</Cell></Row>
+<Row><Cell>objective_35745_LogCompleted</Cell><Cell>By asking the locals in Uzhitz, I found out the limping bandit I'm looking for is called Lubosh, and they even told me where he lives.</Cell><Cell>Uzhitzi kohalikke küsitledes, sain ma teada lonkava mehikese nime, milleks on Lubosh, ja nad isegi ütlesid, kus ta elab.</Cell></Row>
+<Row><Cell>objective_35745_LogStarted</Cell><Cell>I suppose it would be best to ask the locals where I can find that fellow with the limp.</Cell><Cell>Ma arvan, et tuleks küsida kohalikelt, kust ma leiaks seda lonkavat mehikest.</Cell></Row>
+<Row><Cell>objective_35748_LogCompleted</Cell><Cell>I vaguely recall, for a while everything was merry and then someone came along and spoiled the fun. Maybe the Bailiff? Anyway, I do recollect that Father Godwin wasn't happy about it and next thing I knew there was a brawl!</Cell><Cell>Mulle ähmaselt meenub, et algul oli kõik lõbus ja siis tuli keegi ja rikkus lõbu ära. Võib-olla oli see külavanem? Igastahes, mulle meenub, et Isa Godwin polnud selle üle rõõmus ja järgmise asjana algas lööming!</Cell></Row>
+<Row><Cell>objective_35748_LogStarted</Cell><Cell>Father Godwin has started a brawl with the Bailiff. I'm not sure I should get mixed up in it.</Cell><Cell>Isa Godwin alustas löömingut külavanemaga. Ma pole kindel, kas peaksin vahele sekkuma.</Cell></Row>
+<Row><Cell>objective_35749_LogCompleted</Cell><Cell>I seem to remember a bell, tits and... considering I spent the night with a holy man, a lot of blasphemy and sin.</Cell><Cell>Mulle meenub kell, tissid ja… arvestades, et veetsin öö püha mehega, ka jumalateotused ja patud.</Cell></Row>
+<Row><Cell>objective_35749_LogStarted</Cell><Cell>All of a sudden I find myself in front of the bell tower. How the hell did I get here? And Father Godwin is showing off in front of the women. He says we're going to ring the bell!</Cell><Cell>Järsku avastan, et olen kellatorni ees. Kuidas kurat ma siia sattusin? Ja Isa Godwin üldse eputab naiste ees. Ta ütles, et me helistame kella!</Cell></Row>
+<Row><Cell>objective_35818_LogStarted</Cell><Cell>I agreed with the boys that we'll go and get the Deutsch back for his disrespect for our King. I'd better not keep them waiting.</Cell><Cell>Ma nõustusin, et lähen kuttidega meie kuninga lugupidamatuse eest Sakslasele kohta kätte näitama.</Cell></Row>
+<Row><Cell>objective_36461_LogCompleted</Cell><Cell>When I got to the limping bandit's cottage, I soon found out things wouldn't be simple. I did find the bandit, but he was done with limping forever. And nailed to the wall of his cottage. It seemed somebody was tying up loose ends.</Cell><Cell>Kui ma jõudsin lonkava röövli majakeseni, sain ma peagi aru, et asjaolud ei saa olema lihtsad. Ma leidsin röövli, aga lonkamisel oli tema jaoks lõpp, ta oli oma maja seina külge löödud. Tundub, et keegi sidus otsad lahti.</Cell></Row>
+<Row><Cell>objective_36461_LogStarted</Cell><Cell>Lubosh's house should be toward the village edge, by the Neuhof road.</Cell><Cell>Luboshi majake peaks olema küla ääres, Neuhofi teel.</Cell></Row>
+<Row><Cell>objective_36574_LogCompleted</Cell><Cell>Come morning, the priest woke up in a very ungodly state. It dawned on him he was supposed to say mass and really wasn't up to the job.</Cell><Cell>Jõudis hommik, ja preester ärkas väga halvas seisundis üles. Talle meenus, et ta pidi jumalateenistusele minema, aga ta ei kõlbanud tööks.</Cell></Row>
+<Row><Cell>objective_36575_LogCompleted</Cell><Cell>Father Godwin, who could hardly walk after his escapades of the previous night, came up with the insane idea that I should preach from the pulpit for him! He says if I give a sermon about the teachings of the famed preacher Master Jan Hus, he'll tell me what he knows about Lubosh. 
+My sermon went down surprisingly well and Father Godwin was so grateful he did tell me what Lubosh had confessed to him. It wasn't much, but at least I know the nicknames of his cronies. He mentioned some Reeky from Ledetchko, Timmy and Pious.</Cell><Cell>Isa Godwin, kellel oli raskusi jalul püsida pärast eilse õhtu seiklusi, mõtles välja hullu idee, et ma peaks tema asemel kantslist jutlustaks! Ta ütles, et kui ma kuulsa jutlustaja Magister Jani Husi õpetustest jutlustan, räägib ta mulle kõike, mida ta Luboshist teab.                                                                                                                                                          Mu jutlus möödus aga üllatavalt hästi ja Isa Godwin oli nii tänulik, et rääkis mulle kõigest, mida Lubosh talle üles tunnistas. Seda polnud palju, aga vähemalt tean ma tema semude hüüdnimesid. Ta mainis mingit Reekyt Ledetchkost, Timmyt ja Piousit.                                   </Cell></Row>
+<Row><Cell>objective_36575_LogFailed</Cell><Cell>Father Godwin, who could hardly walk after his escapades of the previous night, came up with the insane idea that I should preach from the pulpit for him! He says if I give a sermon about the famed preacher Master Jan Hus, he'll tell me what he knows about Lubosh. 
+This whole affair with Godwin should never have happened. The sermon was a disaster. It's a wonder the villagers didn't burn us at the stake! And what's more, I got nothing out of Godwin about Lubosh.</Cell><Cell>Isa Godwin, kellel oli raskusi jalul püsida pärast eilse õhtu seiklusi, mõtles välja hullu idee, et ma peaks tema asemel kantslist jutlustaks! Ta ütles, et kui ma kuulsa jutlustaja Magister Jani Husi õpetustest jutlustan, räägib ta mulle kõike, mida ta Luboshist teab.                                                                                                                                                             Terve see juhtum Godwiniga ei pidanud kunagi juhtuma. Jutlus oli katastroofiline. Ime, et maarahvas ei põletanud meid häbipostil! Ja pealekauba ei saanud ma Godwinilt Luboshi kohta midagi teada.</Cell></Row>
+<Row><Cell>objective_36770_LogCompleted</Cell><Cell>I have but a dim recollection of what went on in the tavern and I think I'd rather forget even that.</Cell><Cell>Mul on vaid hämarad mälestused kõrtsis toimuvast ja ma usun, et ma pigem unustaksin need.</Cell></Row>
+<Row><Cell>objective_36770_LogFailed</Cell><Cell>Unfortunately I didn't learn anything useful about Limpy Lubosh from the Parish Priest.</Cell><Cell>Kahjuks ei saanud ma Koguduse Preestrilt midagi kasulikku Lonkava Luboshi kohta teada.</Cell></Row>
+<Row><Cell>objective_36770_LogStarted</Cell><Cell>Now I just need to win his trust.</Cell><Cell>Nüüd pean ma tema usalduse saama.</Cell></Row>
+<Row><Cell>objective_36781_LogCompleted</Cell><Cell>I found out from the Uzhitz folk that while Lubosh was a nasty piece of work, lately he'd taken to religion and spend lot of time in the church talking to the priest.</Cell><Cell>Sain teada Uzhitzi rahvalt, et kuigi Lubosh oli vastik vana, hakkas ta usklikuks ning veetis palju aega kirikus preestriga rääkides.</Cell></Row>
+<Row><Cell>objective_36989_LogCompleted</Cell><Cell>I went to see the local parish priest, father Godwin, and incredibly I managed to persuade him to reveal what he knew about Lubosh. He couldn't tell me much though, only the names of Lubosh's friends. I hope it's going to be enough. He mentioned a Reeky from Ledetchko, Timmy and a fellow they call Pious.</Cell><Cell>Ma läksin kohaliku koguduse preestri isa Godwini juurde, ja imekombel veensin ma teda rääkima, mis ta Luboshist teadis. Ta ei öelnud palju, ainult Luboshi sõprade nimesid. Loodan, et sellest piisab. Ta mainis Reeky't Ledetchkost, Timmy't ja üht selli nimega Pious.</Cell></Row>
+<Row><Cell>objective_36989_LogFailed</Cell><Cell>So, I went to see Father Godwin, the local parish priest and tried to persuade him to tell me something about this Lubosh. He told me he couldn't break the confessional seal and tell me what Lubosh had confessed. But he promised me he'd try and figure out some other way to help me.</Cell><Cell>Niisiis, ma käisin kohaliku koguduse preestri Isa Godwini juures ja püüdsin teda veenda, et ta mulle Luboshist räägiks. Ta ütles, et seaduse järgi ei saa mulle avaldada, mida Lubosh üles tunnistas. Aga ta lubas, et leiab muu viisi, et mind aidata.</Cell></Row>
+<Row><Cell>objective_37215_LogStarted</Cell><Cell>I didn't find the Captain at the training arena. I suppose I'll have to wait for him. He's usually there from mid-morning until evening.</Cell><Cell>Ma ei leidnud Kaptenit treeningareenilt. Tundub, et ma pean teda ootama. Ta on seal tavaliselt keskhommikust õhtuni.</Cell></Row>
+<Row><Cell>objective_37268_LogStarted</Cell><Cell>We met in front of the house. What now?</Cell><Cell>Me kohtusime maja ees. Mis nüüd?</Cell></Row>
+<Row><Cell>objective_37449_LogCompleted</Cell><Cell>I decided I wouldn't let my friends drag me into another of their madcap schemes. They can get into quite enough trouble without my help.</Cell><Cell>Ma otsustasin, et ei lase mu sõpradel ming järjekordsesse hullumeelsesse plaani sisse tirida. Nad võivad ka ilma minu abita suurtesse pahandustesse sattuda.</Cell></Row>
+<Row><Cell>objective_37499_LogCompleted</Cell><Cell>I managed to get hold of a horse to ride to Talmberg as quick as possible and warn them there.</Cell><Cell>Sain endale hobuse, et kiirelt Talmbergi saada ja sealseid inimesi hoiatada.</Cell></Row>
+<Row><Cell>objective_37499_LogStarted</Cell><Cell>Oh my God! My parents have been killed. King Sigismund's army raided Skalitz and slaughter everyone who crossed their path, including my mother and father. I have to flee and warn others, I have to get hold of a horse!</Cell><Cell>Oh Jumal! Mu vanemaid tapeti. Kuningas Sigismundi armee ründas Skalitzi ja mõrvas kõiki, kes nendele ette jäi, kaasa arvatud mu ema ja isa. Ma pean põgenema ja teisi hoitama, ma vajan hobust!</Cell></Row>
+<Row><Cell>objective_37649_LogCompleted</Cell><Cell>As I fled, I caught sight of three of Sigismund's soldiers about to rape the miller's daughter, Theresa. I couldn't just let it be and though they were stronger, somehow I've managed to rescue her.</Cell><Cell>Kui põgenesin, nägin, kuidas kolm Sigismuni sõdurit proovisid möldri tütart Theresat vägistada. Ma ei tohtinud teda hätta jätta ja kuigi nad olid tugevamad, sain ma Theresa päästmisega hakkama.</Cell></Row>
+<Row><Cell>objective_37851_LogCompleted</Cell><Cell>I was supposed to go and meet the priest at the tavern in the evening, which I did, because I was very curious what he would have to say.</Cell><Cell>Ma pidin minema ja preestriga õhtul kõrtsis kohtuma, mida ma tegin, sest tundsin palju huvi selle vastu, mis tal öelda on.</Cell></Row>
+<Row><Cell>objective_37851_LogFailed</Cell><Cell>I was supposed to go and meet the priest at the tavern in the evening, but I didn't make it on time. I hope I haven't spoiled my last chance of finding out anything about Lubosh.</Cell><Cell>Ma pidin minema ja preestriga õhtul kõrtsis kohtuma, aga ma hilinesin. Loodan, et ma ei rikkunud oma viimast võimalust midagi Luboshi kohta teada saada.</Cell></Row>
+<Row><Cell>objective_38346_Savename</Cell><Cell>Talmberg</Cell><Cell>Talmberg</Cell></Row>
+<Row><Cell>objective_39222_LogStarted</Cell><Cell>There really was a mention of Lubosh's cronies in the Black Chronicle. And it seems one of them even lives close by. Now to track him down.</Cell><Cell>Luboshi semud olid tõesti Mustas Kroonikas mainitud. Ja tundub, et üks nendest elab läheduses. Nüüd tuleb teda üles otsida.</Cell></Row>
+<Row><Cell>objective_39540_Savename</Cell><Cell>Drunk morning</Cell><Cell>Purjus hommik</Cell></Row>
+<Row><Cell>objective_39606_Savename</Cell><Cell>Chase</Cell><Cell>Jälitus</Cell></Row>
+<Row><Cell>objective_7875_LogCompleted</Cell><Cell>Getting the money for the shopping was the hardest part, but in the end I got the charcoal and now there's nothing to stop us finishing the sword.</Cell><Cell>Söe ostu jaoks oli kõige raskem saada raha, kuid lõpuks ma sain kraami kätte ning nüüd ei takista meid mõõka lõpetamast enam miski.</Cell></Row>
+<Row><Cell>objective_7875_LogStarted</Cell><Cell>I have to go to the market and buy charcoal for Father for the forge, so we can finish the sword for Sir Radzig.</Cell><Cell>Ma pean minema turule ning ostma sütt, et saaksime sepikojas isaga söör Radzigu mõõga valmis teha.</Cell></Row>
+<Row><Cell>objective_7876_LogCompleted</Cell><Cell>It wasn't easy getting any money out of Kunesh, but in the end he gave me something, if not entirely willingly.</Cell><Cell>Raha saada polnud Kuneshilt kerge, kuid lõpuks ta andis mulle midagigi, mitte küll väga meeltmööda.</Cell></Row>
+<Row><Cell>objective_7876_LogStarted</Cell><Cell>Great! I've got to get the money for the other things from Kunesh, who owes Father money. He's too soft on that drunk! I suppose he feels sorry for Kunesh since his wife ran off, but I'm damned if I know how I'm supposed to get money out of him.</Cell><Cell>Suurepärane! Ma pean saama Kuneshilt raha asjade eest, mida isa talle on andnud. Isa on liiga lahke selle joodikuga! Ma usun, et tal on Kuneshist kahju ajast, kui tolle naine minema jooksis, kuid kust kurat ma peaksin teadma, kuidas ma sellelt joodikult võla tagasi nõuan.</Cell></Row>
+<Row><Cell>objective_7877_LogCompleted</Cell><Cell>I went to the castle and picked up the cross-guard and pommel, the last things needed for putting the sword together.</Cell><Cell>Ma käisin lossis ning sain viimased asjad, mida on vaja mõõga valmistamiseks - käepideme ning nupu.</Cell></Row>
+<Row><Cell>objective_7877_LogStarted</Cell><Cell>Finally an errand I can actually enjoy! The cross-guard for the sword I'm helping Father make has arrived from Sasau and I've got to go to the castle and pick it up.</Cell><Cell>Lõpuks ometi töö, mis mulle meeldib! Mõõga käepide jõudisSazavast kohale ning ma pean lossist selle ära tooma.</Cell></Row>
+<Row><Cell>objective_7878_LogCompleted</Cell><Cell>It goes without saying I also have to bring ale for Father, fresh and cool. I've been doing that since I was big enough to carry the pitcher. I used to think Father was a drunk, but when he let me start blacksmithing and I got near enough to feel the fury of the forge, I finally understood why a man might need a pitcher of cool, bitter ale for this job. Just as long as you don't overdo it.</Cell><Cell>On iseenesest mõistetav, et ma pean veel isale tooma värsket ning jahedat mõdu kõrtsist. Ma olen seda teinud sellest ajast saati, kui ma sain piisavalt suureks, et jaksaksin kanda õlut täis kruusi. Väikesena ma arvasin, et isa oli joodik, kuid kui ta lasi mul alustada sepatööga, siis tundsin ma ka ise ääsi kuumust ning sain aru, miks mees vajab selleks tööks ühte kruusi jahedat ja mõru õlle. Niikaua kuni sa üle ei joo. </Cell></Row>
+<Row><Cell>objective_7878_LogStarted</Cell><Cell>It goes without saying I also have to bring ale for Father. I've been doing that since I was big enough to carry the pitcher. Fresh and cool, as always, to quench the heat of the forge. But I'll have to get that last, so it doesn't get warm.</Cell><Cell>On iseenesest mõistetav, et ma pean veel isale tooma värsket ning jahedat mõdu kõrtsist. Ma olen seda teinud sellest ajast saati, kui ma sain piisavalt suureks, et jaksaksin kanda õlut täis kruusi. Nagu alati jahe ja värske, et kustutada ääsi kuumust. Kuid ma pean seda tegema viimasena, et õlu ei läheks soojaks.</Cell></Row>
+<Row><Cell>objective_default_HintCompleted</Cell><Cell>&lt;default&gt;</Cell><Cell>&lt;default&gt;</Cell></Row>
+<Row><Cell>objective_default_HintFailed</Cell><Cell>&lt;default&gt;</Cell><Cell></Cell></Row>
+<Row><Cell>objective_default_HintStarted</Cell><Cell>&lt;default&gt;</Cell><Cell>&lt;default&gt;</Cell></Row>
+<Row><Cell>objective_HintCompleted_2</Cell><Cell>Quest log updated:</Cell><Cell>Ülesande logi uuendatud:</Cell></Row>
+<Row><Cell>objective_HintStarted_1</Cell><Cell>Objective updated:</Cell><Cell>Eesmärk uuendatud:</Cell></Row>
+<Row><Cell>objective_Savename_1</Cell><Cell>Quest started</Cell><Cell>Ülesanne alustatud.</Cell></Row>
+<Row><Cell>stealthArea_M06a_masakr</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_M09B_doupeZmiji</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_M11_neniVsechnoStribro</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_M13a_chudoba</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_M14_kostka</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_M16d_nocniUtok</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S02_hratkySCertem</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S07_zKamene</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S09_veVsiPocestnosti</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S13_poprava</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S19_skutecniKrestane</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S21a_dluhy</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S39_dluznik</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>stealthArea_S80_kusSvateho</Cell><Cell>...</Cell><Cell>...</Cell></Row>
+<Row><Cell>subchapter_298_description</Cell><Cell>We finally got some fine spring weather, but still I slept late in the morning, because I was out celebrating until late in the evening. It was a bit hard getting out of bed in the morning.</Cell><Cell>Väljas on lõpuks kena kevadilm, kuid ma magasin kaua, sest olin eile hilisõhtuni peol. Hommikul oli veidi raske tõusta.</Cell></Row>
+<Row><Cell>subchapter_298_name</Cell><Cell>Unexpected Visit</Cell><Cell>Ootamatu Külaskäik</Cell></Row>
+<Row><Cell>subchapter_313_description</Cell><Cell>My home town was attacked by foreign soldiers and many people slaughtered. I couldn't get inside the castle before they closed the gates, so they sent me to Talmberg to warn the people there in case they faced a similar fate.</Cell><Cell>Mu kodulinna ründasid võõrad sõdurid, kes purustasid mu inimesi. Ma ei jõudnud lossi enne väravate sulgemist, seetõttu saadeti mind Talmbergi teisi elanikke hoiatama juhuks, kui neid sama saatus tabaks.</Cell></Row>
+<Row><Cell>subchapter_313_name</Cell><Cell>Run!</Cell><Cell>Jookse!</Cell></Row>
+<Row><Cell>subchapter_396_description</Cell><Cell>Ginger is hiding out in the woods in fear of his life, because by chance he recognised one of the bandits involved in the Neuhof massacre, some fellow with a limp who lives in Uzhitz.</Cell><Cell>Ginger peidab end võsas, kartes oma elu eest, sest ta juhuslikult tundis ära ühe Neuhofi veresauna röövlitest, mingi lonkav mehike, kes elab Uzhitzis.</Cell></Row>
+<Row><Cell>subchapter_396_name</Cell><Cell>Mysterious Ways</Cell><Cell>Müstilised viisid</Cell></Row>
+<Row><Cell>subchapter_397_description</Cell><Cell>One of the members of the Neuhof gang, a fellow who goes by the moniker of Reeky, should be somewhere in the vicinity of Ledetchko. Unfortunately, that's about all I could find out so far. I expect it shouldn't be too hard to... well, catch scent of this Reeky, though I don't expect it will be a pleasant encounter.</Cell><Cell>Üks Neuhofi jõugu liige, sell nimega Reeky,  peaks olema kuskil Ledetchko läheduses. Kahjuks pole ma siiani rohkemat teada saanud.  Ma küll eeldan, et tema kannule saamine ei tohi raske olla, aga ei usu et temaga kohtumine saab olema meeldiv.</Cell></Row>
+<Row><Cell>subchapter_397_name</Cell><Cell>On the Scent</Cell><Cell>Lõhna kannul</Cell></Row>
+<Row><Cell>subchapter_480_description</Cell><Cell>Sir Radzig wants me to undertake training with his Captain, Sir Bernard. He has a reputation for being gruff, and I'm not sure whether he'll be too happy about Sir Radzig taking me, a blacksmith's son, into his service.</Cell><Cell>Söör Ratas tahab, et ma hakkaks treenima tema kapteniga, Söör Bernardiga. Teda teatakse selle poolest, et ta on karm, ja ma pole kindel, kas ta on rõõmus selle üle, et Sir Ratas võtab minu, sepa poja, oma teenistusse.</Cell></Row>
+<Row><Cell>subchapter_480_name</Cell><Cell>Train Hard, Fight Easy</Cell><Cell>Raske Õppustel, Kerge Lahingus</Cell></Row>
+</Table>

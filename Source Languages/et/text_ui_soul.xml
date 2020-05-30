@@ -1,0 +1,618 @@
+<Table>
+<Row><Cell>buff_alpha_male</Cell><Cell>Alpha Male</Cell><Cell>Alfaisane</Cell></Row>
+<Row><Cell>buff_bleeding</Cell><Cell>Bleeding</Cell><Cell>Verejooks</Cell></Row>
+<Row><Cell>buff_bleeding_normal_desc</Cell><Cell>You're bleeding. Unless you bandage your wounds, you'll slowly lose health and die. The bleeding won't stop on its own.</Cell><Cell>Sa veritsed. Kui sa ei seo kinni enda haavu, jooksed sa verest tühjaks ning sured. Verejooks ei lõppe iseenesest.</Cell></Row>
+<Row><Cell>buff_contemplative_desc</Cell><Cell>You don't move around, so you don't get tired or hungry.</Cell><Cell>Sa ei liigu, nii et sa ei väsi ega  nälgi.</Cell></Row>
+<Row><Cell>buff_deadly_poison</Cell><Cell>Poison </Cell><Cell>Mürk</Cell></Row>
+<Row><Cell>buff_deadly_poison_desc</Cell><Cell>You've been poisoned.</Cell><Cell>Sind mürgitati.</Cell></Row>
+<Row><Cell>buff_general_ken</Cell><Cell>Ken</Cell><Cell>Teadmine</Cell></Row>
+<Row><Cell>buff_general_ken_desc</Cell><Cell>You have a +2 permanent bonus on Charisma, but also a -2 Strength penalty.</Cell><Cell>Sul on +2 püsiv Karisma boonus, aga ka -2 Jõu trahv</Cell></Row>
+<Row><Cell>buff_injured_right_leg</Cell><Cell>Injured Right Leg</Cell><Cell>Vigastatud Parem Jalg</Cell></Row>
+<Row><Cell>buff_jockey_desc</Cell><Cell>Your horse is fearless.</Cell><Cell>Su hobune on kartmatu.</Cell></Row>
+<Row><Cell>buff_local_hero_desc</Cell><Cell>Your reputation is strong enough for you to get a bonus on Strength, Speech, Agility and Vitality. But you face tougher penalties for wrongdoing and your reputation improves more slowly.</Cell><Cell>Sinu maine on piisavalt tugev, et saaksid Jõu, Kõne, Väleduse ja Elujõu boonuse, kuid sind ootavad suuremad trahvid pattude eest ning sinu maine paraneb aeglasemalt.</Cell></Row>
+<Row><Cell>buff_local_hero_name</Cell><Cell>Local Hero</Cell><Cell>Kohalik Kangelane</Cell></Row>
+<Row><Cell>buff_luck_of_the_drunk</Cell><Cell>Drunk's Luck</Cell><Cell>Joodiku õnn</Cell></Row>
+<Row><Cell>buff_luck_of_the_drunk_desc</Cell><Cell>You have the luck of the drunk and pick locks twice as easily, but make 30% more noise doing it.</Cell><Cell>Sul on joodiku õnn ja muukimine õnnestub kaks korda kergemini, aga see teeb 30% võrra rohkem häält.</Cell></Row>
+<Row><Cell>buff_merchants_desc</Cell><Cell>Your eloquence increases when you haggle.</Cell><Cell>Sinu kõnepruuk paraneb, kui sa kaupled.</Cell></Row>
+<Row><Cell>buff_ordinary_mug</Cell><Cell>Ordinary Mug</Cell><Cell>Harilik Kruus</Cell></Row>
+<Row><Cell>buff_ordinary_mug_desc</Cell><Cell>You're wanted. You're conspicuousness is reduced and your crimes are more quickly forgotten.</Cell><Cell>Sa oled tagaotsiav. Sinu silmatorkavus on vähendatud ning sinu kuritöö unustatakse kiiremini.</Cell></Row>
+<Row><Cell>buff_resistance</Cell><Cell>Resistance</Cell><Cell>Vastupidavuse</Cell></Row>
+<Row><Cell>buff_resistance_desc</Cell><Cell>You get a permanent +2 bonus on Vitality.</Cell><Cell>Sinu Elõujõud saab püsiva +2 boonuse.</Cell></Row>
+<Row><Cell>buff_stamina_frenzy</Cell><Cell>Stamina Frenzy</Cell><Cell>Võhma Hullus</Cell></Row>
+<Row><Cell>char_10_uiName</Cell><Cell>Sir Robard</Cell><Cell>Söör Robert</Cell></Row>
+<Row><Cell>char_100_uiName</Cell><Cell>Punch</Cell><Cell>Mulk</Cell></Row>
+<Row><Cell>char_101_uiName</Cell><Cell>Procopius</Cell><Cell>Procopius</Cell></Row>
+<Row><Cell>char_102_uiName</Cell><Cell>Blacksmith Mikesh</Cell><Cell>Sepp Miša</Cell></Row>
+<Row><Cell>char_105_uiName</Cell><Cell>Chamberlain</Cell><Cell>Kambriteener</Cell></Row>
+<Row><Cell>char_11_uiName</Cell><Cell>Adela</Cell><Cell>Adele</Cell></Row>
+<Row><Cell>char_112_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_117_uiName</Cell><Cell>Cuman leader</Cell><Cell>Tatarlaste juht</Cell></Row>
+<Row><Cell>char_118_uiName</Cell><Cell>Cuman interpreter</Cell><Cell>Tatarlaste tõlk</Cell></Row>
+<Row><Cell>char_119_uiName</Cell><Cell>Gambler</Cell><Cell>Mängur</Cell></Row>
+<Row><Cell>char_12_uiName</Cell><Cell>Innkeeper</Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_120_uiName</Cell><Cell>Foreman Nemoy</Cell><Cell>Nuudi</Cell></Row>
+<Row><Cell>char_121_uiName</Cell><Cell>Mine guard</Cell><Cell>Kaevanduse valvur</Cell></Row>
+<Row><Cell>char_127_uiName</Cell><Cell>Captain Bernard</Cell><Cell>Kapten Bernard</Cell></Row>
+<Row><Cell>char_13_uiName</Cell><Cell>Deutsch's Wife</Cell><Cell>Sakslase Naine</Cell></Row>
+<Row><Cell>char_130_uiName</Cell><Cell>Konrad Hagen</Cell><Cell>Konrad Haugas</Cell></Row>
+<Row><Cell>char_131_uiName</Cell><Cell>Agnes</Cell><Cell>Agnes</Cell></Row>
+<Row><Cell>char_132_uiName</Cell><Cell>Brother Porter</Cell><Cell>Vend Peetrus</Cell></Row>
+<Row><Cell>char_133_uiName</Cell><Cell>Brother Nicodemus</Cell><Cell>Vend Nikolai</Cell></Row>
+<Row><Cell>char_134_uiName</Cell><Cell>Adam</Cell><Cell>Aadam</Cell></Row>
+<Row><Cell>char_135_uiName</Cell><Cell>Maruna</Cell><Cell>Maimu</Cell></Row>
+<Row><Cell>char_136_uiName</Cell><Cell>Tonda</Cell><Cell>Tauno</Cell></Row>
+<Row><Cell>char_137_uiName</Cell><Cell>Rock</Cell><Cell>Kivi</Cell></Row>
+<Row><Cell>char_138_uiName</Cell><Cell>Kornelius</Cell><Cell>Kornelius</Cell></Row>
+<Row><Cell>char_139_uiName</Cell><Cell>Bailiff</Cell><Cell>Külavanem</Cell></Row>
+<Row><Cell>char_14_uiName</Cell><Cell>Rupert</Cell><Cell>Rubert</Cell></Row>
+<Row><Cell>char_140_uiName</Cell><Cell>Vincent</Cell><Cell>Valdis</Cell></Row>
+<Row><Cell>char_141_uiName</Cell><Cell>Pickman</Cell><Cell>Valija</Cell></Row>
+<Row><Cell>char_142_uiName</Cell><Cell>Antonia</Cell><Cell>Anete</Cell></Row>
+<Row><Cell>char_143_uiName</Cell><Cell>Vicar</Cell><Cell>Vikaar</Cell></Row>
+<Row><Cell>char_144_uiName</Cell><Cell>Beggar  </Cell><Cell>Kerjus</Cell></Row>
+<Row><Cell>char_145_uiName</Cell><Cell>Circator John</Cell><Cell>Tsirkulaar Joonas</Cell></Row>
+<Row><Cell>char_146_uiName</Cell><Cell>Prior</Cell><Cell>Prior</Cell></Row>
+<Row><Cell>char_147_uiName</Cell><Cell>Brother Librarian</Cell><Cell>Vend Raamatukoguhoidja</Cell></Row>
+<Row><Cell>char_148_uiName</Cell><Cell>Gravedigger</Cell><Cell>Hauakaevaja</Cell></Row>
+<Row><Cell>char_149_uiName</Cell><Cell>Master Karel</Cell><Cell>Meister Kaarel</Cell></Row>
+<Row><Cell>char_15_uiName</Cell><Cell>Hanekin Hare </Cell><Cell>Hando Jänes</Cell></Row>
+<Row><Cell>char_150_uiName</Cell><Cell>Sebastian vom Berg</Cell><Cell>Mäe Sebastian</Cell></Row>
+<Row><Cell>char_151_uiName</Cell><Cell>Leshek </Cell><Cell>Leemet</Cell></Row>
+<Row><Cell>char_152_uiName</Cell><Cell>Zmola</Cell><Cell>Sihvre</Cell></Row>
+<Row><Cell>char_153_uiName</Cell><Cell>Mason</Cell><Cell>Madis</Cell></Row>
+<Row><Cell>char_154_uiName</Cell><Cell>Father Simon</Cell><Cell>Isa Siim</Cell></Row>
+<Row><Cell>char_16_uiName</Cell><Cell>Huntsman Nicholas</Cell><Cell>Jahimees Nikolai</Cell></Row>
+<Row><Cell>char_160_uiName</Cell><Cell>Circator Stibor</Cell><Cell>Tsirkulaar Saamuel</Cell></Row>
+<Row><Cell>char_162_uiName</Cell><Cell>Novice Antonius</Cell><Cell>Algaja Antonius</Cell></Row>
+<Row><Cell>char_163_uiName</Cell><Cell>Novice Jodok</Cell><Cell>Algaja Johannes</Cell></Row>
+<Row><Cell>char_164_uiName</Cell><Cell>Novice Siskin</Cell><Cell>Algaja Sander</Cell></Row>
+<Row><Cell>char_165_uiName</Cell><Cell>Novice Lucas</Cell><Cell>Algaja Lukas</Cell></Row>
+<Row><Cell>char_166_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_167_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_168_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_169_uiName</Cell><Cell>Zora</Cell><Cell>Sirje</Cell></Row>
+<Row><Cell>char_17_uiName</Cell><Cell>Uzhitz Bailiff</Cell><Cell>Ussiotsa Külavanem</Cell></Row>
+<Row><Cell>char_170_uiName</Cell><Cell>Jakub</Cell><Cell>Jakob</Cell></Row>
+<Row><Cell>char_171_uiName</Cell><Cell>Mark</Cell><Cell>Mark</Cell></Row>
+<Row><Cell>char_172_uiName</Cell><Cell>Ruda</Cell><Cell>Rein</Cell></Row>
+<Row><Cell>char_173_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_174_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_175_uiName</Cell><Cell>Elishka</Cell><Cell>Eliise</Cell></Row>
+<Row><Cell>char_176_uiName</Cell><Cell>Executioner Hermann</Cell><Cell>Timukas Hermann</Cell></Row>
+<Row><Cell>char_177_uiName</Cell><Cell>Miller</Cell><Cell>Mölder</Cell></Row>
+<Row><Cell>char_178_uiName</Cell><Cell>Miller Peshek</Cell><Cell>Mölder Pärtel</Cell></Row>
+<Row><Cell>char_179_uiName</Cell><Cell>Miller Woyzeck</Cell><Cell>Mölder Väino</Cell></Row>
+<Row><Cell>char_180_uiName</Cell><Cell>Miller Simon</Cell><Cell>Mölder Siim</Cell></Row>
+<Row><Cell>char_182_uiName</Cell><Cell>Wolfram Pruda</Cell><Cell>Mölder Peep</Cell></Row>
+<Row><Cell>char_183_uiName</Cell><Cell>Madam</Cell><Cell>Proua</Cell></Row>
+<Row><Cell>char_185_uiName</Cell><Cell>Barber</Cell><Cell>Juuksur</Cell></Row>
+<Row><Cell>char_186_uiName</Cell><Cell>Apothecary</Cell><Cell>Apteeker</Cell></Row>
+<Row><Cell>char_19_uiName</Cell><Cell>Father</Cell><Cell>Isa</Cell></Row>
+<Row><Cell>char_190_uiName</Cell><Cell>Herb Woman</Cell><Cell>Soolapuhuja</Cell></Row>
+<Row><Cell>char_191_uiName</Cell><Cell>Magda</Cell><Cell>Maali</Cell></Row>
+<Row><Cell>char_192_uiName</Cell><Cell>Millmaid Anna</Cell><Cell>Veski teenijatüdruk Anna</Cell></Row>
+<Row><Cell>char_193_uiName</Cell><Cell>Scribe</Cell><Cell>Kirjatundja</Cell></Row>
+<Row><Cell>char_194_uiName</Cell><Cell>Elderly man</Cell><Cell>Vana mees</Cell></Row>
+<Row><Cell>char_195_uiName</Cell><Cell>Elderly woman</Cell><Cell>Vana naine</Cell></Row>
+<Row><Cell>char_199_uiName</Cell><Cell>Kuttenberg Executioner</Cell><Cell>Kleidimäe Timukas</Cell></Row>
+<Row><Cell>char_2_uiName</Cell><Cell>Father Godwin  </Cell><Cell>Isa Jumalavõit</Cell></Row>
+<Row><Cell>char_20_uiName</Cell><Cell>Sir Divish  </Cell><Cell>Söör Dagobert</Cell></Row>
+<Row><Cell>char_200_uiName</Cell><Cell>Peter of Dauba</Cell><Cell>Dauba Peeter</Cell></Row>
+<Row><Cell>char_202_uiName</Cell><Cell>Beran</Cell><Cell>Peer</Cell></Row>
+<Row><Cell>char_203_uiName</Cell><Cell>Beran's wife</Cell><Cell>Peeru naine</Cell></Row>
+<Row><Cell>char_204_uiName</Cell><Cell>Fritz</Cell><Cell>Frits</Cell></Row>
+<Row><Cell>char_205_uiName</Cell><Cell>Matthew</Cell><Cell>Mihkel</Cell></Row>
+<Row><Cell>char_206_uiName</Cell><Cell>Innkeeper</Cell><Cell>Körtsmik</Cell></Row>
+<Row><Cell>char_207_uiName</Cell><Cell>Miller's henchman</Cell><Cell>Möldri kannupoiss</Cell></Row>
+<Row><Cell>char_209_uiName</Cell><Cell>Bandit </Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_21_uiName</Cell><Cell>Mother</Cell><Cell>Ema</Cell></Row>
+<Row><Cell>char_210_uiName</Cell><Cell>Bandit </Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_211_uiName</Cell><Cell>Bandit </Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_212_uiName</Cell><Cell>Herbalist Kunhuta</Cell><Cell>Ravitseja Krõõt</Cell></Row>
+<Row><Cell>char_213_uiName</Cell><Cell>Drahomira</Cell><Cell>Dagmar</Cell></Row>
+<Row><Cell>char_214_uiName</Cell><Cell>Vera</Cell><Cell>Veera</Cell></Row>
+<Row><Cell>char_215_uiName</Cell><Cell>Khuta</Cell><Cell>Kaune</Cell></Row>
+<Row><Cell>char_216_uiName</Cell><Cell>Zlata</Cell><Cell>Zlata</Cell></Row>
+<Row><Cell>char_217_uiName</Cell><Cell>Herbalist Zora</Cell><Cell>Ravitseja Sirje</Cell></Row>
+<Row><Cell>char_218_uiName</Cell><Cell>Tailor</Cell><Cell>Parkal</Cell></Row>
+<Row><Cell>char_219_uiName</Cell><Cell>Karolina</Cell><Cell>Karoliina</Cell></Row>
+<Row><Cell>char_22_uiName</Cell><Cell>Sir Radzig Kobyla</Cell><Cell>Söör Ratas Käpp</Cell></Row>
+<Row><Cell>char_220_uiName</Cell><Cell>Butcher</Cell><Cell>Lihunik</Cell></Row>
+<Row><Cell>char_221_uiName</Cell><Cell>Hired hand</Cell><Cell>Palgatud käsi</Cell></Row>
+<Row><Cell>char_223_uiName</Cell><Cell>Vitus Urban</Cell><Cell>Linlane Värdi</Cell></Row>
+<Row><Cell>char_224_uiName</Cell><Cell>Nightingale</Cell><Cell>Ööbik</Cell></Row>
+<Row><Cell>char_225_uiName</Cell><Cell>Sir Hanush of Leipa</Cell><Cell>Leipa Söör Hanush</Cell></Row>
+<Row><Cell>char_226_uiName</Cell><Cell>Andrew</Cell><Cell>Andrei</Cell></Row>
+<Row><Cell>char_228_uiName</Cell><Cell>Beggar Jane</Cell><Cell>Kerjus Jane</Cell></Row>
+<Row><Cell>char_229_uiName</Cell><Cell>Milomir </Cell><Cell>Manivald</Cell></Row>
+<Row><Cell>char_23_uiName</Cell><Cell>Theresa</Cell><Cell>Teresa</Cell></Row>
+<Row><Cell>char_230_uiName</Cell><Cell>Melichar</Cell><Cell>Manfred</Cell></Row>
+<Row><Cell>char_231_uiName</Cell><Cell>Bran</Cell><Cell>Kalev</Cell></Row>
+<Row><Cell>char_234_uiName</Cell><Cell>Olena</Cell><Cell>Olga</Cell></Row>
+<Row><Cell>char_235_uiName</Cell><Cell>Bandit </Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_236_uiName</Cell><Cell>Straw</Cell><Cell>Lõng</Cell></Row>
+<Row><Cell>char_239_uiName</Cell><Cell>Mistress Bauer</Cell><Cell>Pesikute Perenaine</Cell></Row>
+<Row><Cell>char_24_uiName</Cell><Cell>Lady Stephanie</Cell><Cell>Leedi Stefani</Cell></Row>
+<Row><Cell>char_240_uiName</Cell><Cell>Stablemaster</Cell><Cell>Talli peremees</Cell></Row>
+<Row><Cell>char_242_uiName</Cell><Cell>Farmer Bauer</Cell><Cell>Pesikute Talunik</Cell></Row>
+<Row><Cell>char_245_uiName</Cell><Cell>Farmhand</Cell><Cell>Sulane</Cell></Row>
+<Row><Cell>char_246_uiName</Cell><Cell>Farmhand</Cell><Cell>Sulane</Cell></Row>
+<Row><Cell>char_247_uiName</Cell><Cell>Skalitz Priest</Cell><Cell>Skalitsa Preester</Cell></Row>
+<Row><Cell>char_248_uiName</Cell><Cell>Girl's father</Cell><Cell>Tüdruku isa</Cell></Row>
+<Row><Cell>char_249_uiName</Cell><Cell>Apothecary  </Cell><Cell>Apteeker</Cell></Row>
+<Row><Cell>char_25_uiName</Cell><Cell>Hans Capon</Cell><Cell>Hans Kabun</Cell></Row>
+<Row><Cell>char_250_uiName</Cell><Cell>Girl's mother</Cell><Cell>Tüdruku ema</Cell></Row>
+<Row><Cell>char_251_uiName</Cell><Cell>Zdena</Cell><Cell>Sirli</Cell></Row>
+<Row><Cell>char_252_uiName</Cell><Cell>Tramp</Cell><Cell>Kalkar</Cell></Row>
+<Row><Cell>char_253_uiName</Cell><Cell>Tramp</Cell><Cell>Kalkar</Cell></Row>
+<Row><Cell>char_254_uiName</Cell><Cell>Peasant</Cell><Cell>Talupoeg</Cell></Row>
+<Row><Cell>char_255_uiName</Cell><Cell>Klara</Cell><Cell>Klara</Cell></Row>
+<Row><Cell>char_256_uiName</Cell><Cell>Peter Loukota</Cell><Cell>Peeter Lõvikusi</Cell></Row>
+<Row><Cell>char_257_uiName</Cell><Cell>Archibald</Cell><Cell>Aadrian</Cell></Row>
+<Row><Cell>char_258_uiName</Cell><Cell>Innkeeper</Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_259_uiName</Cell><Cell>Mark Loukota</Cell><Cell>Mark Lõvikusi</Cell></Row>
+<Row><Cell>char_26_uiName</Cell><Cell>Henry</Cell><Cell>Henri</Cell></Row>
+<Row><Cell>char_261_uiName</Cell><Cell>Milota</Cell><Cell>Milvi</Cell></Row>
+<Row><Cell>char_262_uiName</Cell><Cell>Dorothy</Cell><Cell>Doora</Cell></Row>
+<Row><Cell>char_263_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_265_uiName</Cell><Cell>Vatzek</Cell><Cell>Valdes</Cell></Row>
+<Row><Cell>char_266_uiName</Cell><Cell>Vagrant</Cell><Cell>Vagant</Cell></Row>
+<Row><Cell>char_267_uiName</Cell><Cell>Just So</Cell><Cell>Lihtsalt Nii</Cell></Row>
+<Row><Cell>char_268_uiName</Cell><Cell>Storyteller</Cell><Cell>Jutuvestja</Cell></Row>
+<Row><Cell>char_269_uiName</Cell><Cell>Leshek</Cell><Cell>Leemet</Cell></Row>
+<Row><Cell>char_27_uiName</Cell><Cell>Rattay Blacksmith</Cell><Cell>Rottlinna Sepp</Cell></Row>
+<Row><Cell>char_270_uiName</Cell><Cell>Labourer</Cell><Cell>Tööline</Cell></Row>
+<Row><Cell>char_271_uiName</Cell><Cell>Huntsman Berthold</Cell><Cell>Jahimees Bertköis</Cell></Row>
+<Row><Cell>char_272_uiName</Cell><Cell>Armourer</Cell><Cell>Rüüde valmistaja</Cell></Row>
+<Row><Cell>char_276_uiName</Cell><Cell>Radan</Cell><Cell>Ruudi</Cell></Row>
+<Row><Cell>char_277_uiName</Cell><Cell>Smil  </Cell><Cell>Siim</Cell></Row>
+<Row><Cell>char_28_uiName</Cell><Cell>Borya  </Cell><Cell>Borja</Cell></Row>
+<Row><Cell>char_280_uiName</Cell><Cell>Innkeeper  </Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_281_uiName</Cell><Cell>Armourer's wife  </Cell><Cell>Rüüde valmistaja naine</Cell></Row>
+<Row><Cell>char_282_uiName</Cell><Cell>Johann</Cell><Cell>Johannes</Cell></Row>
+<Row><Cell>char_283_uiName</Cell><Cell>Ludmila</Cell><Cell>Ljudmilla</Cell></Row>
+<Row><Cell>char_284_uiName</Cell><Cell>Konrad Kyeser</Cell><Cell>Konrad Kärbes</Cell></Row>
+<Row><Cell>char_288_uiName</Cell><Cell>Ulrich</Cell><Cell>Ulrih</Cell></Row>
+<Row><Cell>char_289_uiName</Cell><Cell>Sir Jezhek</Cell><Cell>Söör Jezhek</Cell></Row>
+<Row><Cell>char_290_uiName</Cell><Cell>Rapota</Cell><Cell>Raputaja</Cell></Row>
+<Row><Cell>char_292_uiName</Cell><Cell>Raspberry</Cell><Cell>Vaarikas</Cell></Row>
+<Row><Cell>char_294_uiName</Cell><Cell>Combat Master Vanyek</Cell><Cell>Võitluse Meister Vänt</Cell></Row>
+<Row><Cell>char_295_uiName</Cell><Cell>Erik</Cell><Cell>Erik</Cell></Row>
+<Row><Cell>char_296_uiName</Cell><Cell>Florian</Cell><Cell>Florian</Cell></Row>
+<Row><Cell>char_297_uiName</Cell><Cell>Master Jerome</Cell><Cell>Meister Julian</Cell></Row>
+<Row><Cell>char_298_uiName</Cell><Cell>Karl</Cell><Cell>Karl</Cell></Row>
+<Row><Cell>char_299_uiName</Cell><Cell>Margrave Jobst  </Cell><Cell>Brandenburgi Jobst</Cell></Row>
+<Row><Cell>char_3_uiName</Cell><Cell>Tanner</Cell><Cell>Parkal</Cell></Row>
+<Row><Cell>char_30_uiName</Cell><Cell>Black Lukesh</Cell><Cell>Must Lukas</Cell></Row>
+<Row><Cell>char_300_uiName</Cell><Cell>Karl's father</Cell><Cell>Karli isa</Cell></Row>
+<Row><Cell>char_301_uiName</Cell><Cell>Master Ota</Cell><Cell>Meister Ott</Cell></Row>
+<Row><Cell>char_302_uiName</Cell><Cell>John II of Liechtenstein</Cell><Cell>Lichtensteini Johann II</Cell></Row>
+<Row><Cell>char_303_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_304_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_305_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_306_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_307_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_308_uiName</Cell><Cell>Stableboy</Cell><Cell>Tallipoiss</Cell></Row>
+<Row><Cell>char_309_uiName</Cell><Cell>Captive</Cell><Cell>Vang</Cell></Row>
+<Row><Cell>char_31_uiName</Cell><Cell>Tom o' the Baths</Cell><Cell>Sauna Tom</Cell></Row>
+<Row><Cell>char_310_uiName</Cell><Cell>Scribe</Cell><Cell>Kirjatundja</Cell></Row>
+<Row><Cell>char_311_uiName</Cell><Cell>Mine worker</Cell><Cell>Kaevur</Cell></Row>
+<Row><Cell>char_312_uiName</Cell><Cell>Captive bandit  </Cell><Cell>Vangist röövel</Cell></Row>
+<Row><Cell>char_313_uiName</Cell><Cell>Drunken lout</Cell><Cell>Purjus mats</Cell></Row>
+<Row><Cell>char_314_uiName</Cell><Cell>Talmberg soldier</Cell><Cell>Tallmäe sõdur</Cell></Row>
+<Row><Cell>char_315_uiName</Cell><Cell>Enemy</Cell><Cell>Vaenlane</Cell></Row>
+<Row><Cell>char_316_uiName</Cell><Cell>Soldier</Cell><Cell>Sõdur</Cell></Row>
+<Row><Cell>char_317_uiName</Cell><Cell>Messenger</Cell><Cell>Käskjalg</Cell></Row>
+<Row><Cell>char_318_uiName</Cell><Cell>Thomas</Cell><Cell>Toomas</Cell></Row>
+<Row><Cell>char_319_uiName</Cell><Cell>Spearman</Cell><Cell>Odamees</Cell></Row>
+<Row><Cell>char_320_uiName</Cell><Cell>Soldier</Cell><Cell>Sõdur</Cell></Row>
+<Row><Cell>char_321_uiName</Cell><Cell>Talmberg soldier</Cell><Cell>Tallmäe sõdur</Cell></Row>
+<Row><Cell>char_322_uiName</Cell><Cell>Talmberg Soldier</Cell><Cell>Tallmäe sõdur</Cell></Row>
+<Row><Cell>char_323_uiName</Cell><Cell>Guard   </Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_324_uiName</Cell><Cell>Messenger</Cell><Cell>Käskjalg</Cell></Row>
+<Row><Cell>char_325_uiName</Cell><Cell>Rioter</Cell><Cell>Märatseja</Cell></Row>
+<Row><Cell>char_326_uiName</Cell><Cell>Rioter</Cell><Cell>Märatseja</Cell></Row>
+<Row><Cell>char_327_uiName</Cell><Cell>Rioter</Cell><Cell>Märatseja</Cell></Row>
+<Row><Cell>char_328_uiName</Cell><Cell>Capon's crony</Cell><Cell>Kabuni semu</Cell></Row>
+<Row><Cell>char_331_uiName</Cell><Cell>Village woman</Cell><Cell>Külanaine</Cell></Row>
+<Row><Cell>char_332_uiName</Cell><Cell>Cook</Cell><Cell>Kokk</Cell></Row>
+<Row><Cell>char_333_uiName</Cell><Cell>Village woman</Cell><Cell>Külanaine</Cell></Row>
+<Row><Cell>char_334_uiName</Cell><Cell>Leader</Cell><Cell>Juht</Cell></Row>
+<Row><Cell>char_335_uiName</Cell><Cell>Poacher</Cell><Cell>Salakütt</Cell></Row>
+<Row><Cell>char_336_uiName</Cell><Cell>Radan</Cell><Cell>Ruudi</Cell></Row>
+<Row><Cell>char_337_uiName</Cell><Cell>Radan</Cell><Cell>Ruudi</Cell></Row>
+<Row><Cell>char_342_uiName</Cell><Cell>Capon's crony</Cell><Cell>Kabuni semu</Cell></Row>
+<Row><Cell>char_344_uiName</Cell><Cell>Wolflin of Kamberg</Cell><Cell>Kammimäe Hundipea</Cell></Row>
+<Row><Cell>char_346_uiName</Cell><Cell>Guardian Manfred </Cell><Cell>Valvur Manfred</Cell></Row>
+<Row><Cell>char_347_uiName</Cell><Cell>Brother Nevlas</Cell><Cell>Vend Neeme</Cell></Row>
+<Row><Cell>char_35_uiName</Cell><Cell>Uzhitz villager</Cell><Cell>Ussiotsa külaelanik</Cell></Row>
+<Row><Cell>char_350_uiName</Cell><Cell>Brother Cellarius</Cell><Cell>Vend Julius</Cell></Row>
+<Row><Cell>char_351_uiName</Cell><Cell>Quarryman Semek</Cell><Cell>Karjääri mees Seenik</Cell></Row>
+<Row><Cell>char_352_uiName</Cell><Cell>Hannes from Skalitz</Cell><Cell>Saklitsa Hans</Cell></Row>
+<Row><Cell>char_353_uiName</Cell><Cell>Thomas</Cell><Cell>Toomas</Cell></Row>
+<Row><Cell>char_354_uiName</Cell><Cell>Philip from Skalitz</Cell><Cell>Skalitsa Filipp</Cell></Row>
+<Row><Cell>char_355_uiName</Cell><Cell>Insomniac</Cell><Cell>Unetu</Cell></Row>
+<Row><Cell>char_358_uiName</Cell><Cell>Charcoal-Burner's Helper</Cell><Cell>Söepõletajate Abiline</Cell></Row>
+<Row><Cell>char_359_uiName</Cell><Cell>Bored Guard</Cell><Cell>Igavlev Valvur</Cell></Row>
+<Row><Cell>char_36_uiName</Cell><Cell>Uzhitz village woman</Cell><Cell>Ussiotsa külanaine</Cell></Row>
+<Row><Cell>char_360_uiName</Cell><Cell>Brother Elias</Cell><Cell>Vend Elias</Cell></Row>
+<Row><Cell>char_361_uiName</Cell><Cell>German</Cell><Cell>Sakslane</Cell></Row>
+<Row><Cell>char_362_uiName</Cell><Cell>Quartermaster</Cell><Cell>Varustusülem</Cell></Row>
+<Row><Cell>char_364_uiName</Cell><Cell>Weed</Cell><Cell>Kanep</Cell></Row>
+<Row><Cell>char_365_uiName</Cell><Cell>Stump</Cell><Cell>Lauajalg</Cell></Row>
+<Row><Cell>char_366_uiName</Cell><Cell>Betwixt</Cell><Cell>Lõng</Cell></Row>
+<Row><Cell>char_367_uiName</Cell><Cell>Lanky</Cell><Cell>Kusik</Cell></Row>
+<Row><Cell>char_368_uiName</Cell><Cell>Bandit Leader</Cell><Cell>Röövlite Juht</Cell></Row>
+<Row><Cell>char_37_uiName</Cell><Cell>Uzhitz Catchpole</Cell><Cell>Ussiotsa Maksukoguja</Cell></Row>
+<Row><Cell>char_370_uiName</Cell><Cell>Old Thomas</Cell><Cell>Vana Toomas</Cell></Row>
+<Row><Cell>char_371_uiName</Cell><Cell>Overseer</Cell><Cell>Kontrolör</Cell></Row>
+<Row><Cell>char_372_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_373_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_374_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_375_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_376_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_377_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_378_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_379_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_380_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_381_uiName</Cell><Cell>Villager</Cell><Cell>Külaelanik</Cell></Row>
+<Row><Cell>char_382_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_384_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_385_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_386_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_387_uiName</Cell><Cell>Herald</Cell><Cell>Sõnumitooja</Cell></Row>
+<Row><Cell>char_388_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_389_uiName</Cell><Cell>Citizen</Cell><Cell>Kodanik</Cell></Row>
+<Row><Cell>char_392_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_393_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_394_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_395_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_396_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_397_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_398_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_399_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_4_uiName</Cell><Cell>Reeky</Cell><Cell>Reku</Cell></Row>
+<Row><Cell>char_401_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_402_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_403_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_404_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_405_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_406_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_407_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_408_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_409_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_410_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_411_uiName</Cell><Cell>Bandit</Cell><Cell>Röövel</Cell></Row>
+<Row><Cell>char_412_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_413_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_414_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_415_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_416_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_417_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_418_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_419_uiName</Cell><Cell>Monk</Cell><Cell>Munk</Cell></Row>
+<Row><Cell>char_420_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_421_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_422_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_423_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_424_uiName</Cell><Cell>Cuman</Cell><Cell>Tatarlane</Cell></Row>
+<Row><Cell>char_425_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_426_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_427_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_428_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_429_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_43_uiName</Cell><Cell>Uzhitz tavern maid</Cell><Cell>Ussiotsa kõrtsi teenijatüdruk</Cell></Row>
+<Row><Cell>char_430_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_431_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_432_uiName</Cell><Cell>Commoner</Cell><Cell>Lihtkodanik</Cell></Row>
+<Row><Cell>char_433_uiName</Cell><Cell>Old woman</Cell><Cell>Vana naine</Cell></Row>
+<Row><Cell>char_434_uiName</Cell><Cell>German</Cell><Cell>Sakslane</Cell></Row>
+<Row><Cell>char_435_uiName</Cell><Cell>Urban</Cell><Cell>Linlane</Cell></Row>
+<Row><Cell>char_436_uiName</Cell><Cell>Innkeeper</Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_437_uiName</Cell><Cell>Charcoal-burner </Cell><Cell>Söepõletaja</Cell></Row>
+<Row><Cell>char_438_uiName</Cell><Cell>Charcoal-burner </Cell><Cell>Söepõletaja</Cell></Row>
+<Row><Cell>char_439_uiName</Cell><Cell>Charcoal-burner </Cell><Cell>Söepõletaja</Cell></Row>
+<Row><Cell>char_44_uiName</Cell><Cell>Godwin's concubine</Cell><Cell>Jumalavõidu konkubiin</Cell></Row>
+<Row><Cell>char_441_uiName</Cell><Cell>Farmer Josef</Cell><Cell>Talunik Josif</Cell></Row>
+<Row><Cell>char_442_uiName</Cell><Cell>Marta</Cell><Cell>Marta</Cell></Row>
+<Row><Cell>char_443_uiName</Cell><Cell>Fisherman Tomkin</Cell><Cell>Kalamees Tohver</Cell></Row>
+<Row><Cell>char_444_uiName</Cell><Cell>Blacksmith's wife</Cell><Cell>Sepa naine</Cell></Row>
+<Row><Cell>char_445_uiName</Cell><Cell>Wayfarer</Cell><Cell>Teekäija</Cell></Row>
+<Row><Cell>char_446_uiName</Cell><Cell>Head Groom</Cell><Cell>Peigmees</Cell></Row>
+<Row><Cell>char_447_uiName</Cell><Cell>Charcoal-burner </Cell><Cell>Söepõletaja</Cell></Row>
+<Row><Cell>char_448_uiName</Cell><Cell>Tavern brawler</Cell><Cell>Kõrtsi kakleja</Cell></Row>
+<Row><Cell>char_449_uiName</Cell><Cell>Tanner Brada</Cell><Cell>Parkal Benno</Cell></Row>
+<Row><Cell>char_45_uiName</Cell><Cell>Narrator</Cell><Cell>Jutustaja</Cell></Row>
+<Row><Cell>char_450_uiName</Cell><Cell>Guard Radim</Cell><Cell>Valvur Rando</Cell></Row>
+<Row><Cell>char_451_uiName</Cell><Cell>Farmer Josef's wife</Cell><Cell>Talunik Josifi naine</Cell></Row>
+<Row><Cell>char_452_uiName</Cell><Cell>Vashek</Cell><Cell>Valdur</Cell></Row>
+<Row><Cell>char_453_uiName</Cell><Cell>Preacher   </Cell><Cell>Jutlustaja</Cell></Row>
+<Row><Cell>char_454_uiName</Cell><Cell>Preacher   </Cell><Cell>Jutlustaja</Cell></Row>
+<Row><Cell>char_455_uiName</Cell><Cell>Preacher   </Cell><Cell>Jutlustaja</Cell></Row>
+<Row><Cell>char_457_uiName</Cell><Cell>Beggar</Cell><Cell>Kerjus</Cell></Row>
+<Row><Cell>char_458_uiName</Cell><Cell>Riddler</Cell><Cell>Rändur</Cell></Row>
+<Row><Cell>char_459_uiName</Cell><Cell>Poacher</Cell><Cell>Salakütt</Cell></Row>
+<Row><Cell>char_46_uiName</Cell><Cell>Charcoal-burner Havel</Cell><Cell>Söepõletaja Hasso</Cell></Row>
+<Row><Cell>char_460_uiName</Cell><Cell>Gamekeeper</Cell><Cell>Metsavaht</Cell></Row>
+<Row><Cell>char_461_uiName</Cell><Cell>Odd Fellow</Cell><Cell>Imelik Sell</Cell></Row>
+<Row><Cell>char_462_uiName</Cell><Cell>Faint-hearted Knight</Cell><Cell>Nõrga südamega Rüütel</Cell></Row>
+<Row><Cell>char_463_uiName</Cell><Cell>Wayfaring Knight</Cell><Cell>Rändurist Rüütel</Cell></Row>
+<Row><Cell>char_464_uiName</Cell><Cell>Mercenary</Cell><Cell>Palgasõdur</Cell></Row>
+<Row><Cell>char_465_uiName</Cell><Cell>Zach </Cell><Cell>Sulev</Cell></Row>
+<Row><Cell>char_466_uiName</Cell><Cell>Marianna</Cell><Cell>Marianna</Cell></Row>
+<Row><Cell>char_467_uiName</Cell><Cell>Old Whore</Cell><Cell>Vana Hoor</Cell></Row>
+<Row><Cell>char_468_uiName</Cell><Cell>Farmhand </Cell><Cell>Sulane</Cell></Row>
+<Row><Cell>char_47_uiName</Cell><Cell>Tobias Feyfar</Cell><Cell>Tobias Kaugmaa</Cell></Row>
+<Row><Cell>char_470_uiName</Cell><Cell>Vagabond</Cell><Cell>Hulkur</Cell></Row>
+<Row><Cell>char_472_uiName</Cell><Cell>Fisherman</Cell><Cell>Kalamees</Cell></Row>
+<Row><Cell>char_473_uiName</Cell><Cell>Mash </Cell><Cell>Mälk</Cell></Row>
+<Row><Cell>char_474_uiName</Cell><Cell>Maple </Cell><Cell>Vaher</Cell></Row>
+<Row><Cell>char_475_uiName</Cell><Cell>Josef</Cell><Cell>Josif</Cell></Row>
+<Row><Cell>char_476_uiName</Cell><Cell>Milan </Cell><Cell>Miko</Cell></Row>
+<Row><Cell>char_477_uiName</Cell><Cell>Ringlet </Cell><Cell>Ringo</Cell></Row>
+<Row><Cell>char_478_uiName</Cell><Cell>Stephen </Cell><Cell>Stefan</Cell></Row>
+<Row><Cell>char_479_uiName</Cell><Cell>Odd Bird</Cell><Cell>Kahtlane Lind</Cell></Row>
+<Row><Cell>char_48_uiName</Cell><Cell>Kunesh</Cell><Cell>Kuldar</Cell></Row>
+<Row><Cell>char_480_uiName</Cell><Cell>Overseer's Hand</Cell><Cell>Kontrolöri Abiline</Cell></Row>
+<Row><Cell>char_481_uiName</Cell><Cell>Sasau scribe</Cell><Cell>Sasau kirjatundja</Cell></Row>
+<Row><Cell>char_482_uiName</Cell><Cell>Gambler</Cell><Cell>Mängur</Cell></Row>
+<Row><Cell>char_483_uiName</Cell><Cell>Květoslav the combat setter</Cell><Cell>Võitluse seadistaja Kert</Cell></Row>
+<Row><Cell>char_484_uiName</Cell><Cell>Millmaid Jane</Cell><Cell>Veski teenijatüdruk Jane</Cell></Row>
+<Row><Cell>char_485_uiName</Cell><Cell>Morcock's henchman</Cell><Cell>Suurmunni käsilane</Cell></Row>
+<Row><Cell>char_486_uiName</Cell><Cell>Morcock's henchman</Cell><Cell>Suurmunni käsilane</Cell></Row>
+<Row><Cell>char_487_uiName</Cell><Cell>Peychar</Cell><Cell>Priidik</Cell></Row>
+<Row><Cell>char_488_uiName</Cell><Cell>Pebbles</Cell><Cell>Pook</Cell></Row>
+<Row><Cell>char_489_uiName</Cell><Cell>Rocinante</Cell><Cell>Rosinant</Cell></Row>
+<Row><Cell>char_49_uiName</Cell><Cell>Matthias</Cell><Cell>Madis</Cell></Row>
+<Row><Cell>char_490_uiName</Cell><Cell>Boxer </Cell><Cell>Bokser</Cell></Row>
+<Row><Cell>char_491_uiName</Cell><Cell>Kelpie</Cell><Cell>Kelpi</Cell></Row>
+<Row><Cell>char_492_uiName</Cell><Cell>Trojan</Cell><Cell>Troojalane</Cell></Row>
+<Row><Cell>char_493_uiName</Cell><Cell>Roach</Cell><Cell>Särg</Cell></Row>
+<Row><Cell>char_494_uiName</Cell><Cell>Epona</Cell><Cell>Epona</Cell></Row>
+<Row><Cell>char_495_uiName</Cell><Cell>Hatatitla</Cell><Cell>Hatatitla</Cell></Row>
+<Row><Cell>char_496_uiName</Cell><Cell>Tulpar</Cell><Cell>Tulpar</Cell></Row>
+<Row><Cell>char_497_uiName</Cell><Cell>Podagros</Cell><Cell>Pisike</Cell></Row>
+<Row><Cell>char_498_uiName</Cell><Cell>Uchchaihshravas</Cell><Cell>Ušhaišravas</Cell></Row>
+<Row><Cell>char_499_uiName</Cell><Cell>Binky</Cell><Cell>Binky</Cell></Row>
+<Row><Cell>char_50_uiName</Cell><Cell>Catchpole</Cell><Cell>Maksukoguja</Cell></Row>
+<Row><Cell>char_500_uiName</Cell><Cell>Schemig</Cell><Cell>Šemik</Cell></Row>
+<Row><Cell>char_501_uiName</Cell><Cell>Bayard</Cell><Cell>Bayard</Cell></Row>
+<Row><Cell>char_502_uiName</Cell><Cell>Pegasus</Cell><Cell>Pegasus</Cell></Row>
+<Row><Cell>char_503_uiName</Cell><Cell>Chollima</Cell><Cell>Tšolllima</Cell></Row>
+<Row><Cell>char_504_uiName</Cell><Cell>Bucephalus</Cell><Cell>Butsefal</Cell></Row>
+<Row><Cell>char_505_uiName</Cell><Cell>Sleipnir</Cell><Cell>Sleipnir</Cell></Row>
+<Row><Cell>char_506_uiName</Cell><Cell>Kanthaka</Cell><Cell>Kantaka</Cell></Row>
+<Row><Cell>char_507_uiName</Cell><Cell>Al-Burāq</Cell><Cell>Al-Burak</Cell></Row>
+<Row><Cell>char_508_uiName</Cell><Cell>Warhorse Jenda</Cell><Cell>Sõjahobu Jenda</Cell></Row>
+<Row><Cell>char_51_uiName</Cell><Cell>Alex</Cell><Cell>Aleks</Cell></Row>
+<Row><Cell>char_510_uiName</Cell><Cell>Fresco Master</Cell><Cell>Meister Felix</Cell></Row>
+<Row><Cell>char_512_uiName</Cell><Cell>Soldier</Cell><Cell>Sõdur</Cell></Row>
+<Row><Cell>char_513_uiName</Cell><Cell>Soldier </Cell><Cell>Sõdur</Cell></Row>
+<Row><Cell>char_515_uiName</Cell><Cell>Vincent</Cell><Cell>Valdis</Cell></Row>
+<Row><Cell>char_516_uiName</Cell><Cell>Daniel</Cell><Cell>Tanel</Cell></Row>
+<Row><Cell>char_517_uiName</Cell><Cell>Bedrishka</Cell><Cell>Birgit</Cell></Row>
+<Row><Cell>char_52_uiName</Cell><Cell>Deutsch</Cell><Cell>Sakslane</Cell></Row>
+<Row><Cell>char_53_uiName</Cell><Cell>Bailiff</Cell><Cell>Külavanem</Cell></Row>
+<Row><Cell>char_533_uiName</Cell><Cell>Ensign</Cell><Cell>Lipnik</Cell></Row>
+<Row><Cell>char_534_uiName</Cell><Cell>Soldier</Cell><Cell>Sõdur</Cell></Row>
+<Row><Cell>char_535_uiName</Cell><Cell>Votava</Cell><Cell>Vambola</Cell></Row>
+<Row><Cell>char_536_uiName</Cell><Cell>Father Fabian</Cell><Cell>Isa Friedrich</Cell></Row>
+<Row><Cell>char_537_uiName</Cell><Cell>Vitus</Cell><Cell>Vitja</Cell></Row>
+<Row><Cell>char_538_uiName</Cell><Cell></Cell><Cell> </Cell></Row>
+<Row><Cell>char_539_uiName</Cell><Cell>Pie</Cell><Cell>Kook</Cell></Row>
+<Row><Cell>char_54_uiName</Cell><Cell>Zbyshek</Cell><Cell>Vesse</Cell></Row>
+<Row><Cell>char_540_uiName</Cell><Cell>Vicar's guard</Cell><Cell>Vikaari valvur</Cell></Row>
+<Row><Cell>char_541_uiName</Cell><Cell>Vicar's guard</Cell><Cell>Vikaari valvur</Cell></Row>
+<Row><Cell>char_542_uiName</Cell><Cell>Zora's dappled grey</Cell><Cell>Sirje halltäpp hobune</Cell></Row>
+<Row><Cell>char_543_uiName</Cell><Cell>Roan</Cell><Cell>Ron</Cell></Row>
+<Row><Cell>char_548_uiName</Cell><Cell>Miller Oliver</Cell><Cell>Mölder Oliver</Cell></Row>
+<Row><Cell>char_549_uiName</Cell><Cell>Roe deer</Cell><Cell>Metskits</Cell></Row>
+<Row><Cell>char_55_uiName</Cell><Cell>Johanka</Cell><Cell>Johanna</Cell></Row>
+<Row><Cell>char_550_uiName</Cell><Cell>Herald</Cell><Cell>Sõnumitooja</Cell></Row>
+<Row><Cell>char_551_uiName</Cell><Cell>Martin Viezek</Cell><Cell>Martin Viisik</Cell></Row>
+<Row><Cell>char_553_uiName</Cell><Cell>Guard Pazdera</Cell><Cell>Valvur Pasknäär</Cell></Row>
+<Row><Cell>char_554_uiName</Cell><Cell>Marius</Cell><Cell>Marius</Cell></Row>
+<Row><Cell>char_556_uiName</Cell><Cell>Custodian's Scribe</Cell><Cell>Haldaja Kirjatundja</Cell></Row>
+<Row><Cell>char_56_uiName</Cell><Cell>Janek</Cell><Cell>Jaan</Cell></Row>
+<Row><Cell>char_563_uiName</Cell><Cell>Refugee</Cell><Cell>Põgenik</Cell></Row>
+<Row><Cell>char_564_uiName</Cell><Cell>Refugee</Cell><Cell>Põgenik</Cell></Row>
+<Row><Cell>char_565_uiName</Cell><Cell>Refugee</Cell><Cell>Põgenik</Cell></Row>
+<Row><Cell>char_566_uiName</Cell><Cell>Refugee</Cell><Cell>Põgenik</Cell></Row>
+<Row><Cell>char_567_uiName</Cell><Cell>Refugee</Cell><Cell>Põgenik</Cell></Row>
+<Row><Cell>char_568_uiName</Cell><Cell>Sir Kuno</Cell><Cell>Söör Uuno</Cell></Row>
+<Row><Cell>char_569_uiName</Cell><Cell>Jakey</Cell><Cell>Janno</Cell></Row>
+<Row><Cell>char_57_uiName</Cell><Cell>Jaroslav</Cell><Cell>Jaroslav</Cell></Row>
+<Row><Cell>char_572_uiName</Cell><Cell>Woodcutter</Cell><Cell>Puuraidur</Cell></Row>
+<Row><Cell>char_573_uiName</Cell><Cell>Woodcutter</Cell><Cell>Puuraidur</Cell></Row>
+<Row><Cell>char_574_uiName</Cell><Cell>Woodcutter</Cell><Cell>Puuraidur</Cell></Row>
+<Row><Cell>char_575_uiName</Cell><Cell>Woodcutter</Cell><Cell>Puuraidur</Cell></Row>
+<Row><Cell>char_576_uiName</Cell><Cell>Dangler</Cell><Cell>Lööja</Cell></Row>
+<Row><Cell>char_577_uiName</Cell><Cell>The Stone</Cell><Cell>Kivi</Cell></Row>
+<Row><Cell>char_578_uiName</Cell><Cell>Sir Hagen Zul</Cell><Cell>Söör Haugas Sulg</Cell></Row>
+<Row><Cell>char_579_uiName</Cell><Cell>Stephan Fletching</Cell><Cell>Stefan Vestja</Cell></Row>
+<Row><Cell>char_58_uiName</Cell><Cell>Bianca</Cell><Cell>Bianka</Cell></Row>
+<Row><Cell>char_580_uiName</Cell><Cell>Jan Bearman</Cell><Cell>Jan Karumees</Cell></Row>
+<Row><Cell>char_581_uiName</Cell><Cell>Petr Bearman</Cell><Cell>Peeter Karumees</Cell></Row>
+<Row><Cell>char_582_uiName</Cell><Cell>Herald</Cell><Cell>Sõnumitooja</Cell></Row>
+<Row><Cell>char_583_uiName</Cell><Cell>Baker Silvester</Cell><Cell>Pagar Silvester</Cell></Row>
+<Row><Cell>char_584_uiName</Cell><Cell>Butcher Kochwurst</Cell><Cell>Lihunik Kokkvorst</Cell></Row>
+<Row><Cell>char_585_uiName</Cell><Cell>Butcher Brisket</Cell><Cell>Lihunik Rindtükk</Cell></Row>
+<Row><Cell>char_586_uiName</Cell><Cell>Merchant</Cell><Cell>Kaupmees</Cell></Row>
+<Row><Cell>char_588_uiName</Cell><Cell>Butcher</Cell><Cell>Lihunik</Cell></Row>
+<Row><Cell>char_589_uiName</Cell><Cell>Baker</Cell><Cell>Pagar</Cell></Row>
+<Row><Cell>char_59_uiName</Cell><Cell>Istvan Toth</Cell><Cell>Istvan Toot</Cell></Row>
+<Row><Cell>char_591_uiName</Cell><Cell>Swordsmith Fink</Cell><Cell>Mõõga sepp Raul</Cell></Row>
+<Row><Cell>char_593_uiName</Cell><Cell>Derelict</Cell><Cell>Mahajäetu</Cell></Row>
+<Row><Cell>char_594_uiName</Cell><Cell>Derelict</Cell><Cell>Mahajäetu</Cell></Row>
+<Row><Cell>char_595_uiName</Cell><Cell>Derelict</Cell><Cell>Mahajäetu</Cell></Row>
+<Row><Cell>char_596_uiName</Cell><Cell>Derelict</Cell><Cell>Mahajäetu</Cell></Row>
+<Row><Cell>char_597_uiName</Cell><Cell>Agro</Cell><Cell>Argo</Cell></Row>
+<Row><Cell>char_598_uiName</Cell><Cell>Shadowmere</Cell><Cell>Varimäär</Cell></Row>
+<Row><Cell>char_599_uiName</Cell><Cell>Shadowfax</Cell><Cell>Varifaks</Cell></Row>
+<Row><Cell>char_6_uiName</Cell><Cell>Timmy</Cell><Cell>Timmu</Cell></Row>
+<Row><Cell>char_600_uiName</Cell><Cell>Malis</Cell><Cell>Mailis</Cell></Row>
+<Row><Cell>char_601_uiName</Cell><Cell>Harridan</Cell><Cell>Hendrik</Cell></Row>
+<Row><Cell>char_602_uiName</Cell><Cell>Malis</Cell><Cell>Mailis</Cell></Row>
+<Row><Cell>char_603_uiName</Cell><Cell>Harridan</Cell><Cell>Hendrik</Cell></Row>
+<Row><Cell>char_604_uiName</Cell><Cell>Lida</Cell><Cell>Lita</Cell></Row>
+<Row><Cell>char_605_uiName</Cell><Cell>Veteran</Cell><Cell>Veteran</Cell></Row>
+<Row><Cell>char_606_uiName</Cell><Cell>Inquisitor Jaroslav</Cell><Cell>Piiskop Jaroslav</Cell></Row>
+<Row><Cell>char_607_uiName</Cell><Cell>Swordsmith's wife Katra</Cell><Cell>Mõõga sepa naine Kata</Cell></Row>
+<Row><Cell>char_608_uiName</Cell><Cell>Gossip</Cell><Cell>Kuulujutt</Cell></Row>
+<Row><Cell>char_609_uiName</Cell><Cell>Black Peter</Cell><Cell>Must Peeter</Cell></Row>
+<Row><Cell>char_611_uiName</Cell><Cell>Sir Anselm</Cell><Cell>Söör Aleksandr</Cell></Row>
+<Row><Cell>char_612_uiName</Cell><Cell>Samuel</Cell><Cell>Saamuel</Cell></Row>
+<Row><Cell>char_613_uiName</Cell><Cell>Stibor</Cell><Cell>Stibor</Cell></Row>
+<Row><Cell>char_615_uiName</Cell><Cell>Father</Cell><Cell>Isa</Cell></Row>
+<Row><Cell>char_616_uiName</Cell><Cell>Hans Capon</Cell><Cell>Hans Kabun</Cell></Row>
+<Row><Cell>char_617_uiName</Cell><Cell>Jane</Cell><Cell>Jane</Cell></Row>
+<Row><Cell>char_618_uiName</Cell><Cell>Ledetchko player</Cell><Cell>Ledeško mängija</Cell></Row>
+<Row><Cell>char_619_uiName</Cell><Cell>Camp wench</Cell><Cell>Laagri libu</Cell></Row>
+<Row><Cell>char_62_uiName</Cell><Cell>Margaret</Cell><Cell>Margareeta</Cell></Row>
+<Row><Cell>char_620_uiName</Cell><Cell>Noggin</Cell><Cell>Noggin</Cell></Row>
+<Row><Cell>char_621_uiName</Cell><Cell>Berta</Cell><Cell>Berta</Cell></Row>
+<Row><Cell>char_622_uiName</Cell><Cell>Mladota</Cell><Cell>Mladota</Cell></Row>
+<Row><Cell>char_623_uiName</Cell><Cell>Pechuna</Cell><Cell>Pechuna</Cell></Row>
+<Row><Cell>char_624_uiName</Cell><Cell>Old Blaha</Cell><Cell>Vana Blaha</Cell></Row>
+<Row><Cell>char_625_uiName</Cell><Cell>Sir Erhart</Cell><Cell>Söör Erhart</Cell></Row>
+<Row><Cell>char_626_uiName</Cell><Cell>Hired hand</Cell><Cell>Palgatud käsi</Cell></Row>
+<Row><Cell>char_627_uiName</Cell><Cell>Felix's friend</Cell><Cell>Felixi sõber</Cell></Row>
+<Row><Cell>char_628_uiName</Cell><Cell>Felix's friend</Cell><Cell>Felixi sõber</Cell></Row>
+<Row><Cell>char_629_uiName</Cell><Cell>Fearless Felix</Cell><Cell>Hulljulge Felix</Cell></Row>
+<Row><Cell>char_63_uiName</Cell><Cell>Rattay Parish Priest</Cell><Cell>Rottlinna Valla Preester</Cell></Row>
+<Row><Cell>char_631_uiName</Cell><Cell>Kolda o' the Tower</Cell><Cell>Torni Kolda</Cell></Row>
+<Row><Cell>char_632_uiName</Cell><Cell>Benesh of Vlashim</Cell><Cell>Vlashimi Benesh</Cell></Row>
+<Row><Cell>char_633_uiName</Cell><Cell>Jake the Stake</Cell><Cell>Jaak Panustaja</Cell></Row>
+<Row><Cell>char_634_uiName</Cell><Cell>Jira the Kipper</Cell><Cell>Jüri Suitsuheeringas</Cell></Row>
+<Row><Cell>char_636_uiName</Cell><Cell>Guardsman Kolman</Cell><Cell>Kaardiväelane Kolman</Cell></Row>
+<Row><Cell>char_637_uiName</Cell><Cell>Laszlo the Hungarian</Cell><Cell>Ungarlane Laszlo</Cell></Row>
+<Row><Cell>char_638_uiName</Cell><Cell>Menhard of Frankfurt</Cell><Cell>Frankfurdi Menhard</Cell></Row>
+<Row><Cell>char_639_uiName</Cell><Cell>Michal of Janovitz</Cell><Cell>Janovitzi Miikael</Cell></Row>
+<Row><Cell>char_64_uiName</Cell><Cell>Apolena's mother</Cell><Cell>Polina ema</Cell></Row>
+<Row><Cell>char_640_uiName</Cell><Cell>Olbram Sparrowhawk</Cell><Cell>Olbram Suitsupääsuke</Cell></Row>
+<Row><Cell>char_641_uiName</Cell><Cell>Olda Freier</Cell><Cell>Olda Freier</Cell></Row>
+<Row><Cell>char_642_uiName</Cell><Cell>Pavel Roebuck</Cell><Cell>Paavel Roebuck</Cell></Row>
+<Row><Cell>char_643_uiName</Cell><Cell>Bowman Richard</Cell><Cell>Vibumees Richard</Cell></Row>
+<Row><Cell>char_644_uiName</Cell><Cell>Stephen of Dvoretz</Cell><Cell>Palee Stefan</Cell></Row>
+<Row><Cell>char_645_uiName</Cell><Cell>Thadeus of Talmberg</Cell><Cell>Tallmäe Thadeus</Cell></Row>
+<Row><Cell>char_646_uiName</Cell><Cell>Apprentice Zdenyek</Cell><Cell>Õpipoiss Zenyek</Cell></Row>
+<Row><Cell>char_648_uiName</Cell><Cell>Nuckelavee</Cell><Cell>Nukid</Cell></Row>
+<Row><Cell>char_649_uiName</Cell><Cell>Tailor Ambrose</Cell><Cell>Rätsep Ambrose</Cell></Row>
+<Row><Cell>char_65_uiName</Cell><Cell>Jake Piper</Cell><Cell>Paberi Jaak</Cell></Row>
+<Row><Cell>char_651_uiName</Cell><Cell>Old Ruch</Cell><Cell>Vana Ruch</Cell></Row>
+<Row><Cell>char_652_uiName</Cell><Cell>Merchant Ernest</Cell><Cell>Kaupmees Ernest</Cell></Row>
+<Row><Cell>char_66_uiName</Cell><Cell>Marush</Cell><Cell>Maurits</Cell></Row>
+<Row><Cell>char_67_uiName</Cell><Cell>Markvart von Aulitz</Cell><Cell>Aulitzi Mark</Cell></Row>
+<Row><Cell>char_68_uiName</Cell><Cell>Ruch</Cell><Cell>Raim</Cell></Row>
+<Row><Cell>char_689_uiName</Cell><Cell>Hereward</Cell><Cell>Talupoeg</Cell></Row>
+<Row><Cell>char_69_uiName</Cell><Cell>Lumir</Cell><Cell>Laur</Cell></Row>
+<Row><Cell>char_690_uiName</Cell><Cell>Sisyphus</Cell><Cell>Sisfus</Cell></Row>
+<Row><Cell>char_691_uiName</Cell><Cell>Lucifer</Cell><Cell>Lutsifer</Cell></Row>
+<Row><Cell>char_692_uiName</Cell><Cell>Madame B</Cell><Cell>Madaam B</Cell></Row>
+<Row><Cell>char_693_uiName</Cell><Cell>Dogbreath</Cell><Cell>Koerahing</Cell></Row>
+<Row><Cell>char_694_uiName</Cell><Cell>Hoch</Cell><Cell>Hoch</Cell></Row>
+<Row><Cell>char_695_uiName</Cell><Cell>Swindler</Cell><Cell>Pettur</Cell></Row>
+<Row><Cell>char_7_uiName</Cell><Cell>Mirka</Cell><Cell>Mirka</Cell></Row>
+<Row><Cell>char_70_uiName</Cell><Cell>Pavel</Cell><Cell>Paavel</Cell></Row>
+<Row><Cell>char_72_uiName</Cell><Cell>Ginger</Cell><Cell>Punapea</Cell></Row>
+<Row><Cell>char_76_uiName</Cell><Cell>Hans</Cell><Cell>Hans</Cell></Row>
+<Row><Cell>char_77_uiName</Cell><Cell>Blacksmith's Betty</Cell><Cell>Sepa Beti</Cell></Row>
+<Row><Cell>char_78_uiName</Cell><Cell>Charcoal-burner spokesman</Cell><Cell>Söepõletajate eestkõneleja</Cell></Row>
+<Row><Cell>char_8_uiName</Cell><Cell>Morcock</Cell><Cell>Suurmunn</Cell></Row>
+<Row><Cell>char_80_uiName</Cell><Cell>Charcoal-burner spokesman</Cell><Cell>Söepõletajate eestkõneleja</Cell></Row>
+<Row><Cell>char_81_uiName</Cell><Cell>Charcoal-burner spokesman</Cell><Cell>Söepõletajate eestkõneleja</Cell></Row>
+<Row><Cell>char_82_uiName</Cell><Cell>Charcoal-burner</Cell><Cell>Söepõletaja</Cell></Row>
+<Row><Cell>char_83_uiName</Cell><Cell>Charcoal-burner twin</Cell><Cell>Söepõletajast kaksik</Cell></Row>
+<Row><Cell>char_84_uiName</Cell><Cell>Charcoal-burner twin</Cell><Cell>Söepõletajast kaksik</Cell></Row>
+<Row><Cell>char_86_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_87_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_88_uiName</Cell><Cell>Guard</Cell><Cell>Valvur</Cell></Row>
+<Row><Cell>char_9_uiName</Cell><Cell>Runt</Cell><Cell>Tohe</Cell></Row>
+<Row><Cell>char_90_uiName</Cell><Cell>Adam Goathead</Cell><Cell>Aadam Lambapea</Cell></Row>
+<Row><Cell>char_91_uiName</Cell><Cell>Suspicious man-at-arms</Cell><Cell>Kahtlane relvastatud mees</Cell></Row>
+<Row><Cell>char_92_uiName</Cell><Cell>Suspicious man-at-arms</Cell><Cell>Kahtlane relvastatud mees</Cell></Row>
+<Row><Cell>char_93_uiName</Cell><Cell>Charlatan</Cell><Cell>Šarlatan</Cell></Row>
+<Row><Cell>char_94_uiName</Cell><Cell>Bailiff</Cell><Cell>Külavanem</Cell></Row>
+<Row><Cell>char_95_uiName</Cell><Cell>Innkeeper</Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_96_uiName</Cell><Cell>Innkeeper</Cell><Cell>Kõrtsmik</Cell></Row>
+<Row><Cell>char_97_uiName</Cell><Cell>Sasau Tanner</Cell><Cell>Sasau Parkal</Cell></Row>
+<Row><Cell>char_98_uiName</Cell><Cell>Crimp</Cell><Cell>Krimp</Cell></Row>
+<Row><Cell>char_99_uiName</Cell><Cell>Mine worker</Cell><Cell>Kaevanduse tööline</Cell></Row>
+<Row><Cell>ui_bodypart_arm_left</Cell><Cell>Left Arm</Cell><Cell>Vasak Käsi</Cell></Row>
+<Row><Cell>ui_bodypart_arm_right</Cell><Cell>Right Arm</Cell><Cell>Parem Käsi</Cell></Row>
+<Row><Cell>ui_bodypart_head</Cell><Cell>Head</Cell><Cell>Pea</Cell></Row>
+<Row><Cell>ui_bodypart_leg_left</Cell><Cell>Left Leg</Cell><Cell>Vasak Jalg</Cell></Row>
+<Row><Cell>ui_bodypart_leg_right</Cell><Cell>Right Leg</Cell><Cell>Parem Jalg</Cell></Row>
+<Row><Cell>ui_bodypart_torso</Cell><Cell>Torso</Cell><Cell>Keha</Cell></Row>
+<Row><Cell>ui_fac_abductedWoman_bandits</Cell><Cell>Abductors</Cell><Cell>Bandiidid</Cell></Row>
+<Row><Cell>ui_fac_animals</Cell><Cell>Animals</Cell><Cell>Loomad</Cell></Row>
+<Row><Cell>ui_fac_auschitz_villagers</Cell><Cell>Uzhitz villagers</Cell><Cell>Ussotsa külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_bernard_soldiers</Cell><Cell>Bernard's soldiers</Cell><Cell>Bernardi sõdurid</Cell></Row>
+<Row><Cell>ui_fac_civiliansGeneral</Cell><Cell>Generic civilians</Cell><Cell>Üldised elanikud</Cell></Row>
+<Row><Cell>ui_fac_conquest_attackers</Cell><Cell>Conquest (attackers)</Cell><Cell>Vallutus (ründajad)</Cell></Row>
+<Row><Cell>ui_fac_conquest_defenders</Cell><Cell>Conquest (defenders)</Cell><Cell>Vallutus (kaitsjad)</Cell></Row>
+<Row><Cell>ui_fac_counterfeiters</Cell><Cell>Counterfeiter mercenaries</Cell><Cell>Võltsijatest palgasõdurid</Cell></Row>
+<Row><Cell>ui_fac_counterfeiters_workers</Cell><Cell>Counterfeiting workers</Cell><Cell>Võltsijatest töötajad</Cell></Row>
+<Row><Cell>ui_fac_counterfeiters_workshop</Cell><Cell>Counterfeiting workshop mercenaries </Cell><Cell>Võltsijate töökodade palgasõdurid</Cell></Row>
+<Row><Cell>ui_fac_cumanCaptive</Cell><Cell>Cuman captive</Cell><Cell>Tatarlasest vang</Cell></Row>
+<Row><Cell>ui_fac_cumans</Cell><Cell>Cumans</Cell><Cell>Tatarlased</Cell></Row>
+<Row><Cell>ui_fac_erik</Cell><Cell>Erik prisoner</Cell><Cell>Erik vang</Cell></Row>
+<Row><Cell>ui_fac_eventBandits</Cell><Cell>Event bandits</Cell><Cell>Sündmuse röövlid</Cell></Row>
+<Row><Cell>ui_fac_eventCivilians</Cell><Cell>Event civilians</Cell><Cell>Sündmuse kodanikud</Cell></Row>
+<Row><Cell>ui_fac_eventCumans</Cell><Cell>Event Cumans</Cell><Cell>Sündmuse tatarlased</Cell></Row>
+<Row><Cell>ui_fac_eventSoldiers</Cell><Cell>Event soldiers</Cell><Cell>Sündmuse sõdurid</Cell></Row>
+<Row><Cell>ui_fac_executionerKutnaHora</Cell><Cell>Kuttenberg executioner</Cell><Cell>Kleidimäe timukas</Cell></Row>
+<Row><Cell>ui_fac_gingerBandits</Cell><Cell>Neuhof Ginger's bandits</Cell><Cell>Uusaia Punapea röövlid</Cell></Row>
+<Row><Cell>ui_fac_hagenband</Cell><Cell>Hagen's band</Cell><Cell>Hageni bänd</Cell></Row>
+<Row><Cell>ui_fac_krizovatka_villagers</Cell><Cell>Crossroads villagers</Cell><Cell>Risttee külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_kunes_rattay</Cell><Cell>Kunesh</Cell><Cell>Kunts</Cell></Row>
+<Row><Cell>ui_fac_kunoband</Cell><Cell>Kuno's band</Cell><Cell>Kuno bänd</Cell></Row>
+<Row><Cell>ui_fac_ledecko_bandits</Cell><Cell>Ledetchko bandits</Cell><Cell>Ledeško röövlid</Cell></Row>
+<Row><Cell>ui_fac_ledecko_vagabonds</Cell><Cell>Ledetchko itinerants</Cell><Cell>Ledeško rändurid</Cell></Row>
+<Row><Cell>ui_fac_ledecko_villagers</Cell><Cell>Ledetchko villagers</Cell><Cell>Ledeško külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_machs_bandits</Cell><Cell>Morcock's gang</Cell><Cell>Suurmunni jõuk</Cell></Row>
+<Row><Cell>ui_fac_merhojed_soldiers</Cell><Cell>Merhojed soldiers</Cell><Cell>Määrahoovi sõdurid</Cell></Row>
+<Row><Cell>ui_fac_merhojed_villagers</Cell><Cell>Merhojed villagers</Cell><Cell>Määrahoovi külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_millers</Cell><Cell>Millers</Cell><Cell>Möldrid</Cell></Row>
+<Row><Cell>ui_fac_neuhof_bandits</Cell><Cell>Neuhof bandits</Cell><Cell>Uusaia röövlid</Cell></Row>
+<Row><Cell>ui_fac_neuhof_villagers</Cell><Cell>Neuhof villagers</Cell><Cell>Uusaia külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_placeholder_enemy</Cell><Cell>Enemy</Cell><Cell>Vaenlane</Cell></Row>
+<Row><Cell>ui_fac_placeholder_friend</Cell><Cell>Friend</Cell><Cell>Sõber</Cell></Row>
+<Row><Cell>ui_fac_player</Cell><Cell>Player's faction</Cell><Cell>Mängija fraktsioon</Cell></Row>
+<Row><Cell>ui_fac_players_duelists</Cell><Cell>Duelists</Cell><Cell>Duelistid</Cell></Row>
+<Row><Cell>ui_fac_prib_villagers</Cell><Cell>Pribyslavitz villagers</Cell><Cell>Lähislaavitsa külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_pribyslavice_bandits</Cell><Cell>Pribyslavitz bandits</Cell><Cell>Lähislaavitsa röövlid</Cell></Row>
+<Row><Cell>ui_fac_pribyslavice_cumans</Cell><Cell>Pribyslavitz Cumans</Cell><Cell>Lähislaavitsa tatarlased</Cell></Row>
+<Row><Cell>ui_fac_q_awakening_dream</Cell><Cell>Awakening (dream)</Cell><Cell>Ärkamine (unenägu)</Cell></Row>
+<Row><Cell>ui_fac_q_devilplay_devils</Cell><Cell>Devilplay (devils)</Cell><Cell>Kuradimäng (kuradid)</Cell></Row>
+<Row><Cell>ui_fac_q_tournament_cernyPetr</Cell><Cell>Black Peter ambush</Cell><Cell>Musta Peetri varitsus</Cell></Row>
+<Row><Cell>ui_fac_rataje_out_villagers</Cell><Cell>Rattay countryside</Cell><Cell>Rottlinna külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_ratays_citizens</Cell><Cell>Rattay citizens</Cell><Cell>Rottlinna kodanikud</Cell></Row>
+<Row><Cell>ui_fac_ratays_soldiers</Cell><Cell>Rattay soldiers</Cell><Cell>Rottlinna sõdurid</Cell></Row>
+<Row><Cell>ui_fac_ratays_traders</Cell><Cell>Rattay traders</Cell><Cell>Rottlinna kaupmehed</Cell></Row>
+<Row><Cell>ui_fac_rovna_looters</Cell><Cell>Rovna looters</Cell><Cell>Ronga rüüstajad</Cell></Row>
+<Row><Cell>ui_fac_rovny_villagers</Cell><Cell>Rovna villagers</Cell><Cell>Ronga külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_samopesh_bandits</Cell><Cell>Samopesh bandits</Cell><Cell>Samopše bandiidid</Cell></Row>
+<Row><Cell>ui_fac_samopesh_villagers</Cell><Cell>Samopesh villagers</Cell><Cell>Samopše külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_saso_camp</Cell><Cell>Dice-players' camp</Cell><Cell>Täringumängijate laager</Cell></Row>
+<Row><Cell>ui_fac_sazava_bandits</Cell><Cell>Sasau bandits</Cell><Cell>Sasau röövlid</Cell></Row>
+<Row><Cell>ui_fac_sazava_villagers</Cell><Cell>Sasau villagers</Cell><Cell>Sasau külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_sazavaMonastery_monks</Cell><Cell>Sasau Monastery monks</Cell><Cell>Sasau kloostri mungad</Cell></Row>
+<Row><Cell>ui_fac_sazavaMonastery_public</Cell><Cell>Sasau Monastery public</Cell><Cell>Sasau kloostri avalikkus</Cell></Row>
+<Row><Cell>ui_fac_sazMon_spawnGuards</Cell><Cell>Sasau Monastery spawn guards</Cell><Cell>Sasau kloostri sõdurid</Cell></Row>
+<Row><Cell>ui_fac_skalice_refugees_rattay</Cell><Cell>Skalitz refugees - Rattay</Cell><Cell>Skalitsa pagulased - Rottlinn</Cell></Row>
+<Row><Cell>ui_fac_skalice_refugees_sazava</Cell><Cell>Skalitz refugees - Sasau</Cell><Cell>Skalitsa pagulased - Sasau</Cell></Row>
+<Row><Cell>ui_fac_skalice_villagers</Cell><Cell>Skalitz villagers</Cell><Cell>Skalitsa külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_skalitz_mines</Cell><Cell>Skalitz mines</Cell><Cell>Sakllitsa kaevandused</Cell></Row>
+<Row><Cell>ui_fac_talmberk_captives</Cell><Cell>Talmberg captives</Cell><Cell>Tallmäe vangid</Cell></Row>
+<Row><Cell>ui_fac_talmberk_fugitive</Cell><Cell>Talmberg fugitive</Cell><Cell>Tallmäe põgenik</Cell></Row>
+<Row><Cell>ui_fac_talmberk_masons</Cell><Cell>Talmberg quarrymen</Cell><Cell>Tallmäe karjääri töölised</Cell></Row>
+<Row><Cell>ui_fac_talmberk_soldiers</Cell><Cell>Talmberg soldiers</Cell><Cell>Tallmäe sõdurid</Cell></Row>
+<Row><Cell>ui_fac_talmberk_villagers</Cell><Cell>Talmberg villagers</Cell><Cell>Tallmäe külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_talmberkSiegeBandits</Cell><Cell>Toth's bandits</Cell><Cell>Tooti röövlid</Cell></Row>
+<Row><Cell>ui_fac_ulrich</Cell><Cell>Ulrich</Cell><Cell>Ulrich</Cell></Row>
+<Row><Cell>ui_fac_vranik_bandits</Cell><Cell>Vranik bandits</Cell><Cell>Vraniki röövlid</Cell></Row>
+<Row><Cell>ui_fac_vrsiny_villagers</Cell><Cell>Highland villagers</Cell><Cell>Mägismaa külaelanikud</Cell></Row>
+<Row><Cell>ui_fac_wanderers</Cell><Cell>Wanderers</Cell><Cell>Rändurid</Cell></Row>
+<Row><Cell>ui_fac_wolflin_soldiers</Cell><Cell>Wolflin's soldiers</Cell><Cell>Hundipea sõdurid</Cell></Row>
+</Table>

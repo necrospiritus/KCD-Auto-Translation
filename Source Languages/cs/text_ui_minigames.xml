@@ -1,0 +1,133 @@
+<Table>
+<Row><Cell>ui_nh_add_alchemy</Cell><Cell>Alchymistický stůl</Cell><Cell>Alchymistický stůl</Cell></Row>
+<Row><Cell>ui_nh_add_altar</Cell><Cell>Oltář</Cell><Cell>Oltář</Cell></Row>
+<Row><Cell>ui_nh_add_archery_range</Cell><Cell>Lukostřelecké terče</Cell><Cell>Lukostřelecké terče</Cell></Row>
+<Row><Cell>ui_nh_add_armorsmith</Cell><Cell>Zbrojířské nářadí</Cell><Cell>Zbrojířské nářadí</Cell></Row>
+<Row><Cell>ui_nh_add_brewery</Cell><Cell>Pivovar</Cell><Cell>Pivovar</Cell></Row>
+<Row><Cell>ui_nh_add_dryfood</Cell><Cell>Sušírna</Cell><Cell>Sušírna</Cell></Row>
+<Row><Cell>ui_nh_add_gamblers</Cell><Cell>Hra v kostky</Cell><Cell>Hra v kostky</Cell></Row>
+<Row><Cell>ui_nh_add_garden</Cell><Cell>Záhonek s bylinami</Cell><Cell>Záhonek s bylinkami</Cell></Row>
+<Row><Cell>ui_nh_add_painting</Cell><Cell>Fresky</Cell><Cell>Fresky</Cell></Row>
+<Row><Cell>ui_nh_add_saddles</Cell><Cell>Sedlářské vybavení</Cell><Cell>Sedlářské vybavení</Cell></Row>
+<Row><Cell>ui_nh_add_smokehouse</Cell><Cell>Udírna</Cell><Cell>Udírna</Cell></Row>
+<Row><Cell>ui_nh_add_weaponsmith</Cell><Cell>Mečířské nářadí</Cell><Cell>Mečířské nářadí</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_baker</Cell><Cell>Med pro pekaře</Cell><Cell>Med pro pekaře</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_pub</Cell><Cell>Med pro hospodu</Cell><Cell>Med pro hospodu</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_baker_pub</Cell><Cell>Buchty pro hospodu</Cell><Cell>Buchty pro hospodu</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_garrison</Cell><Cell>Zbraně pro posádku</Cell><Cell>Zbraně pro posádku</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_stables</Cell><Cell>Podkovy pro stáje</Cell><Cell>Podkovy pro stáje</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_butcher_pub</Cell><Cell>Maso pro hospodu</Cell><Cell>Maso pro hospodu</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_garrison_pub</Cell><Cell>Zákazníci pro hospodu</Cell><Cell>Zákazníci pro hospodu</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_stables_merchant</Cell><Cell>Koně pro obchodníka</Cell><Cell>Koně pro kupce</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_adam</Cell><Cell>Hospodský Adam</Cell><Cell>Hospodský Adam</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_alchemy</Cell><Cell>Alchymistická kolona</Cell><Cell>Alchymistická kolona</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_altar</Cell><Cell>Oltář</Cell><Cell>Oltář</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_baker</Cell><Cell>Medové koláče</Cell><Cell>Medové koláče</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_pub</Cell><Cell>Medovina</Cell><Cell>Medovina</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_archeryRange</Cell><Cell>Lukostřelecká aréna</Cell><Cell>Lukostřelecká aréna</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_armorsmith</Cell><Cell>Zbrojířské vybavení</Cell><Cell>Zbrojířské vybavení</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_bigBread</Cell><Cell>Nasycená vesnice</Cell><Cell>Nasycená vesnice</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_blackBread</Cell><Cell>Černý chleba</Cell><Cell>Černý chleba</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_pub</Cell><Cell>Prvotřídní buchty</Cell><Cell>Prvotřídní buchty</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_scale</Cell><Cell>Obecní váhy</Cell><Cell>Obecní váhy</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_garrison</Cell><Cell>Zbraně od kováře</Cell><Cell>Zbraně od kováře</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_stables</Cell><Cell>Podkovy od kováře</Cell><Cell>Podkovy od kováře</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_bread_hungry</Cell><Cell>Hladová vesnice</Cell><Cell>Hladová vesnice</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_brewery</Cell><Cell>Pivovar</Cell><Cell>Pivovar</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_butcher_pub</Cell><Cell>Masové hody</Cell><Cell>Masové hody</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal</Cell><Cell>Uhlí</Cell><Cell>Uhlí</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal_ginger</Cell><Cell>Uhlí od Zrzkových kamarádů</Cell><Cell>Uhlí od Zrzkových kamarádů</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_dryfood</Cell><Cell>Sušárna</Cell><Cell>Sušárna</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_anywhere</Cell><Cell>Zapáchající potok</Cell><Cell>Zapáchající potok</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_compromise</Cell><Cell>Vcelku čistý potok</Cell><Cell>Celkem čistý potok</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_far</Cell><Cell>Čistý potok</Cell><Cell>Čistý potok</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_export_wood</Cell><Cell>Prodej dřeva</Cell><Cell>Prodej dřeva</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_fricek</Cell><Cell>Fricek</Cell><Cell>Fricek</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_fricekProductive</Cell><Cell>Fricek nemlátí lidi</Cell><Cell>Fricek nemlátí lidi</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_matusProductive</Cell><Cell>Matuš trochu pracuje</Cell><Cell>Matuš trochu pracuje</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_gamblers</Cell><Cell>Gambleři</Cell><Cell>Hazardní hráči</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garden</Cell><Cell>Záhonek s bylinkami</Cell><Cell>Záhonek s bylinkami</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garrison_pub</Cell><Cell>Žízniví vojáci</Cell><Cell>Žízniví vojáci</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_auschitz</Cell><Cell>Obilí z Úžic</Cell><Cell>Obilí z Úžic</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_confiscate</Cell><Cell>Naštvaní pacholci</Cell><Cell>Naštvaní pacholci</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_samopesh</Cell><Cell>Obilí ze Samopší</Cell><Cell>Obilí ze Samopší</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_sasau</Cell><Cell>Obilí ze Sázavy</Cell><Cell>Obilí ze Sázavy</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krkovicka</Cell><Cell>Řezník Krkovička</Cell><Cell>Řezník Krkovička</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krojchanzl</Cell><Cell>Obchodník Krojchanzl</Cell><Cell>Kupec Krojchanzl</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_kunes</Cell><Cell>Dřevorubec Kuneš</Cell><Cell>Dřevorubec Kuneš</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina</Cell><Cell>Dřevorubec Malina</Cell><Cell>Dřevorubec Malina</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_banish</Cell><Cell>Svobodný Malina</Cell><Cell>Svobodný Malina</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_payoff</Cell><Cell>Vyplacení věna</Cell><Cell>Vyplacení věna</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_marek</Cell><Cell>Podkoní Marek </Cell><Cell>Podkoní Marek </Cell></Row>
+<Row><Cell>ui_nh_eff_rec_matus</Cell><Cell>Matuš</Cell><Cell>Matuš</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_ledecko</Cell><Cell>Dobytek z Ledečka</Cell><Cell>Dobytek z Ledečka</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_rataje</Cell><Cell>Dobytek z Ratají</Cell><Cell>Dobytek z Ratají</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_sazava</Cell><Cell>Dobytek ze Sázavy</Cell><Cell>Dobytek ze Sázavy</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_mirka</Cell><Cell>Šenkýřka Mirka</Cell><Cell>Šenkýřka Mirka</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_ota</Cell><Cell>Zbrojíř Ota</Cell><Cell>Zbrojíř Ota</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_oxen</Cell><Cell>Tažní volci</Cell><Cell>Tažní volci</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_painting</Cell><Cell>Fresky</Cell><Cell>Fresky</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_petr</Cell><Cell>Pekař Šimon</Cell><Cell>Pekař Šimon</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_confiscate</Cell><Cell>Zákaz pytlačení</Cell><Cell>Zákaz pytlačení</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_denounce</Cell><Cell>Tvrdé tresty</Cell><Cell>Tvrdé tresty</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_keep</Cell><Cell>Pytlácká vesnice</Cell><Cell>Pytlácká vesnice</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_banishWife</Cell><Cell>Vyhnání Prachošové</Cell><Cell>Vyhnání Prachošové</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_punishHusband</Cell><Cell>Střízlivý Prachoš</Cell><Cell>Střízlivý Prachoš</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_lumberjacks</Cell><Cell>Strážní z dřevorubců</Cell><Cell>Strážní z dřevorubců</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_none</Cell><Cell>Žádné hlídky</Cell><Cell>Žádné hlídky</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_varlets</Cell><Cell>Pacholci stráží vesnici</Cell><Cell>Pacholci stráží vesnici</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_saddles</Cell><Cell>Vybavení sedláře</Cell><Cell>Vybavení sedláře</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_high</Cell><Cell>Přeplacený lokátor</Cell><Cell>Přeplacený lokátor</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_low</Cell><Cell>Underpaid lokátor</Cell><Cell>Špatně placený lokátor</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_medium</Cell><Cell>Lokátorův plat</Cell><Cell>Lokátorův plat</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_smokehouse</Cell><Cell>Udírna</Cell><Cell>Udírna</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_spejlik</Cell><Cell>Řezník Špejlík</Cell><Cell>Řezník Špejlík</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stables_merchant</Cell><Cell>Tažné koně</Cell><Cell>Tažní koně</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stone_talmberk</Cell><Cell>Kamení z Talmberka</Cell><Cell>Kameny z Talmberka</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_vasek</Cell><Cell>Podkoní Vašek</Cell><Cell>Podkoní Vašek</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_weaponsmith</Cell><Cell>Mečířské vybavení</Cell><Cell>Mečířské vybavení</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_banish</Cell><Cell>Pevná víra</Cell><Cell>Pevná víra</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_protect</Cell><Cell>Vesnická bylinkářka</Cell><Cell>Vesnická bylinkářka</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_wood_banish</Cell><Cell>Vyhnaní dřevorubci</Cell><Cell>Vyhnaní dřevorubci</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zach</Cell><Cell>Zbrojíř Zach</Cell><Cell>Zbrojíř Zach</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zvest</Cell><Cell>Mečíř Zvěst</Cell><Cell>Mečíř Zvěst</Cell></Row>
+<Row><Cell>ui_nh_objective_church</Cell><Cell>Opravený kostel</Cell><Cell>Opravený kostel</Cell></Row>
+<Row><Cell>ui_nh_objective_income</Cell><Cell>Příjem vesnice</Cell><Cell>Příjem vesnice</Cell></Row>
+<Row><Cell>ui_nh_objective_people</Cell><Cell>Kapacita vesnice</Cell><Cell>Kapacita vesnice</Cell></Row>
+<Row><Cell>ui_nh_res_coal</Cell><Cell>Uhlí</Cell><Cell>Uhlí</Cell></Row>
+<Row><Cell>ui_nh_res_grain</Cell><Cell>Obilí</Cell><Cell>Obilí</Cell></Row>
+<Row><Cell>ui_nh_res_meat</Cell><Cell>Dobytek</Cell><Cell>Dobytek</Cell></Row>
+<Row><Cell>ui_nh_res_stone</Cell><Cell>Kámen</Cell><Cell>Kámen</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_apiary1</Cell><Cell>Včelíny jsou nenáročné a i přesto se vyplácí. Lesní med je zdravý, chutný a vylepší spousty různých jídel.</Cell><Cell>Včelíny jsou nenáročné, a i přesto se vyplácí. Lesní med je zdravý, chutný a vylepší spousty různých jídel.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_baker1</Cell><Cell>Pekař dodává různé druhy chleba. Ten je důležitý, ale pekař nepeče jen chleba ale i další druhy pečiva, která zpestří jídelníček.</Cell><Cell>Pekař dodává různé druhy chleba, který je důležitou součástí každodenní stravy. Pekař však nepeče jen chleba ale i další druhy pečiva, které jsou vítaným zpestřením běžného jídelníčku.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_blacksmith1</Cell><Cell>Kovář nesmí chybět v žádném větším sídle. Vyrábí nástroje, hřebíky, ková podkovy pro koně a v těžších časech dokáže vyrobit i jednodušší zbraně z obyčejného nářadí. Může se specializovat buď jako mečíř, nebo jako zbrojíř.</Cell><Cell>Kovář nesmí chybět v žádném větším sídle. Vyrábí nástroje, hřebíky, kove podkovy pro koně a v těžších časech dokáže vyrobit i jednodušší zbraně z obyčejného nářadí. Může se specializovat buď jako mečíř, nebo jako zbrojíř.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_bridge1</Cell><Cell>Kamenný most, který vydrží pod nohama všech obyvatel, povozů se zásobami a dodávkami materiálu a neudělá Přibyslavicím ostudu.</Cell><Cell>Kamenný most, který vydrží pod nohama všech obyvatel a koly povozů se zásobami i dodávkami materiálu a neudělá Přibyslavicím ostudu.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_butcher1</Cell><Cell>Řezník má na starost bourat dobytek a poskytovat vesnici přísun masa. Všechno maso je z domácích zvířat, protože ani on nesmí pytlačit v panských lesích.</Cell><Cell>Řezník má na starost bourání dobytka a zajištění přísunu masa pro vesnici. Všechno maso je z domácích zvířat, protože ani on nesmí pytlačit v panských lesích.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_camp1</Cell><Cell>Tábor s pracovní silou, která zvládne celou škálu úkolů. Z větší části je tvořen skalickými uprchlíky, ale najdou se v něm i tací, kteří se o obnově Přibyslavic doslechli náhudou a chtějí zkusit štěstí.</Cell><Cell>Tábor s pracovní silou, která zvládne širokou škálu úkolů. Z větší části je tvořen skalickými uprchlíky, ale najdou se v něm i tací, kteří se o obnově Přibyslavic doslechli náhodou a chtějí zde zkusit štěstí.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_garrison1</Cell><Cell>Strážnice zajišťují v mírových dobách příslib pořádku a a vykonavatelů práva. V dobách zlých slouží jako místní zbrojnice a ubytovna vojenské posádky. Její součástí je i kolbiště, kde lze pravidelně cvičit.</Cell><Cell>V mírových dobách strážnice zajišťují pořádek a vykonávání práva. V dobách zlých slouží jako místní zbrojnice a ubytovna vojenské posádky.  Její součástí je i kolbiště, kde lze pravidelně cvičit.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church1</Cell><Cell>Nezbytná oprava kostela obnoví všechny jeho dřevěné části. Jde zejména o střechu. Tím se zamezí dalšímu chátrání kostela.</Cell><Cell>Nezbytná oprava kostela obnoví všechny jeho dřevěné části, především střechu. Tím se zamezí jeho dalšímu chátrání.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church2</Cell><Cell>Krásný, opravený kostel, který je chloubou celého okolí. </Cell><Cell>Krásný opravený kostel, který je chloubou celého okolí. </Cell></Row>
+<Row><Cell>ui_nh_structure_desc_lumberjacks1</Cell><Cell>Dřevorubci zpracovávají stromy v okolí a zaručí trvalý přísun dřeva na stavbu jakýchkoliv budov, opravy i základní opevnění.</Cell><Cell>Dřevorubci zpracovávají stromy v okolí a zaručí trvalý přísun dřeva na stavbu jakýchkoli budov, opravy i základní opevnění.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_merchant1</Cell><Cell>Obchod je důležitý vždy. Díky němu můžeš dovážet, co chybí a také prodávat své výrobky. Je nezbytnou součástí větších i menších měst.</Cell><Cell>Obchod je důležitý vždy a všude. Díky němu můžeš dovážet, co chybí, ale také prodávat své výrobky. Je nezbytnou součástí větších i menších měst.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_pub1</Cell><Cell>V hospodě je vždycky rušno. Není nad to posedět s přáteli a nad korbelem dobrého pivo si oddechnout po náročném dni.</Cell><Cell>V hospodě je vždycky rušno. Není nad to, posedět s přáteli a nad korbelem dobrého pivo si oddechnout po náročném dni.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_stables1</Cell><Cell>Mít stáje patří k výsadám, které si může dovolit jen málokdo a podkoní je spravovují pouze pro své lenní pány a mají vleko odpovědnost za koně. I díky tomu si správci stájí zaslouží uznání.</Cell><Cell>Mít stáje patří k výsadám, které si může dovolit jen málokdo. Podkoní je spravují pouze pro své lenní pány a nesou velkou zodpovědnost za koně. I díky tomu si správci stájí zaslouží uznání.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall1</Cell><Cell>Stan pro začátek zastane práci opravdového domu. Alespoň máš přístřešek, kde složíš hlavu, než postavíte něco lepšího.</Cell><Cell>Stan pro začátek zastane práci opravdového domu. Alespoň máš přístřešek, kde složíš hlavu, než postavíte něco lepšího.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall2</Cell><Cell>Rychta nesmí chybět v žádné větší vesnici, je sídlem práva a pořádku, které je ztělesněno rychtářem.</Cell><Cell>Rychta nesmí chybět v žádné větší vesnici. Je sídlem práva a pořádku, které ztělesňuje úřad a osoba rychtáře.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall3</Cell><Cell>Rozšířená rychta je mnohem větší než rychta původní a nabízí možnosti dalšího vylepšení pro pohodlný rychtářův život.</Cell><Cell>Rozšířená rychta je mnohem větší než rychta původní a lze ji různě dále vylepšovat, aby se rychtáři žilo a úřadovalo pohodlněji.</Cell></Row>
+<Row><Cell>ui_nh_structure_name_apiary1</Cell><Cell>Včelíny</Cell><Cell>Včelíny</Cell></Row>
+<Row><Cell>ui_nh_structure_name_baker1</Cell><Cell>Pekárna</Cell><Cell>Pekárna</Cell></Row>
+<Row><Cell>ui_nh_structure_name_blacksmith1</Cell><Cell>Kovárna</Cell><Cell>Kovárna</Cell></Row>
+<Row><Cell>ui_nh_structure_name_bridge1</Cell><Cell>Most a cesta</Cell><Cell>Most a cesta</Cell></Row>
+<Row><Cell>ui_nh_structure_name_butcher1</Cell><Cell>Řeznictví</Cell><Cell>Řeznictví</Cell></Row>
+<Row><Cell>ui_nh_structure_name_camp1</Cell><Cell>Tábor pacholků</Cell><Cell>Tábor pacholků</Cell></Row>
+<Row><Cell>ui_nh_structure_name_garrison1</Cell><Cell>Strážnice</Cell><Cell>Strážnice</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church1</Cell><Cell>Opravy kostela</Cell><Cell>Opravy kostela</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church2</Cell><Cell>Kostel</Cell><Cell>Kostel</Cell></Row>
+<Row><Cell>ui_nh_structure_name_lumberjacks1</Cell><Cell>Tábor dřevorubců</Cell><Cell>Tábor dřevorubců</Cell></Row>
+<Row><Cell>ui_nh_structure_name_merchant1</Cell><Cell>Obchodnický dům</Cell><Cell>Kupecký dům</Cell></Row>
+<Row><Cell>ui_nh_structure_name_pub1</Cell><Cell>Hospoda</Cell><Cell>Hospoda</Cell></Row>
+<Row><Cell>ui_nh_structure_name_stables1</Cell><Cell>Stáje</Cell><Cell>Stáje</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall1</Cell><Cell>Rychta ve stanu</Cell><Cell>Rychta ve stanu</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall2</Cell><Cell>Rychta</Cell><Cell>Rychta</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall3</Cell><Cell>Rozšířená rychta</Cell><Cell>Rozšířená rychta</Cell></Row>
+</Table>

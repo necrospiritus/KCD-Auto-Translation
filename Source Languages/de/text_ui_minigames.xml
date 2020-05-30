@@ -1,0 +1,133 @@
+<Table>
+<Row><Cell>ui_nh_add_alchemy</Cell><Cell>Alchemy Bench</Cell><Cell>Alchemietisch</Cell></Row>
+<Row><Cell>ui_nh_add_altar</Cell><Cell>Altar</Cell><Cell>Altar</Cell></Row>
+<Row><Cell>ui_nh_add_archery_range</Cell><Cell>Archery Range</Cell><Cell>Schießstand</Cell></Row>
+<Row><Cell>ui_nh_add_armorsmith</Cell><Cell>Armoursmith's Tools</Cell><Cell>Rüstzeug für Rüstschmied</Cell></Row>
+<Row><Cell>ui_nh_add_brewery</Cell><Cell>Brewery</Cell><Cell>Brauerei</Cell></Row>
+<Row><Cell>ui_nh_add_dryfood</Cell><Cell>Drying Shed</Cell><Cell>Trockenschuppen</Cell></Row>
+<Row><Cell>ui_nh_add_gamblers</Cell><Cell>Dice Games</Cell><Cell>Würfelspiele</Cell></Row>
+<Row><Cell>ui_nh_add_garden</Cell><Cell>Herb Garden</Cell><Cell>Kräutergarten</Cell></Row>
+<Row><Cell>ui_nh_add_painting</Cell><Cell>Frescoes</Cell><Cell>Fresken</Cell></Row>
+<Row><Cell>ui_nh_add_saddles</Cell><Cell>Saddler's Equipment</Cell><Cell>Ausrüstung für Sattler</Cell></Row>
+<Row><Cell>ui_nh_add_smokehouse</Cell><Cell>Smoke House</Cell><Cell>Räucherkammer</Cell></Row>
+<Row><Cell>ui_nh_add_weaponsmith</Cell><Cell>Swordsmith's Tools</Cell><Cell>Rüstzeug für Waffenschmied</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_baker</Cell><Cell>Honey for baker</Cell><Cell>Honig für den Bäcker</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_apiary_pub</Cell><Cell>Honey for tavern</Cell><Cell>Honig für die Schenke</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_baker_pub</Cell><Cell>Cakes for tavern</Cell><Cell>Backwaren für die Schenke</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_garrison</Cell><Cell>Weapons for garrison</Cell><Cell>Waffen für die Garnison</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_blacksmith_stables</Cell><Cell>Horseshoes for stables</Cell><Cell>Hufeisen für die Stallungen</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_butcher_pub</Cell><Cell>Meat for tavern</Cell><Cell>Fleisch für die Schenke</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_garrison_pub</Cell><Cell>Tavern customers</Cell><Cell>Gäste der Schenke</Cell></Row>
+<Row><Cell>ui_nh_eff_pro_stables_merchant</Cell><Cell>Horses for merchant</Cell><Cell>Pferde für den Händler</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_adam</Cell><Cell>Innkeeper Adam</Cell><Cell>Schankwirt Adam</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_alchemy</Cell><Cell>Alchemists' bench</Cell><Cell>Alchemietisch</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_altar</Cell><Cell>Altar</Cell><Cell>Altar</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_baker</Cell><Cell>Honey cakes</Cell><Cell>Honigkuchen</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_apiary_pub</Cell><Cell>Mead</Cell><Cell>Honigwein</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_archeryRange</Cell><Cell>Archery range</Cell><Cell>Schießstand</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_armorsmith</Cell><Cell>Armoursmith's equipment</Cell><Cell>Rüstzeug für Rüstschmied</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_bigBread</Cell><Cell>Full stomachs</Cell><Cell>Volle Mägen</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_blackBread</Cell><Cell>Black bread</Cell><Cell>Schwarzbrot</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_pub</Cell><Cell>Excellent cakes</Cell><Cell>Köstliche Backwaren</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_baker_scale</Cell><Cell>Municipal scales</Cell><Cell>Waage aus der Stadt</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_garrison</Cell><Cell>Weapons from forge</Cell><Cell>Waffen aus der Schmiede</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_blacksmith_stables</Cell><Cell>Horseshoes from forge</Cell><Cell>Hufeisen aus der Schmiede</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_bread_hungry</Cell><Cell>Hungry village</Cell><Cell>Hungriges Dorf</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_brewery</Cell><Cell>Brewery</Cell><Cell>Brauerei</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_butcher_pub</Cell><Cell>Meat banquet</Cell><Cell>Fleischbankett</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal</Cell><Cell>Charcoal </Cell><Cell>Kohle</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_coal_ginger</Cell><Cell>Charcoal from Ginger's friends</Cell><Cell>Kohle von Rotschopfs Freunden</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_dryfood</Cell><Cell>Drying shed</Cell><Cell>Trockenschuppen</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_anywhere</Cell><Cell>Stinking stream</Cell><Cell>Stinkender Bach</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_compromise</Cell><Cell>Fairly clean stream</Cell><Cell>Recht sauberer Bach</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_excrement_far</Cell><Cell>Clean stream</Cell><Cell>Sauberer Bach</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_export_wood</Cell><Cell>Selling wood </Cell><Cell>Holzverkauf</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_fricek</Cell><Cell>Fritz</Cell><Cell>Fritz</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_fricekProductive</Cell><Cell>Fritz is peaceful</Cell><Cell>Fritz ist friedfertig</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_friends_matusProductive</Cell><Cell>Matthew works a bit</Cell><Cell>Matthäus arbeitet ein wenig</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_gamblers</Cell><Cell>Dice games</Cell><Cell>Würfelspiele</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garden</Cell><Cell>Herb garden</Cell><Cell>Kräutergarten</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_garrison_pub</Cell><Cell>Thirsty soldiers</Cell><Cell>Durstige Waffenknechte</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_auschitz</Cell><Cell>Grain from Uzhitz</Cell><Cell>Getreide aus Uschitze</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_confiscate</Cell><Cell>Disgruntled labourers</Cell><Cell>Unzufriedene Arbeiter</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_samopesh</Cell><Cell>Grain from Samopesh</Cell><Cell>Getreide aus Samopesch</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_grain_sasau</Cell><Cell>Grain from Sasau</Cell><Cell>Getreide aus Sasau</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krkovicka</Cell><Cell>Butcher Kochwurst</Cell><Cell>Fleischer Kochwurst</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_krojchanzl</Cell><Cell>Merchant Kornelius</Cell><Cell>Händler Kornelius</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_kunes</Cell><Cell>Woodcutter Kunesh</Cell><Cell>Holzfäller Kunesch</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina</Cell><Cell>Woodcutter Raspberry</Cell><Cell>Holzfäller Himbeer</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_banish</Cell><Cell>Raspberry is free</Cell><Cell>Himbeer ist frei</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_malina_payoff</Cell><Cell>Dowry paid</Cell><Cell>Ehegeld bezahlt</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_marek</Cell><Cell>Groom Mark</Cell><Cell>Stallbursche Mark</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_matus</Cell><Cell>Matthew</Cell><Cell>Matthäus</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_ledecko</Cell><Cell>Livestock from Ledetchko</Cell><Cell>Vieh aus Ledetschko</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_rataje</Cell><Cell>Livestock from Rattay</Cell><Cell>Vieh aus Rattay</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_meat_sazava</Cell><Cell>Livestock from Sasau</Cell><Cell>Vieh aus Sasau</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_mirka</Cell><Cell>Tavern maid Mirka</Cell><Cell>Schankmaid Mirka</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_ota</Cell><Cell>Armoursmith Ota</Cell><Cell>Rüstschmied Otto</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_oxen</Cell><Cell>Beasts of burden</Cell><Cell>Zugochsen</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_painting</Cell><Cell>Frescoes</Cell><Cell>Fresken</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_petr</Cell><Cell>Baker Silvester</Cell><Cell>Bäcker Silvester</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_confiscate</Cell><Cell>Poaching ban</Cell><Cell>Wildereiverbot</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_denounce</Cell><Cell>Tough punishments</Cell><Cell>Harte Strafen</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_poachers_keep</Cell><Cell>Poachers' paradise</Cell><Cell>Wildererparadies</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_banishWife</Cell><Cell>Harridan banished</Cell><Cell>Gargama verbannt</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_prachos_punishHusband</Cell><Cell>Malis must be sober</Cell><Cell>Alfred darf nicht mehr trinken</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_lumberjacks</Cell><Cell>Woodcutter soldiers</Cell><Cell>Waffenknechte (Holzfäller)</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_none</Cell><Cell>No sentries</Cell><Cell>Keine Waffenknechte</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_reinf_varlets</Cell><Cell>Labourer soldiers</Cell><Cell>Waffenknechte (Arbeiter)</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_saddles</Cell><Cell>Saddler's equipment</Cell><Cell>Ausrüstung für Sattler</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_high</Cell><Cell>Overpaid Locator</Cell><Cell>Überbezahlter Lokator</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_low</Cell><Cell>Underpaid Locator</Cell><Cell>Unterbezahlter Lokator</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_salary_medium</Cell><Cell>Locator's wages</Cell><Cell>Angemessen bezahlter Lokator</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_smokehouse</Cell><Cell>Smoke house</Cell><Cell>Räucherkammer</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_spejlik</Cell><Cell>Butcher Brisket</Cell><Cell>Fleischer Brisket</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stables_merchant</Cell><Cell>Cart horses</Cell><Cell>Karrenpferde</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_stone_talmberk</Cell><Cell>Stone from Talmberg</Cell><Cell>Stein aus Talmberg</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_vasek</Cell><Cell>Groom Vashek</Cell><Cell>Stallbursche Willibald</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_weaponsmith</Cell><Cell>Swordsmith's equipment</Cell><Cell>Rüstzeug für Waffenschmied</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_banish</Cell><Cell>Firm faith</Cell><Cell>Fester Glaube</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_witch_protect</Cell><Cell>Village herbalist</Cell><Cell>Dorfkräuterweib</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_wood_banish</Cell><Cell>Woodcutters banished</Cell><Cell>Holzfäller verbannt</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zach</Cell><Cell>Armoursmith Zach</Cell><Cell>Rüstschmied Zach</Cell></Row>
+<Row><Cell>ui_nh_eff_rec_zvest</Cell><Cell>Swordsmith Fink</Cell><Cell>Waffenschmied Fink</Cell></Row>
+<Row><Cell>ui_nh_objective_church</Cell><Cell>Church repairs</Cell><Cell>Kirchenreparaturarbeiten</Cell></Row>
+<Row><Cell>ui_nh_objective_income</Cell><Cell>Village income</Cell><Cell>Dorfeinkünfte</Cell></Row>
+<Row><Cell>ui_nh_objective_people</Cell><Cell>Village capacity</Cell><Cell>Dorfkapazität</Cell></Row>
+<Row><Cell>ui_nh_res_coal</Cell><Cell>Charcoal</Cell><Cell>Kohle</Cell></Row>
+<Row><Cell>ui_nh_res_grain</Cell><Cell>Grain</Cell><Cell>Getreide</Cell></Row>
+<Row><Cell>ui_nh_res_meat</Cell><Cell>Livestock</Cell><Cell>Vieh</Cell></Row>
+<Row><Cell>ui_nh_res_stone</Cell><Cell>Stone</Cell><Cell>Stein</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_apiary1</Cell><Cell>Beehives demand little labour, but are well worth having. Forest honey is healthy, tasty and can be used to improve many dishes.</Cell><Cell>Bienenstöcke machen nicht viel Arbeit und sind auch aus anderen Gründen eine lohnenswerte Anschaffung: Waldhonig ist gesund, schmeckt gut und kann zur Verfeinerung vieler Gerichte verwendet werden.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_baker1</Cell><Cell>Bread is the main staple of the common folk, but the baker also bakes other goods that add variety to the everyday diet.</Cell><Cell>Wenngleich Brot das Grundnahrungsmittel des gemeinen Volkes ist, so bereitet der Bäcker auch andere Speisen zu, um etwas Abwechslung auf den Tisch der Dorfbewohner zu bringen.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_blacksmith1</Cell><Cell>A decent settlement must have a blacksmith who will fashion tools, nails, horseshoes and, in times of need, requisites for men-at-arms. With the necessary equipment, he can double either as a swordsmith or an armoursmith.                                    </Cell><Cell>Jede Siedlung, die etwas auf sich hält, braucht eine Schmiede. Dort werden Werkzeuge, Nägel, Hufeisen und in unruhigen Zeiten sogar Waffen und Rüstungen geschmiedet. Mit der nötigen Ausrüstung kann der Schmied als Waffen- oder Rüstschmied arbeiten.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_bridge1</Cell><Cell>A stone bridge that will stand up to the comings and goings of all the locals and wagons carrying goods in and out, and one that will not disgrace the village.</Cell><Cell>Eine Steinbrücke kann die Einheimischen und mit Waren beladenen Karren tragen, die ins Dorf kommen oder es verlassen. Zudem macht eine Steinbrücke dem Dorf ganz gewiss keine Schande.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_butcher1</Cell><Cell>It is the task of the butcher to slaughter livestock and provide the village with meat, naturally only from domesticated animals, since poaching in the nobles' forests is a serious crime.</Cell><Cell>Es ist die Aufgabe des Fleischers, Vieh zu schlachten und das Dorf mit Fleisch zu versorgen. Dazu zählt jedoch nur das Fleisch von domestizierten Tieren, da Wilderei in den Wäldern der Adeligen ein schweres Verbrechen ist.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_camp1</Cell><Cell>A camp for labourers engaged in all sorts of tasks. Many of them are refugees from Skalitz, but there are also some who heard of Pribyslavitz by chance and came to seek their fortune.</Cell><Cell>Ein Lager für die verschiedensten Arbeiter. Viele von ihnen sind Flüchtlinge aus Skalitz, andere wiederum haben zufällig von Pribyslawitz erfahren und sind gekommen, um hier ihr Glück zu versuchen.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_garrison1</Cell><Cell>In times of peace, the guardhouse is home to the forces of law and order. In times of war, it serves as the town armoury and military barracks. Naturally, it also has a combat arena where the men can train.</Cell><Cell>In Friedenszeiten beherbergt das Wachhaus die Gesetzeshüter, in Kriegszeiten dient es als Rüstkammer und Kaserne für die hiesigen Waffenknechte. Natürlich darf auch ein Kampfplatz nicht fehlen, wo die Männer üben können.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church1</Cell><Cell>Essential repairs to the church should begin with fixing the roof to protect the building from the rain and prevent further decay.</Cell><Cell>Die wichtigen Reparaturarbeiten an der Kirche sollten mit der Instandsetzung des Daches beginnen, damit das Innere der Kirche vor Regen und weiterem Verfall geschützt ist.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_church2</Cell><Cell>The beautiful repaired church is the pride of the whole settlement.</Cell><Cell>Eine renovierte Kirche, die in neuem Glanze erstrahlt, ist der Stolz der ganzen Siedlung.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_lumberjacks1</Cell><Cell>Woodcutters fell and process the trees in the surrounding woods, ensuring a permanent supply of timber for construction of new buildings, repairs and basic fortifications.</Cell><Cell>Holzfäller fällen Bäume in den umliegenden Wäldern und verarbeiten das Holz weiter, das dann als Bauholz für den Gebäudebau, Reparaturarbeiten und einfache Befestigungen verwendet wird.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_merchant1</Cell><Cell>Trade is always an essential element of life in towns as well as villages, allowing you to bring in the goods that are lacking, as well as selling the products your tradesmen create. </Cell><Cell>Der Handel spielt im städtischen und dörfischen Leben eine tragende Rolle, da die Bewohner einerseits Zugang zu Waren bekommen, die sie nicht selbst herstellen, andererseits aber auch ihre eigenen Produkte verkaufen können.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_pub1</Cell><Cell>The tavern is always busy. After all, what could be better after a hard day's work than to take a breather with friends over a tankard of good ale?</Cell><Cell>In der Schenke herrscht stets reges Treiben. Kein Wunder, denn was gibt es Besseres, als sich abends nach getaner Arbeit mit seinen Freunden bei einem Humpen Bier zu entspannen?</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_stables1</Cell><Cell>Owning stables is a privilege enjoyed by very few. The head grooms manage them for their liege lords and have a great responsibility in handling their valuable mounts, for which they deserve recognition.</Cell><Cell>Einen Stall zu besitzen, ist ein Privileg, das nicht viele Menschen besitzen. Der Stallmeister kümmert sich um die wertvollen Pferde seines Lehnsherrn und trägt dabei eine hohe Verantwortung, wofür er Anerkennung verdient.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall1</Cell><Cell>The tent will serve at the start instead of a real Rathaus. At least you'll have a place to lay your head before you get a proper Bailiff's residence built.</Cell><Cell>Zunächst muss ein Zelt als Rathaus genügen. Zumindest hast du einen Ort zum Schlafen, bis ein Gebäude errichtet wurde, das als Unterkunft für den Vogt angemessen ist.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall2</Cell><Cell>Every sizeable village should have a Rathaus, the seat of law and order embodied by the Bailiff.</Cell><Cell>Ab einer gewissen Größe sollte ein Dorf über ein Rathaus verfügen, von wo aus der Vogt für Recht und Ordnung sorgt.</Cell></Row>
+<Row><Cell>ui_nh_structure_desc_townHall3</Cell><Cell>The extended Rathaus is much bigger than the original one, affording possibilities of further improvement into a comfortable Bailiff's residence.</Cell><Cell>Im ausgebauten Rathaus ist deutlich mehr Platz, wodurch sich Möglichkeiten bieten, das Gebäude in eine stattliche Residenz für den Vogt zu verwandeln.</Cell></Row>
+<Row><Cell>ui_nh_structure_name_apiary1</Cell><Cell>Beehives</Cell><Cell>Bienenstöcke</Cell></Row>
+<Row><Cell>ui_nh_structure_name_baker1</Cell><Cell>Bakery</Cell><Cell>Bäckerei</Cell></Row>
+<Row><Cell>ui_nh_structure_name_blacksmith1</Cell><Cell>Forge</Cell><Cell>Schmiede</Cell></Row>
+<Row><Cell>ui_nh_structure_name_bridge1</Cell><Cell>Bridge and Road</Cell><Cell>Brücke und Straße</Cell></Row>
+<Row><Cell>ui_nh_structure_name_butcher1</Cell><Cell>Butcher's</Cell><Cell>Fleischerei</Cell></Row>
+<Row><Cell>ui_nh_structure_name_camp1</Cell><Cell>Labourers' Camp</Cell><Cell>Arbeiterunterkünfte</Cell></Row>
+<Row><Cell>ui_nh_structure_name_garrison1</Cell><Cell>Guardhouse</Cell><Cell>Wachhaus</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church1</Cell><Cell>Church Basic Repairs</Cell><Cell>Kirchenreparatur</Cell></Row>
+<Row><Cell>ui_nh_structure_name_church2</Cell><Cell>Church</Cell><Cell>Kirche</Cell></Row>
+<Row><Cell>ui_nh_structure_name_lumberjacks1</Cell><Cell>Woodcutters' Camp</Cell><Cell>Holzfällerlager</Cell></Row>
+<Row><Cell>ui_nh_structure_name_merchant1</Cell><Cell>Trader's </Cell><Cell>Geschäft</Cell></Row>
+<Row><Cell>ui_nh_structure_name_pub1</Cell><Cell>Tavern</Cell><Cell>Schenke</Cell></Row>
+<Row><Cell>ui_nh_structure_name_stables1</Cell><Cell>Stables</Cell><Cell>Stallungen</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall1</Cell><Cell>Temporary Rathaus</Cell><Cell>Provisorisches Rathaus</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall2</Cell><Cell>Rathaus</Cell><Cell>Rathaus</Cell></Row>
+<Row><Cell>ui_nh_structure_name_townHall3</Cell><Cell>Extended Rathaus</Cell><Cell>Ausgebautes Rathaus</Cell></Row>
+</Table>
