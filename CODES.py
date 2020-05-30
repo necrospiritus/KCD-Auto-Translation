@@ -13,7 +13,6 @@ available_languages = ["cs", "en", "et", "fr", "de", "it", "pl", "ru", "es", "tr
 
 translator = Translator()
 
-
 class file_method():
     def __init__(self):
         self.scan = 0
