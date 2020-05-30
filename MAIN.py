@@ -130,6 +130,5 @@ tr-Turkish  uk-Ukrainian
         object1.translate_them_all(source_language, destination_language)
         object1.to_database()
         object1.create_new_file(destination_language, file_list[int(selected_file)])
-
     else:
         print("Invalid Operation...")
