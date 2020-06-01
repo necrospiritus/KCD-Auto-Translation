@@ -28,13 +28,13 @@ es-**Spanish**
 tr-**Turkish**
 uk-**Ukrainian**
 
-## Logic of Program
+## Algorithm of the Program
 
 Program runs in six steps.
 
 **STEP 1**: Checks File Compatibility
 
-	Basicly counts begining and ending of elements and compares with each other. XML structure: 
+Basicly counts begining and ending of elements and compares with each other. XML structure: 
 	
 	<Table>
 		<Row>
@@ -46,62 +46,17 @@ Program runs in six steps.
 
 **STEP 2**: Parsing XMl file and transferring texts in 'Cell' element to Database.
 	Database structure:
-	<table>
-		<thead>
-		<tr>
-			<th>row</th>
-			<th>cell</th>
-			<th>text</th>
-		</tr>
-		</thead>
-		<tbody>
-		<tr>
-			<td>&nbsp;1</td>
-			<td>ID</td>
-			<td>text id</td>
-		</tr>
-		<tr>
-			<td>&nbsp;1</td>
-			<td>ORIGINAL</td>
-			<td>original english text</td>
-		</tr>
-		<tr>
-			<td>&nbsp;1</td>
-			<td>TRANSLATE</td>
-			<td>original&nbsp;transleted text</td>
-		</tr>
-		<tr>
-			<td>&nbsp;1</td>
-			<td>NEW TRANSLATION</td>
-			<td>auto-transleted text</td>
-		</tr>
-		<tr>
-			<td>&nbsp;2</td>
-			<td>ID</td>
-			<td>&nbsp;ui_nh_res_stone</td>
-		</tr>
-		<tr>
-			<td>&nbsp;2</td>
-			<td>ORIGINAL</td>
-			<td>&nbsp;Stone</td>
-		</tr>
-		<tr>
-			<td>&nbsp;2</td>
-			<td>TRANSLATE</td>
-			<td>&nbsp;Stone</td>
-		</tr>
-		<tr>
-			<td>&nbsp;2</td>
-			<td>NEW TRANSLATION</td>
-			<td>&nbsp;Taş</td>
-		</tr>
-		<tr>
-			<td>&nbsp;...</td>
-			<td>&nbsp;...</td>
-			<td>&nbsp;...</td>
-		</tr>
-		<tbody>
-	</table>
+	|row|cell|text|
+|--- |--- |--- |
+|1|ID|text id|
+|1|ORIGINAL|original english text|
+|1|TRANSLATE|original transleted text|
+|1|NEW TRANSLATION|auto-transleted text|
+|2|ID|ui_nh_res_stone|
+|2|ORIGINAL|Stone|
+|2|TRANSLATE|Stone|
+|2|NEW TRANSLATION|Taş|
+|...|...|...|
 
 **STEP 3**: Preparing For Translate
 
@@ -126,11 +81,11 @@ googletrans>=2.4.0
 
 ## Authors
 
-* **Burak Karabey** - *Initial work* - [necrospiritus](https://github.com/necrospiritus)
+* **Burak Karabey** - [necrospiritus](https://github.com/necrospiritus)
 
 ## License
 
-This project is licensed under the GPL-2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
