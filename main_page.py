@@ -1,11 +1,13 @@
 import googletrans
-from CODES import *
+from file_functions import *
+
 main_path = pathlib.Path().absolute()
 available_languages = ["cs", "en", "et", "fr", "de", "it", "pl", "ru", "es", "tr", "uk"]
 
 print("""***********************************
 
 Kingdom Come Deliverance
+Game Version: 1.9.4
 
 Auto-Translation
 
@@ -19,6 +21,7 @@ What is your purpose?
 1-I want to auto-translate missing translation in available languages.
 2-I want to auto-translate to new language.
 """)
+
 while True:
     key = input("What is your answer?: ")
 
@@ -40,7 +43,7 @@ tr-Turkish  uk-Ukrainian
             pass
         else:
             print("Error: Selected Language is not available!")
-            print("Programme closing.....")
+            print("Program closing.....")
             break
         file_list = []
         for path, subdirs, files in os.walk(str(main_path) + r"\Source Languages\\" + destination_language):
@@ -50,17 +53,21 @@ tr-Turkish  uk-Ukrainian
             print(counter_key, " - ", i)
             counter_key += 1
         selected_file = input("Please enter the number of file which you want auto-translate: ")
-        selected_file_path = str(main_path) + r"\Source Languages\\" + destination_language + r"\\" + file_list[int(selected_file)]
+        selected_file_path = str(main_path) + r"\Source Languages\\" + destination_language + r"\\" + file_list[
+            int(selected_file)]
         sys.stdout.write("\n")
         print("Selected file is", file_list[int(selected_file)])
         print("Translation will be from ", destination_language, " to ", destination_language)
-        file_method.file_compatibility_check(selected_file_path)
-        file_method.file_reorganization(selected_file_path, file_list[int(selected_file)])
-        object1 = file_method()
-        object1.prepare_for_translate()
-        object1.translate_them_all(source_language, destination_language)
-        object1.to_database()
-        object1.create_new_file(destination_language, file_list[int(selected_file)])
+        selected_file_name = file_list[int(selected_file)]
+
+        file1 = file_method(source_language, destination_language, selected_file_name, selected_file_path)
+
+        file1.file_compatibility_check()
+        file1.file_reorganization()
+        file1.prepare_for_translate()
+        file1.translate_them_all()
+        file1.to_database()
+        file1.create_new_file()
 
     elif key == "2":
         google_language_list = googletrans.LANGUAGES
@@ -77,9 +84,8 @@ tr-Turkish  uk-Ukrainian
             pass
         else:
             print("Error: Selected Language is not available!")
-            print("Programme closing.....")
+            print("Program closing.....")
             break
-        os.system('cls' if os.name == 'nt' else 'clear')
         answer = input("en-English will be used as source language as default. Do you want to change it? (Y/N): ")
         if answer == "N" or answer == "n":
             source_language = "en"
@@ -97,14 +103,15 @@ tr-Turkish  uk-Ukrainian
                 pass
             else:
                 print("Error: Selected Language is not available!")
-                print("Programme closing.....")
+                print("Program closing.....")
                 break
         else:
             print("Invalid Answer...")
-            print("Programme closing.....")
+            print("Program closing.....")
             break
         if destination_language == source_language:
-            print("Destination Language: " + destination_language + "\n" + "Source Language: " + source_language + "\n" + "They can not be same!!! Program closing...")
+            print(
+                "Destination Language: " + destination_language + "\n" + "Source Language: " + source_language + "\n" + "They can not be same!!! Program closing...")
             break
         else:
             pass
@@ -120,14 +127,18 @@ tr-Turkish  uk-Ukrainian
         sys.stdout.write("\n")
         print("Selected file is", file_list[int(selected_file)])
         print("Translation will be from ", source_language, " to ", destination_language)
-        selected_file_path = str(main_path) + r"\Source Languages\\" + source_language + r"\\" + file_list[int(selected_file)]
-        file_method.file_compatibility_check(selected_file_path)
-        file_method.file_reorganization(selected_file_path, file_list[int(selected_file)])
-        object1 = file_method()
-        object1.prepare_for_translate()
-        object1.translate_them_all(source_language, destination_language)
-        object1.to_database()
-        object1.create_new_file(destination_language, file_list[int(selected_file)])
+        selected_file_path = str(main_path) + r"\Source Languages\\" + source_language + r"\\" + file_list[
+            int(selected_file)]
+        selected_file_name = file_list[int(selected_file)]
+
+        file1 = file_method(source_language, destination_language, selected_file_name, selected_file_path)
+
+        file1.file_compatibility_check()
+        file1.file_reorganization()
+        file1.prepare_for_translate()
+        file1.translate_them_all()
+        file1.to_database()
+        file1.create_new_file()
 
     else:
         print("Invalid Operation...")

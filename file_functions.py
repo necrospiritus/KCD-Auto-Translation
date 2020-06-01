@@ -13,14 +13,25 @@ available_languages = ["cs", "en", "et", "fr", "de", "it", "pl", "ru", "es", "tr
 translator = Translator()
 
 
-class file_method():
-    def __init__(self):
-        self.scan = 0
+class file_method:
+    def __init__(self, source, destination, file_name, file_path):
+        self.bulk_counter = 0
+        self.source = source
+        self.destination = destination
+        self.file_name = file_name
+        self.file_path = file_path
 
-    def file_compatibility_check(path):
-        with open(str(path), "r", encoding="utf-8") as selectedfile:
-            selectedfile.seek(0)
-            lines = selectedfile.readlines()
+        # in-function variables
+        self.scan = 0
+        self.list_of_will_translate = ""  # string
+        self.bulk_of_will_translate = []  # list
+        self.translated_text = ""  # string
+        self.translated_text_list = []  # list
+
+    def file_compatibility_check(self):
+        with open(str(self.file_path), "r", encoding="utf-8") as selected_file:
+            selected_file.seek(0)
+            lines = selected_file.readlines()
             table_count = 0
             table_end_count = 0
             row_count = 0
@@ -58,10 +69,10 @@ class file_method():
         else:
             print("\nSTEP 1: File Compatibility Check Completed Successfully!")
 
-    def file_reorganization(path, file_name):
-        with open(str(main_path) + r"\temp_" + str(file_name), "w", encoding="utf-8") as temp_file:
+    def file_reorganization(self):
+        with open(str(main_path) + r"\temp_" + str(self.file_name), "w", encoding="utf-8") as temp_file:
             pass
-        with open(str(path), "r", encoding="utf-8") as original_file:
+        with open(str(self.file_path), "r", encoding="utf-8") as original_file:
             lines = original_file.readlines()
             text = ""
             for i in lines:
@@ -72,10 +83,10 @@ class file_method():
                 text = text.replace("&amp;", "[H4]")
                 text = text.replace("&nbsp;", "[H5]")
                 text = text.replace("nbsp;", "[H6]")
-                with open(str(main_path) + r"\temp_" + str(file_name), "a", encoding="utf-8") as temp_file:
+                with open(str(main_path) + r"\temp_" + str(self.file_name), "a", encoding="utf-8") as temp_file:
                     temp_file.writelines(text)
-        path = str(main_path) + r"\temp_" + str(file_name)
-        tree = ET.parse(str(path))
+        self.file_path = str(main_path) + r"\temp_" + str(self.file_name)
+        tree = ET.parse(str(self.file_path))
         root = tree.getroot()
         cell_list = []
         for row in root.iter(tag='Row'):
@@ -111,7 +122,7 @@ class file_method():
             sys.stdout.flush()
             i += 3
         connection.close()
-        os.remove(str(path))  # Deletes Temp XML File
+        os.remove(str(self.file_path))  # Deletes Temp XML File
         sys.stdout.write("\n")
         print("\nSTEP 2: Text Splitting and Transferring to Database Completed Successfully!")
 
@@ -123,10 +134,6 @@ class file_method():
         translate_list = cursor.fetchall()
         connection.close()
 
-        self.list_of_will_translate = ""  # string
-        self.bulk_of_will_translate = []  # list
-        total_scan_length = 0
-        self.bulk_counter = 0
         while self.scan < len(translate_list):
             if len(translate_list[self.scan][0]) > 10000:
                 print("Lines too big (>10000) to handle!")
@@ -142,17 +149,12 @@ class file_method():
             else:
                 self.bulk_of_will_translate.append(self.list_of_will_translate)
                 self.bulk_counter += 1
-                total_scan_length = 0
                 self.list_of_will_translate = ""
         self.list_of_will_translate = self.list_of_will_translate + '[' + str(self.scan) + ']'
         sys.stdout.write("\n")
         print("\nSTEP 3: Preparing For Translate Completed Successfully!")
 
-    def translate_them_all(self, source, destination):  # and in the darkness bind them.
-        src_lang = source
-        dest_lang = destination
-        self.translated_text = ""  # string
-        self.translated_text_list = []  # list
+    def translate_them_all(self):  # and in the darkness bind them.
         if self.bulk_counter > 0:
             print("-----Bulk Translation Will Be Done!-----")
             print("Estimated Translation Time Minimum= ", (self.bulk_counter * 100) // 60, " minutes!")
@@ -163,7 +165,8 @@ class file_method():
                 print(m, "/", self.bulk_counter + 1, "Bulk File Sending Google Server!")
                 try:
                     self.translated_text_list.append(
-                        translator.translate(self.bulk_of_will_translate[m - 1], src=src_lang, dest=dest_lang))
+                        translator.translate(self.bulk_of_will_translate[m - 1], src=self.source,
+                                             dest=self.destination))
                 except json.decoder.JSONDecodeError:
                     print("ERROR: Possible Google Ban or Character Error.")
                     with open(str(main_path) + r"\error_log.txt", "w") as log:
@@ -181,14 +184,15 @@ class file_method():
             if self.list_of_will_translate != "":
                 print(m, "/", self.bulk_counter + 1, "Bulk File Sending Servers!")
                 self.translated_text_list.append(
-                    translator.translate(self.list_of_will_translate, src=src_lang, dest=dest_lang))
+                    translator.translate(self.list_of_will_translate, src=self.source, dest=self.destination))
                 print(m, "/", self.bulk_counter + 1, "Translated Bulk File Retrieved!")
             else:
                 pass
             print("\nSTEP 4: Translation Completed Successfully!")
         else:
             print("-----One List Translation Will Be Done!-----")
-            self.translated_text = translator.translate(self.list_of_will_translate, src=src_lang, dest=dest_lang)
+            self.translated_text = translator.translate(self.list_of_will_translate, src=self.source,
+                                                        dest=self.destination)
             print("\nSTEP 4: Translation Completed Successfully!")
 
     def to_database(self):
@@ -218,7 +222,8 @@ class file_method():
                     text_for_database = all_translated_text[start_point + 9:end_point]
                 elif i < 10000000:
                     text_for_database = all_translated_text[start_point + 10:end_point]
-                cursor.execute("UPDATE cells SET text=? WHERE row=? AND cell='NEW TRANSLATION' ", (text_for_database, str(i + 1)))
+                cursor.execute("UPDATE cells SET text=? WHERE row=? AND cell='NEW TRANSLATION' ",
+                               (text_for_database, str(i + 1)))
                 connection.commit()
                 sys.stdout.write("\r")
                 sys.stdout.write("{} / {} Translated Lines Transferred to Database!".format(i, self.scan))
@@ -239,11 +244,9 @@ class file_method():
         connection.close()
         print("\nSTEP 5: Transferring Of Translated Lines To Database Completed Successfully!")
 
-    def create_new_file(self, destination, file):
-        dest_lang = destination
-        file_name = file
-        os.makedirs(str(main_path) + r"\Translated" + "\\" + str(dest_lang), exist_ok=True)
-        with open(str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(file_name), "w",
+    def create_new_file(self):
+        os.makedirs(str(main_path) + r"\Translated" + "\\" + str(self.destination), exist_ok=True)
+        with open(str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name), "w",
                   encoding="utf-8") as new_file:
             new_file.writelines("<Table>\n")
         connection = sqlite3.connect("database.db")
@@ -251,27 +254,26 @@ class file_method():
         i = 1
         while i <= self.scan:
             cursor.execute("SELECT text FROM cells WHERE row=? AND cell='ID'", (str(i),))
-            cell_ID = cursor.fetchall()
+            cell_id = cursor.fetchall()
             cursor.execute("SELECT text FROM cells WHERE row=? AND cell='ORIGINAL'", (str(i),))
-            cell_ORIGINAL = cursor.fetchall()
+            cell_original = cursor.fetchall()
             cursor.execute("SELECT text FROM cells WHERE row=? AND cell='NEW TRANSLATION'", (str(i),))
-            cell_OLD_TRANSLATION = cursor.fetchall()
-            cell_NEW_TRANSLATION = str(cell_OLD_TRANSLATION[0][0])[:-1]  # removes \n from last of lines
-            with open(str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(file_name), "a",
+            cell_old_translation = cursor.fetchall()
+            cell_new_translation = str(cell_old_translation[0][0])[:-1]  # removes \n from last of lines
+            with open(str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name), "a",
                       encoding="utf-8") as new_file:
-                new_file.writelines("<Row><Cell>" + str(cell_ID[0][0]) + "</Cell><Cell>" + str(
-                    cell_ORIGINAL[0][0]) + "</Cell><Cell>" + str(cell_NEW_TRANSLATION) + "</Cell></Row>\n")
+                new_file.writelines("<Row><Cell>" + str(cell_id[0][0]) + "</Cell><Cell>" + str(
+                    cell_original[0][0]) + "</Cell><Cell>" + str(cell_new_translation) + "</Cell></Row>\n")
             sys.stdout.write("\r")
             sys.stdout.write("{} / {} Lines Written!".format(i, self.scan))
             sys.stdout.flush()
             i += 1
-        with open(str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(file_name), "a",
+        with open(str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name), "a",
                   encoding="utf-8") as new_file:
             new_file.writelines("</Table>")
-        with open(str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(file_name), "r",
+        with open(str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name), "r",
                   encoding="utf-8") as no_edit_file:
             read_lines = no_edit_file.readlines()
-        text = ""
         text_list = []
         for line in read_lines:
             text = line
@@ -282,12 +284,13 @@ class file_method():
             text = text.replace("[H5]", "&nbsp;")
             text = text.replace("[H6]", "nbsp;")
             text_list.append(text)
-        with open(str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(file_name), "w",
+        with open(str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name), "w",
                   encoding="utf-8") as edit_file:
             edit_file.writelines(text_list)
         connection.close()
         os.remove(str(main_path) + r"\database.db")  # Deletes Database
         sys.stdout.write("\n")
         print("\nSTEP 6: New File Created!")
-        print("Please Look For This File: " + str(main_path) + r"\Translated" + "\\" + str(dest_lang) + "\\" + str(
-            file_name))
+        print(
+            "Please Look For This File: " + str(main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(
+                self.file_name))
