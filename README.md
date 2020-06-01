@@ -1,8 +1,8 @@
 # KCD-Auto-Translation
-<a href="https://github.com/necrospiritus/KCD-Auto-Translation/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/necrospiritus/KCD-Auto-Translation"></a>
-<a href="https://github.com/necrospiritus/KCD-Auto-Translation/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/necrospiritus/KCD-Auto-Translation"></a>
-<a href="https://github.com/necrospiritus/KCD-Auto-Translation/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/necrospiritus/KCD-Auto-Translation"></a>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/necrospiritus/KCD-Auto-Translation">
+[![GitHub issues](https://img.shields.io/github/issues/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/issues)
+[![GitHub stars](https://img.shields.io/github/stars/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/necrospiritus/KCD-Auto-Translation)
+[![GitHub license](https://img.shields.io/github/license/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/blob/master/LICENSE)
 
 This program sends localization .xml files of Kingdom Come Deliverance to Google Translate for auto translation.
 
