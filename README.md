@@ -1,8 +1,8 @@
 # KCD-Auto-Translation
-[![GitHub issues](https://img.shields.io/github/issues/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/issues)
-[![GitHub stars](https://img.shields.io/github/stars/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/stargazers)
-![GitHub repo size](https://img.shields.io/github/repo-size/necrospiritus/KCD-Auto-Translation)
-[![GitHub license](https://img.shields.io/github/license/necrospiritus/KCD-Auto-Translation)](https://github.com/necrospiritus/KCD-Auto-Translation/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/necrospiritus/KCD-Auto-Translation?style=plastic)](https://github.com/necrospiritus/KCD-Auto-Translation/issues)
+[![GitHub stars](https://img.shields.io/github/stars/necrospiritus/KCD-Auto-Translation?style=plastic)](https://github.com/necrospiritus/KCD-Auto-Translation/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/necrospiritus/KCD-Auto-Translation?style=plastic)
+![GitHub](https://img.shields.io/github/license/necrospiritus/KCD-Auto-Translation?style=plastic)
 
 This program sends localization .xml files of Kingdom Come Deliverance to Google Translate for auto translation.
 
