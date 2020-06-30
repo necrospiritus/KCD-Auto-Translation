@@ -8,7 +8,7 @@ This program sends localization .xml files of Kingdom Come Deliverance to Google
 
 ## Purpose
 
-There is two options for using this program:
+There are two options for using this program:
 
 1-You can auto-translate missing translation in available game languages.
 
