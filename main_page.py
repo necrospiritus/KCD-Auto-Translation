@@ -63,14 +63,14 @@ tr-Turkish  uk-Ukrainian
         file1 = file_method(source_language, destination_language, selected_file_name, selected_file_path)
 
         file1.file_compatibility_check()
-        file1.file_reorganization()
+        file1.add_placeholders()
         file1.xml_parsing()
         file1.xml_to_database()
         file1.prepare_for_translate()
         file1.translate_them_all()
         file1.to_database()
         file1.create_new_file()
-        file1.final_edits()
+        file1.remove_placeholders()
 
     elif key == "2":
         google_language_list = googletrans.LANGUAGES
@@ -137,14 +137,14 @@ tr-Turkish  uk-Ukrainian
         file1 = file_method(source_language, destination_language, selected_file_name, selected_file_path)
 
         file1.file_compatibility_check()
-        file1.file_reorganization()
+        file1.add_placeholders()
         file1.xml_parsing()
         file1.xml_to_database()
         file1.prepare_for_translate()
         file1.translate_them_all()
         file1.to_database()
         file1.create_new_file()
-        file1.final_edits()
+        file1.remove_placeholders()
 
     else:
         print("Invalid Operation...")
