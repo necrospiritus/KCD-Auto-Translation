@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 import time
 import sys
 import os
+import re
 
 
 class file_method:
@@ -18,6 +19,7 @@ class file_method:
         # in-function variables
         self.translator = Translator()
         self.main_path = pathlib.Path().absolute()  # Location of this file
+        self.placeholder_storage = []  # Storage array for placeholders
         self.scan = 0
         self.bulk_counter = 0
         self.cell_list = []
@@ -65,23 +67,41 @@ class file_method:
         else:
             print("\nSTEP 1: File Compatibility Check Completed Successfully!")
 
-    def file_reorganization(self):
+    def add_placeholders(self):
         with open(str(self.main_path) + r"\temp_" + str(self.file_name), "w", encoding="utf-8") as temp_file:
             pass
         with open(str(self.file_path), "r", encoding="utf-8") as original_file:
             lines = original_file.readlines()
             for i in lines:
+                # Creating placeholders for every unique code in a line
                 text = i
-                text = text.replace('&lt;br/&gt;', '[H1]')
-                text = text.replace('&lt;', '[H2]')
-                text = text.replace("&gt;", "[H3]")
-                text = text.replace("&amp;", "[H4]")
-                text = text.replace("&nbsp;", "[H5]")
-                text = text.replace("nbsp;", "[H6]")
-                text = text.replace("br/", "[H7]")
+                text = text.replace('&amp;nbsp;', '[H]')
+
+                find_result = re.findall("&amp;lt;.*?&amp;gt;", text)
+                if find_result:
+                    for j in find_result:
+                        if j not in self.placeholder_storage:
+                            self.placeholder_storage.append(j)
+                find_result = re.findall("&lt;[^;]+&gt;", text)
+                if find_result:
+                    for j in find_result:
+                        if j not in self.placeholder_storage:
+                            self.placeholder_storage.append(j)
+                find_result = re.findall(r"\$[^;]+;", text)
+                if find_result:
+                    for j in find_result:
+                        if j not in self.placeholder_storage:
+                            self.placeholder_storage.append(j)
+                # Importing placeholders to line
+                k = 0
+                while k < len(self.placeholder_storage):
+                    text = text.replace(self.placeholder_storage[k], "[H" + str(k) + "]")
+                    k += 1
                 with open(str(self.main_path) + r"\temp_" + str(self.file_name), "a", encoding="utf-8") as temp_file:
                     temp_file.writelines(text)
         self.file_path = str(self.main_path) + r"\temp_" + str(self.file_name)
+        sys.stdout.write("\n")
+        print("\nAdding Placeholders Completed Successfully!")
 
     def xml_parsing(self):
         tree = ET.parse(str(self.file_path))
@@ -214,7 +234,7 @@ class file_method:
             for i in self.translated_text_list:
                 all_translated_text = all_translated_text + i.text + "\n"
             i = 0
-            while i <= self.scan-1:
+            while i <= self.scan - 1:
                 s_holder = '[' + str(i) + ']'
                 e_holder = '[' + str(i + 1) + ']'
                 start_point = all_translated_text.find(s_holder)
@@ -237,7 +257,7 @@ class file_method:
 
                 if text_for_database == "":
                     self.database.cursor.execute("SELECT text FROM cells WHERE row=? AND cell='TRANSLATE' ",
-                                                 (str(i + 1), ))
+                                                 (str(i + 1),))
                     already_translated = self.database.cursor.fetchall()
                     self.database.cursor.execute("UPDATE cells SET text=? WHERE row=? AND cell='NEW TRANSLATION' ",
                                                  (str(already_translated[0][0]), str(i + 1)))
@@ -261,7 +281,7 @@ class file_method:
 
                 if text_for_database == "":
                     self.database.cursor.execute("SELECT text FROM cells WHERE row=? AND cell='TRANSLATE' ",
-                                                 (str(i + 1), ))
+                                                 (str(i + 1),))
                     already_translated = self.database.cursor.fetchall()
                     self.database.cursor.execute("UPDATE cells SET text=? WHERE row=? AND cell='NEW TRANSLATION' ",
                                                  (str(already_translated[0][0]), str(i + 1)))
@@ -303,20 +323,18 @@ class file_method:
         self.database.close_database()
         os.remove(str(self.main_path) + r"\database.db")  # Deletes Database
 
-    def final_edits(self):
+    def remove_placeholders(self):
         with open(str(self.main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name),
                   "r", encoding="utf-8") as no_edit_file:
             read_lines = no_edit_file.readlines()
         text_list = []
         for line in read_lines:
             text = line
-            text = text.replace("[H1]", '&lt;br/&gt;')
-            text = text.replace("[H2]", '&lt;')
-            text = text.replace("[H3]", "&gt;")
-            text = text.replace("[H4]", "&amp;")
-            text = text.replace("[H5]", "&nbsp;")
-            text = text.replace("[H6]", "nbsp;")
-            text = text.replace("[H7]", "br/")
+            text = text.replace('[H]', '&amp;nbsp;')
+            i = 0
+            while i < len(self.placeholder_storage):
+                text = text.replace("[H" + str(i) + "]", str(self.placeholder_storage[i]))
+                i += 1
             text_list.append(text)
         with open(str(self.main_path) + r"\Translated" + "\\" + str(self.destination) + "\\" + str(self.file_name),
                   "w", encoding="utf-8") as edit_file:
