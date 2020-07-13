@@ -29,7 +29,7 @@ tr-**Turkish**
 uk-**Ukrainian**
 
 ## Algorithm of the Program
-
+[Algorithm of the Program](/Readme.png)
 Program runs in six steps.
 
 **STEP 1**: Checks File Compatibility
