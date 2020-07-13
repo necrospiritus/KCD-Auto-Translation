@@ -30,43 +30,7 @@ uk-**Ukrainian**
 
 ## Algorithm of the Program
 ![GitHub](https://github.com/necrospiritus/KCD-Auto-Translation/blob/enhancement/Readme.png)
-Program runs in six steps.
 
-**STEP 1**: Checks File Compatibility
-
-Basicly counts begining and ending of elements and compares with each other. XML structure: 
-	
-	<Table>
-		<Row>
-			<Cell>text id</Cell>
-			<Cell>original english text</Cell>
-			<Cell>original transleted text</Cell>
-		</Row>
-	</Table>
-
-**STEP 2**: Parsing XMl file and transferring texts in 'Cell' element to Database.
-	Database structure:
-	|row|cell|text|
-|--- |--- |--- |
-|1|ID|text id|
-|1|ORIGINAL|original english text|
-|1|TRANSLATE|original transleted text|
-|1|NEW TRANSLATION|auto-transleted text|
-|2|ID|ui_nh_res_stone|
-|2|ORIGINAL|Stone|
-|2|TRANSLATE|Stone|
-|2|NEW TRANSLATION|Taş|
-|...|...|...|
-
-**STEP 3**: Preparing For Translate
-
-Each texts collects in pieces of 10k characters with using of string or list variables depending on purpose.
-
-**STEP 4**: Transferring text to Google and retrieving translated texts.
-
-**STEP 5**: Adding translated texts to database.
-
-**STEP 6**: Creating a new XML file.
 ## Requirement
 
 google-trans = https://github.com/ssut/py-googletrans
